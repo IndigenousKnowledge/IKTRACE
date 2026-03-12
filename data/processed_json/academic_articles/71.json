@@ -1,0 +1,356 @@
+[
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 1,
+    "paragraph_number": 5,
+    "text": "populations are particularly vulnerable to extinction due to demographic stochasticity, reduced genetic variation and inbreeding depression1\u20134. Inbreeding (mating between relatives) in small populations can lead to decreased individual fitness and population growth rate, owing to the expression of deleterious recessive alleles and increased homozygosity at loci with heterozygous advantage3,5. While inbreeding depression has long interested biologists, its strength and genetic basis in the wild are still not well understood6,7. A major challenge has been accurately measuring individual inbreeding in natural populations. Individual inbreeding has classically been estimated with the pedigree inbreeding coefficient (FP) for an individual using path analysis on a known pedigree3,8,9. FP predicts F, the fraction of an individual\u2019s genome that is identical-by-descent (IBD), assuming that the pedigree founders and any subsequent immigrants are non-inbred and unrelated. However, not only are the necessary multi-generation pedigrees difficult to obtain for most natural populations10,11, but FP often imprecisely measures F because of the stochastic effects of Mendelian segregation and linkage7,12\u201317. An alternative approach is to measure individual inbreeding indirectly using genetic markers to estimate multi-locus heterozygosity (MLH)18\u201321, as the major effect of inbreeding is to reduce the genome-wide heterozygosity of the offspring5. This reduction occurs because related parents pass on IBD chromosome segments that arise from a single chromosome copy in a shared ancestor, with these segments characterized by long stretches of homozygous genotypes (that is, runs of homozygosity (ROH))7. MLH and similar statistics have the advantage of not requiring a pedigree, but suffer from low precision when using few loci21\u201324."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 1,
+    "paragraph_number": 8,
+    "text": "High-throughput sequencing technologies can make it possible to measure genome-wide heterozygosity using thousands of genetic markers25\u201328. Importantly, whole-genome resequencing in species with high-quality genome assemblies should facilitate the identification of IBD chromosome segments as ROH, allowing the measurement of F as the fraction of the genome in long ROH (FROH) with very little error29. Additionally, whole-genome resequencing of many individuals from natural populations where high-quality pedigrees are available would allow rigorous empirical evaluation of how well FP, MLH and FROH based on a smaller number of loci perform as estimators of F. Here, we resequenced 97 genomes sampled from a semi-isolated and bottlenecked wolf population in Scandinavia. This population is of high conservation concern and has been subject to long-term studies of inbreeding, inbreeding depression and genetic rescue30\u201334. Importantly, the population represents a rare example of having a nearly complete pedigree available30. First, we sought to identify IBD chromosome segments and quantify F among individuals in the population. Second, we evaluated the statistical performance of FP, MLH and FROH as measures of F. Finally, we searched for regions of the genome that may harbour alleles with large phenotypic effects contributing to inbreeding depression by scanning for chromosome segments where ROH were exceptionally rare or absent."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 1,
+    "paragraph_number": 9,
+    "text": "Results Study population, pedigree and whole-genome resequencing. After a long period of population decline, wolves became functionally extinct from the Scandinavian Peninsula in the 1960s\u20131970s35. The contemporary Scandinavian wolf population was founded by Genomic consequences of intensive inbreeding in an isolated wolf population Marty Kardos1,2, Mikael \u00c5kesson3, Toby Fountain 1, \u00d8ystein Flagstad4, Olof Liberg3, Pall Olason5, H\u00e5kan Sand3, Petter Wabakken6, Camilla Wikenros 3 and Hans Ellegren 1* Inbreeding (mating between relatives) is a major concern for conservation as it decreases individual fitness and can increase the risk of population extinction. We used whole-genome resequencing of 97 grey wolves (Canis lupus) from the highly inbred Scandinavian wolf population to identify \u2018identical-by-descent\u2019 (IBD) chromosome segments as runs of homozygosity (ROH). This gave the high resolution required to precisely measure realized inbreeding as the IBD fraction of the genome in ROH (FROH). We found a striking pattern of complete or near-complete homozygosity of entire chromosomes in many individuals. The majority of individual inbreeding was due to long IBD segments (>\u200b5 cM) originating from ancestors \u2264\u200b10 generations ago, with 10 genomic regions showing very few ROH and forming candidate regions for containing loci contributing strongly to inbreeding depression. Inbreeding estimated with an extensive pedigree (FP) was strongly correlated with realized inbreeding measured with the entire genome (r2 =\u200b 0.86). However, inbreeding measured with the whole genome was more strongly correlated with multi-locus heterozygosity estimated with as few as 500 single nucleotide polymorphisms, and with FROH estimated with as few as 10,000 single nucleotide polymorphisms, than with FP. These results document in fine detail the genomic consequences of intensive inbreeding in a population of conservation concern."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 1,
+    "paragraph_number": 13,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. two individuals in the early 1980s33,36 and is characterized by prolonged periods of isolation with only rare reproductively successful immigrants30,37. We sampled 97 wolves from Scandinavia between 1977 and 2015, including 12 immigrants of which 5 were founders of the population. These individuals were chosen to represent the range of observed FP values in the population, which were derived from a pedigree extending back to the first breeding event in 1983 (ref. 34). FP ranged from 0.00 (for 12 immigrants and 19 Scandinavian-born offspring to immigrant founders) to 0.49 for three Scandinavianborn siblings sampled after the population had experienced a prolonged period of isolation. The number of generations of pedigree known for each individual is given in Supplementary Table 1. We performed whole-genome resequencing of all wolves at a mean sequence read depth of 27.4 (s.d. After variant calling, we performed single nucleotide polymorphism (SNP) filtering based on genotype qualities, read depth, deviation from Hardy\u2013Weinberg genotype proportions, missing data and minor allele frequency (see Methods). The mean minor allele frequency was 0.17 at 10,688,886 SNPs remaining before filtering based on allele frequency. After filtering based on allele frequency, the mean minor allele frequency was 0.26 (s.d. Given that almost 100 individuals were sequenced, the number of detected variants is low for a large mammalian genome. However, low genetic diversity is expected given the small population size and limited number of founders. Moreover, the nucleotide diversity estimated from the 12 immigrants was 0.001, which is in the lower end of what has been reported among other vertebrates."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 2,
+    "paragraph_number": 4,
+    "text": "We identified ROH (putative IBD chromosome segments) in the whole-genome resequencing data using a likelihood ratio- based sliding window method that accounts for SNP allele frequencies and sequencing errors29,38. We detected a total of 269,309 ROH among the 97 wolves, ranging from 0 to 76.6 cM in genetic map length and from 2,695 bp to 95.8 Mb in physical length (Fig. 1 and Supplementary Fig. 1). Describing ROH by genetic map length is motivated by the fact that recombination determines the size of IBD segments. Additionally, our theoretical understanding of the expected lengths of ROH, and of the variance of F around pedigree expectations, is in terms of ROH genetic map lengths12,17,39. The choice of using physical versus genetic mapping coordinates of ROH had nearly no effect on genomic estimates of inbreeding (Supplementary Fig. 2). Notably, many individuals had ROH spanning either entire or nearly entire chromosomes, giving extreme patterns with a complete lack of heterozygosity over large parts of the genome (Figs. 2 and 3 and Supplementary Data). Although there were many strikingly large ROH (Figs. 2 and 3), most were very short. Specifically, more than 50% of ROH were less than 0.02 cM long (Fig. 1) and these represent IBD segments that generally arise from ancestors in deep history. We estimated the number of generations (g) back to the common ancestor of the two homologous sequence copies for each ROH based on its map length. The very short ROH (\u2264\u200b0.02 cM long) are expected to arise on average from ancestors \u2265\u200b 2,500 generations ago (that is, g =\u200b 2,500 for 0.02 cM ROH; see Methods); 2,500 generations corresponds to 10,000 years assuming a four year generation interval for wolves. Yet, the highly abundant, short ROH contributed little to the total IBD. For example, segments shorter than 0.02 cM represented only 1.3% of all IBD chromosome regions in the 97 wolves (Fig. 1 and Supplementary Data). In contrast, the less frequent but very long ROH arising from recent ancestors accounted for the majority of the total IBD sequence."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 2,
+    "paragraph_number": 6,
+    "text": "Genomic measures of inbreeding. We measured individual inbreeding as the proportion of the genome that was in ROH (FROH) identified in the whole-genome resequencing data. FROH is an estimator of the realized IBD fraction of the genome and was obtained using only long ROH (that is, ROH with small g values). We conducted separate analyses using different maximum values of g (10, 25, 50 and 100 generations) for the ROH included in estimates of FROH. This ensured that we measured inbreeding due to recent ancestors while also allowing us to evaluate the sensitivity of the results to different maximum values of g. Including very short ROH would have meant that FROH captured inbreeding due to distant ancestors, which is less likely to be important to inbreeding depression because at least some deleterious alleles are expected to be purged over long time spans38,40. There was a large range of FROH in the population. FROH measured using ROH with g \u2264\u200b 10 ranged from 0.01 to 0.54 (mean =\u200b 0.27, variance (\u03c32) =\u200b 0.02) among Scandinavian-born wolves (Fig. 4 and Supplementary Fig. 3). Unexpectedly, FROH of immigrants ranged from 0.01 to 0.15 (mean =\u200b 0.045, \u03c32 =\u200b 0.022) (Supplementary Fig. This demonstrates that some immigrants had relatively high inbreeding (the expected F of offspring from half-sibling mating is 0.125). For example, two immigrants that appeared in northern Sweden in 2013 and were translocated by management authorities to the wolf breeding range in southern Sweden were both inbred (FROH =\u200b 0.10 and 0.15, respectively). These translocated immigrants bred with each other the same year and were clearly closely related since two of their offspring that were sequenced had FROH =\u200b 0.26 and 0.24, respectively (suggesting that their parents were related at approximately the level of full siblings). Excluding these two related individuals, the mean FROH of immigrants was 0.029 (\u03c32 =\u200b 0.028). Emigration from a small peripheral wolf population in Russia or Finland may explain the non-zero inbreeding of immigrants into Scandinavia. The non-zero FROH of immigrants is counter to the assumptions of unrelated and non-inbred founders and immigrants in standard Fig. 1 | Length distribution of ROH identified in 97 Scandinavian wolf genomes. a, Shorter than 0.5 cM. b, 0.5 cM or longer. The blue points show the cumulative contribution of ROH of different lengths to the total length of IBD regions (right vertical axis). Note that a and b have different ranges on the y axis."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 2,
+    "paragraph_number": 41,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. pedigree analyses of inbreeding. Related pedigree founders mean that FP fails to capture all of the inbreeding that is due to recent common ancestors of parents not included in the pedigree. Having inbred founders also means that FP fails to capture inbreeding due to IBD segments in the founders. We used MLH as a second genomic measure of individual inbreeding. MLH estimates the realized fraction of heterozygous SNPs across the genome (H) and is related to F according to the expression H =\u200b H0(1\u2013F), where H0 is the genome-wide heterozygosity of a hypothetical non-inbred individual7,41. MLH was strongly correlated with FROH (r2 =\u200b 0.91) (Supplementary Fig. A perfect correlation between FROH and MLH is not expected because FROH accounts only for IBD segments that are detected; the very shortest IBD segments arising from ancestors in deep history are likely to go undetected because they contain too few SNPs to reliably differentiate from non-IBD29. Unlike FROH, MLH captures variation in F due to all IBD segments, arising from recent ancestors as well as the most distant ancestors."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 3,
+    "paragraph_number": 5,
+    "text": "Performance of FP and molecular measures of individual inbreeding. We used linear regression to evaluate the statistical performance of FP, FROH and MLH as predictors of realized individual inbreeding. FROH measured with the whole genome is equivalent to F and the same applies to MLH with respect to H. FP was strongly correlated (r2 =\u200b 0.86\u20130.87) with FROH (Fig. 4). The linear regression of FP versus FROH had a slope of 1.0 and an intercept of \u20130.03 when FROH was measured with only the longest ROH (g \u2264\u200b 10). The negative intercept shows that FP was a downwardly biased measure of FROH and the slope of 1.0 shows that the size of the downward bias was constant on average across the range of observed FROH values (Fig. 4). The correlations between FP and FROH were only slightly weaker (r2 =\u200b 0.83 to 0.84), and the slopes and intercepts were unchanged when immigrants were excluded from this analysis (Supplementary Fig. 5). The choice of a maximum value of g for the ROH included in the measurement of FROH did not substantively affect the correlation between FP and FROH, but the magnitude of the downward bias in FP increased with higher values of the threshold of g (Fig. 4). This makes sense as FROH calculated using ROH with larger values of g captures inbreeding due to more distant ancestors. The high variation in FROH among individuals with FP =\u200b 0 weakened the precision of FP. Specifically, a combination of some highly inbred individuals and individuals with FROH near zero clearly decreased the variance in FROH explained by FP (Fig. 4). FP is likely to have higher precision in populations with less variation in FROH among founders and immigrants. An obvious strength of genomic measures of individual inbreeding is that they do not require making a priori assumptions regarding the inbreeding or relatedness of any individuals."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 3,
+    "paragraph_number": 6,
+    "text": "FROH = 0.01 FROH = 0.01 FROH = 0.01 FROH = 0.02 FROH = 0.02 FROH = 0.02 FROH = 0.03 FROH = 0.03 FROH = 0.12 FROH = 0.15 FROH = 0.02 FROH = 0.04 FROH = 0.29 FROH = 0.31 FROH = 0.31 FROH = 0.34 FROH = 0.41 FROH = 0.43 FROH = 0.49 FROH = 0.53 FROH = 0.54 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 353738 Chromosome Fig. 2 | Heterozygosity across the 38 autosomes of 21 Scandinavian wolves. Heterozygosity was measured in non-overlapping 100-kb windows as the proportion of SNPs within each window that were heterozygous in the individual. The y axis ranges from zero to one for each individual. The top 10 individuals are immigrants into the population, followed by 11 Scandinavian-born individuals. The bottom individual is the most highly inbred wolf in the study. Chromosomes 1\u201338 are arranged left to right, with alternating blue and orange representing different chromosomes. Detailed plots of heterozygosity and identified ROH are provided for each chromosome in each of the 97 individuals in Supplementary Data."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 3,
+    "paragraph_number": 16,
+    "text": "| Heterozygosity across chromosomes 10\u201314 in two full siblings and their parents. The black lines show long ROH (>\u200b100 kb) identified with the likelihood ratio-based sliding window approach."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 3,
+    "paragraph_number": 17,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 4,
+    "paragraph_number": 3,
+    "text": "The relatively high precision of FP as a measure of individual inbreeding observed here (compared with previous simulation results27) is expected. Theoretical and simulation-based investigations have shown that the precision of FP as a measure of F depends strongly on the number of chromosomes, recombination rate and distribution of recombination events across the genome5,12,14,16,39. Canids have a large number of chromosomes (38 autosomes). Thus, FP is expected to be more precise in wolves compared with species with fewer chromosomes as long as pedigrees are deep and complete enough to capture the great majority of recent common ancestors of parents. The high variance in individual inbreeding in this study also must have contributed to the high r2 from a regression of FP versus FROH. We sampled from throughout the range of FP values observed in the population, which resulted in a higher variance in FP among the selected wolves (\u03c32 =\u200b 0.026) relative to the population as a whole (\u03c32 =\u200b 0.006). This is expected to have increased the correlation of realized genomic inbreeding with FP and the molecular inbreeding measures based on subsampled SNPs in the sampled wolves compared with the population as a whole. All else equal, a lower correlation of F with FP and molecular measures of inbreeding is expected in populations with lower variance in F (refs 24,42)."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 4,
+    "paragraph_number": 4,
+    "text": "Performance of MLH as a measure of individual inbreeding. To evaluate the precision of MLH as a measure of H, we randomly subsampled between 50 and 20,000 SNPs from the genome. For each subsampled set of loci, a linear regression model with MLH measured from the subsampled loci was fitted as the response variable and MLH measured with the whole genome as the predictor variable. We then used r2 from these regression models as a measure of the precision of MLH. To ensure that the subsamples were drawn as independently as possible from the genome, no locus was used in more than one of the 100 subsamples for each number of loci analysed. The mean r2 between MLH based on subsampled loci and MLH from the whole genome was 0.88 when 500 SNPs were used, and \u2265\u200b 0.94 when 1,000 or more SNPs were used (Fig. 5). MLH and other measures of individual inbreeding are expected to have high precision when the variance in F is as high as it was in this study22. The correlation between MLH based on subsampled loci and MLH measured with the whole genome matches theoretical expectations remarkably well. For example, the expected correlation between MLH (estimated with 500 loci) and realized genome-wide heterozygosity is 0.87 according to the analytical results of Miller et al.22, which is very close to the observed r2 of 0.88. This is highly encouraging for studies of natural populations where pedigrees, mapped loci and large-scale SNP genotyping arrays or whole-genome resequencing data are unavailable. This is also empirical evidence that individual inbreeding can be more precisely measured with a modest number of molecular markers than with pedigrees14,27."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 4,
+    "paragraph_number": 6,
+    "text": "Performance of FROH as a measure of individual inbreeding. We used the same subsampling and regression approach applied above for MLH to evaluate the performance of FROH. However, for FROH, we used subsamples of 10,000 SNPs and larger, and the predictor 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.0 0.1 0.2 0.3 0.4 0.5 0.6 Fig. 4 | Relationship between FP and FROH measured with the whole genome in Scandinavian wolves. FP is shown on the y axes. FROH was measured using ROH arising from relatively recent ancestors (g \u2264\u200b 10\u2013100 generations) and is shown on the x axes. Immigrants are shown as orange points and Scandinavian-born individuals are shown as blue points. The dashed line has an intercept of zero and a slope of one. Points below the line thus represent cases in which FP underestimated FROH. The solid line is the fitted line from a regression of FP versus FROH."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 4,
+    "paragraph_number": 49,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. variable in the regression models was FROH measured with the whole genome. FROH estimated with as few as 10,000 SNPs was strongly correlated with FROH estimated with the whole genome ( mean r2 =\u200b 0.97 (s.d. =\u200b 0.003) among 100 replicates; Supplementary Fig. FROH estimated with subsampled SNPs was slightly upwardly biased (Supplementary Fig. 7). This bias was probably caused by overestimating the length of real IBD segments or by incorrectly calling ROH where no true IBD segment existed when using relatively few loci. We therefore urge caution when interpreting results of ROH analyses (for example, for estimating individual inbreeding or mapping loci responsible for inbreeding depression) when only tens of thousands of loci are used."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 5,
+    "paragraph_number": 4,
+    "text": "Detecting genomic regions that may contribute to inbreeding depression. Alleles that strongly reduce fitness when homozygous (that is, either strongly deleterious recessive or overdominant alleles) are likely to cause ROH to be absent or exceptionally rare in the local chromosomal vicinity7,43,44. We quantified the abundance of ROH with values of g \u2264\u200b 50 in non-overlapping 100-kb windows across all 38 autosomes and used a permutation approach to test for regions with a lower-than-expected abundance of ROH given a random distribution of ROH across the genome (see Methods for details). Ten such regions were found on chromosomes 3, 11, 14, 16, 20, 21 and 22 (Fig. 6 and Supplementary Table 2). Thus, it appears that several genomic regions probably contained loci with strong enough deleterious fitness effects when homozygous to substantially reduce the frequency of individuals carrying IBD segments in these regions. As in many types of genomic analysis, it is possible that technical artefacts, such as genome assembly errors or incorrectly mapped sequence reads, could have contributed to some of the regions with low ROH abundance. These genomic regions should therefore be analysed in further detail, including genotyping or sequencing of larger population samples."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 5,
+    "paragraph_number": 5,
+    "text": "Discussion This study illustrates the power of genome resequencing to record the genomic consequences of inbreeding in a population of conservation concern. The combination of a huge number of SNPs resulting from the whole-genome resequencing of 97 individuals and a high-quality genome assembly enabled us to precisely delineate IBD chromosome segments as ROH, to quantify realized genomic inbreeding and to identify genomic regions that probably contributed substantially to inbreeding depression in this vulnerable population of Scandinavian wolves. In many individuals, the signatures of inbreeding were remarkably visible, as entire or nearly entire chromosomes were completely homozygous (Figs. 2 and 3). Our results demonstrate that the vast majority of IBD segments in a recently bottlenecked population are actually very short and originate from common ancestors in the distant past. However, quantitatively, these short IBD segments contributed little to the individual FROH, which was primarily governed by more limited numbers of very long segments resulting from common ancestors of parents fewer than ten generations ago. Still, while FP correlated well with FROH over a range of time spans to common ancestors, it became an increasingly downward biased estimator of FROH as older IBD segments were taken into account. Our results also provide empirical evidence based on large-scale whole-genome resequencing that inbreeding is better measured with molecular genetic data than with FP estimated from an extensive pedigree. While several previous studies have assessed correlations among molecular measures of inbreeding and Fp 25,26,28,45,46, none has rigorously evaluated the performance of Fp and molecular measures of inbreeding because the true realized genomic inbreeding was unknown7. FP has been the standard measure of individual inbreeding for decades10. While pedigrees are clearly still useful for estimating inbreeding (for example, in species with many chromosomes12) and for many other purposes10, molecular measures of F are more powerful as they account for related and inbred pedigree founders and immigrants, as well as the stochastic effects of linkage and Mendelian segregation. Additionally, molecular approaches allow the mapping of loci contributing to inbreeding depression5,44. An interesting question that arises from our observations and that should be investigated further is the overall phenotypic consequences of individuals within a population being IBD for different haplotypes of very large chromosome segments. One might expect that this will disclose \u2018hidden\u2019 phenotypic variation encoded by rare variants or variation that is otherwise rarely seen due to dominance effects. The demonstration of inbreeding and relatedness among immigrants has important implications for population viability and the design of management programmes. In the case of the Scandinavian wolf population, having inbred and related immigrants means that animals are on average more inbred than it appears based on pedigree information alone (Fig. 4). This emphasizes the importance of immigration into the population to limit inbreeding and inbreeding depression. It also highlights the importance of taking the genetic status (that is, the degree of inbreeding and relatedness arising from a finite population size and population fragmentation) of a larger metapopulation into account. Importantly, a similar situation may apply to many other species of conservation concern where a fragmented population structure increases the likelihood for inbreeding and close relatedness among immigrants26. Identifying regions of the genome with an exceptionally low abundance of ROH is an important step towards understanding the genetic basis of inbreeding depression in Scandinavian wolves. These genomic regions are likely to contain loci with overdominant or deleterious recessive alleles strongly contributing to inbreeding depression. Future mapping studies could be used to directly test for phenotypic effects of IBD in these regions. Ascertaining the loci underlying inbreeding depression and the magnitude of their phenotypic effects is crucial to advancing our understanding of the genetic basis of inbreeding depression and the potential for purging to lessen the genetic load. r2 (MLH based on subsampled loci versus MLH measured with the whole genome) Fig. 5 | r2 from regressions of MLH estimated with subsampled SNPs versus MLH calculated from the entire genome. The number of subsampled loci used to estimate MLH is shown on the x axis. The black points represent the mean r2 from analyses of 100 replicate subsamples of SNPs (\u00b1\u200b 1 s.d.). The dashed line represents the r2 between the pedigree inbreeding coefficient and F. Note that the x axis is not scaled."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 5,
+    "paragraph_number": 21,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 3,
+    "text": "Methods Study population and DNA samples. As in many other parts of the world47, the wolf experienced a significant population decline in Scandinavia during the past few centuries. Once common and spread over the entire Scandinavian peninsula, hunting and persecution eventually led to the functional extinction of wolves in the 1960s\u20131970s35. The closest surviving populations were found in eastern Finland (where it was rare) and western Russia. The Scandinavian population was subsequently re-established in the early 1980s by a single mating pair that was likely to have had an eastern origin32,36. The founder female was killed in 1985 and the founding male disappeared one year later. Subsequent breeding from 1987 to 1990 consisted of successive mating between siblings and parent\u2013offspring pairs, resulting in severe inbreeding30,33,34. A third (male) founder immigrated and reproduced in the population in 1991\u20131993, but no further successful immigration occurred until 2008, after which five reproductively successful immigrants entered Scandinavia from the Finnish\u2013Russian population30,36,48. Before the arrival of the third founder, there was only one reproducing pack and probably no more than ten wolves in the population. The immigrant male in 1991 had very high reproductive success and the population subsequently grew to around 365 (estimated range 300\u2013443) by the winter season of 2014\u20132015 (ref. 49)."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 4,
+    "text": "Parentage assignment and pedigree construction. To determine parental identities, we used a two-step process based on the variation at 19\u201336 microsatellite loci (see \u00c5kesson et al.30) and field observations (Liberg et al.34 and \u00c5kesson et al.30). First, parents were determined by genetic exclusion of putative parental pairs (that is, a pair of identified individuals that were known to have scent-marked in the same territory). If all putative parental pairs could be excluded assuming no more than two Mendelian mismatches, we used parental assignment in Cervus version 3.050 using the entire database of individuals identified between 1983 and 2016. The genealogy of >\u200b 99% of the breeding individuals in the population could be reconstructed. For a more detailed description of the reconstruction of the pedigree, see \u00c5kesson et al.30."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 5,
+    "text": "Sample collection and DNA extraction. We selected 97 DNA samples collected invasively from live caught (blood or skin tissue) or dead (tissue) wolves in Scandinavia. The capture, handling and collaring of wolves31 were in accordance with ethical requirements and had been approved by the Swedish Animal Welfare Agency (permit number: C 281/6) and the Norwegian Experimental Animal Ethics Committee (permit number: 2014/284738-1). The individuals used in the study were chosen based on a sampling scheme consisting of (1) all wolves sampled before 1991 and (2) wolves distributed in predefined individual categories (Supplementary Table 1) representing five inbreeding classes (0 \u2264\u200b FP <\u200b 0.3, 0.3 \u2264\u200b FP <\u200b 0.4 and 0.4 \u2264\u200b FP <\u200b 0.5) and three temporal classes (sampling year periods 1991\u20131998, 1999\u20132006 and 2007\u20132014). The representation from each category varied depending on the availability of individuals. Genomic DNA from tissue and blood was isolated using standard phenol/chloroform\u2013isoamylalcohol extraction and the precipitate was solved in 20\u2013100 \u03bc\u200bl distilled water."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 7,
+    "text": "Whole-genome resequencing and variant calling and filtering. Library construction and 150 base pair paired-end sequencing was performed on an Illumina HiSeqX following standard procedures. Sequencing reads were mapped to the dog genome build CanFam3.1 using Burrows\u2013Wheeler Aligner (BWA) version 0.7.13 (ref. The resulting BAM files were sorted using SAMtools version 1.3 (ref. 52) duplicate marked using Picard version 1.118 (http://broadinstitute.github. io/picard/) and locally realigned around indels using GATK version 3.3.0 (refs 53,54). Read information was updated in the BAM files with Picard FixMateInformation. A first round of variant calling was performed with GATK HaplotypeCaller and the whole cohort was genotyped using GATK GenotypeGVCFs. The resulting variant list was filtered for low-quality variants with low allele frequency using BCFtools version 1.3 (http://samtools.github.io/bcftools/) (filtering criteria: The variants passing this filter were used as a true positive set of variant sites for base quality core recalibration, performed with GATK. Variant calling was repeated for the recalibrated BAM files and then the whole cohort was re-genotyped using GATK. We applied several SNP filters to ensure high quality of the data. First, all triallelic loci, loci with only heterozygous or only homozygous genotypes and loci with a mean read depth (among all 97 individuals) of less than 10 or greater than 52 (twice the mean sequence read depth genome-wide) were removed. Second, genotypes with Phred-scaled genotype quality scores of less than 20 and loci that had missing genotypes in >\u200b 15 individuals were discarded. We then removed loci for which the P value was <\u200b 0.001 in a test for an excess of heterozygotes relative to Hardy\u2013Weinberg genotype proportions using the --hardy function in VCFtools53. Finally, we retained only loci with a minor allele frequency \u2265\u200b 0.05. The heterozygote excess and read depth filters were successful at removing SNPs in regions with poor read mapping (Supplementary Figs. 8 and 9)."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 8,
+    "text": "Inferring SNP linkage map positions. The genetic map position (in cM) of each SNP in the wolf whole-genome resequencing data were inferred from a recent sex-averaged high-density domestic dog linkage map55. This was done by first identifying the closest upstream and downstream SNP included in the dog map. We then interpolated the genetic position of the focal SNP while assuming that the recombination rate was constant between the two flanking linkage-mapped SNPs29."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 9,
+    "text": "Quantifying individual inbreeding. The pedigree was determined using parentage information derived from field observations and microsatellite-based parentage assignments, as described previously30,34. FP was calculated using CFC version 1.0 software56. To estimate FROH, we identified ROH using a likelihood ratio method17,29,38. First, we split each chromosome into sliding windows that each included 100 adjacent SNPs using a step size of 10 SNPs. For each 100 SNP window, i, and individual, j, we calculated the probability (Pr) of the genotype at each SNP 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 Fig. 6 | Density of ROH and P values from permutation tests for regions showing a deficit of ROH. a, Density of ROH versus genomic position. b, \u2013log10 of P values from permutation tests for a deficit of ROH abundance in non-overlapping 100-kb windows. Chromosomes are arranged 1\u201338 from left to right. ROH density was measured as the summed kb in ROH across all individuals divided by the window length. The horizontal dashed line in b represents the Bonferroni corrected threshold of statistical significance."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 6,
+    "paragraph_number": 30,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. k (Gk) assuming the SNP was IBD, and separately assuming the SNP was non-IBD. We then calculated a logarithm of the odds (LOD) score by summing the log10 of the ratio of these probabilities across all loci within the window:"
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 7,
+    "text": "The genotype probabilities under IBD and non-IBD were calculated according to Wang et al.17, accounting for occasional heterozygous positions within ROH resulting from sequencing errors, read mapping errors (for example, due to segmental duplications) and occasional mutations. Specifically, we accepted that 2% of SNPs would be heterozygous within IBD segments. We estimated g for each ROH to include only IBD segments arising from recent ancestors when estimating FROH. For each ROH, we solved for g in the equation l =\u200b 100/2 g cM, where l is the length of the ROH in cM (ref. 39). We estimated the map length of each ROH in cM by interpolating the mapping positions of each SNP in the genome from a recent high-density linkage map of the domestic dog genome55, assuming that the recombination rate is conserved between domestic dogs and wolves."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 13,
+    "text": "Permutation test for regions with exceptionally low ROH abundance. We used a permutation (randomization) approach to simulate the null distribution of ROH abundance in 100-kb windows. For each of 5,000,000 permutations, we first randomly sampled 97 individuals with replacement from the sequenced wolves. We then randomly selected a 100-kb chromosome segment from the genome of each individual independently. We then quantified ROH abundance for the segment as the sum of the lengths of all IBD parts of the 97 sampled chromosome segments (in kb) divided by the length of the segment (100 kb). A P value for each 100-kb segment in the genome was calculated as the proportion of the 5,000,000 permuted ROH abundance estimates that were smaller than the observed ROH abundance. The P value was set to 1/5,000,001 for segments where none of the 5,000,000 permutation repetitions produced an ROH abundance less than or equal to the observed value. We used the Bonferroni method to correct for multiple testing. Specifically, the P value below which a test was considered statistically significant was set to 0.05 divided by 22,055 (the number of analysed 100-kb windows). ROH abundance has previously been strongly related to the recombination rate and SNP density in other taxa (for example, humans and birds), with low ROH abundance found in regions with a high recombination rate and/or relatively low SNP density29,43. We tested for such effects in the present study to determine whether genome-wide variation in the recombination rate or genetic diversity were likely explanations for the observed pattern of ROH abundance across the genome. We measured nucleotide diversity (\u03c0), ROH density (as described above) and the mean recombination rate (in cM/Mb from the domestic dog linkage map54) in 100-kb windows across the genome. We then fitted a regression model of ROH density versus \u03c0\u200b, then a separate regression model of ROH density versus the recombination rate. ROH abundance was only very weakly correlated with nucleotide diversity (r2 =\u200b 0.006; Supplementary Fig. 10) and recombination rate (r2 =\u200b 0.0005; Supplementary Fig. 11). Thus, levels of genetic diversity and the recombination rate do not appear to substantially affect the pattern of ROH abundance across the genome in this population of wolves."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 14,
+    "text": "Life Sciences Reporting Summary. Further information on experimental design and reagents is available in the Life Sciences Reporting Summary."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 15,
+    "text": "Sequence data have been deposited to the European Nucleotide Archive (accession number PRJEB20635). R scripts used to detect ROH and infer genetic mapping positions of SNPs are available upon request."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 16,
+    "text": "Received: 4 April 2017; Accepted: 19 September 2017; Published: xx xx Inbreeding and extinction in a butterfly metapopulation. Frankham, R. Genetics and extinction. Keller, L. F. & Waller, D. M. Inbreeding effects in wild populations. Trends Ecol. 4. Fountain, T., Nieminen, M., Sir\u00e9n, J., Wong, S. C. & Hanski, I. Predictable allele frequency changes due to habitat fragmentation in the Glanville fritillary butterfly. Natl Acad. Charlesworth, D. & Willis, J. H. The genetics of inbreeding depression. Hedrick, P. W. & Garcia-Dorado, A. Understanding inbreeding depression, purging, and genetic rescue. Trends Ecol. 7. Kardos, M., Taylor, H. R., Ellegren, H., Luikart, G. & Allendorf, F. W. Genomics advances the study of inbreeding depression in the wild. Appl. 9, 1205\u20131218 (2016). Mal\u00e9cot, G. The Mathematics of Heredity (Freeman, San Francisco, 1969)."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 18,
+    "text": "Wright, S. Coefficients of inbreeding and relationship. Pemberton, J. M. Wild pedigrees: the way forward. Taylor, H. R., Kardos, M. D., Ramstad, K. M. & Allendorf, F. W. Valid estimates of individual inbreeding coefficients from marker-based pedigrees are not feasible in wild populations with low allelic diversity. The distribution of the proportion of the genome which is homozygous by descent in inbred individuals. Theor. Hedrick, P. W., Kardos, M., Peterson, R. O. & Vucetich, J. A. Genomic variation of inbreeding and ancestry in the remaining two Isle Royale wolves. Knief, U., Kempenaers, B. & Forstmeier, W. Meiotic recombination shapes precision of pedigree- and marker-based estimates of inbreeding. Heredity 118, 239\u2013248 (2017). Forstmeier, W., Schielzeth, H., Mueller, J. C., Ellegren, H. & Kempenaers, B. Heterozygosity\u2013fitness correlations in zebra finches: microsatellite markers can be better than their reputation. Fisher, R. A. The Theory of Inbreeding 2nd edn (Academic, New York, 1965). Wang, J. Pedigrees or markers: which are better in estimating relatedness and inbreeding coefficient? Theor. Leary, R. F., Allendorf, F. W. & Knudsen, K. L. Developmental stability and enzyme heterozygosity in rainbow trout. Pierce, B. A. & Mitton, J. B. Allozyme heterozygosity and growth in the tiger salamander, Ambystoma tigrinum. Coltman, D. W., Pilkington, J. G., Smith, J. A. & Pemberton, J. M. Parasitemediated selection against inbred Soay sheep in a free-living, island population. Understanding the relationship between the inbreeding coefficient and multilocus heterozygosity: theoretical expectations and empirical data. Heredity 93, 255\u2013265 (2004). Estimating genome-wide heterozygosity: effects of demographic history and marker type. Heredity 112, 240\u2013247 (2014). Balloux, F., Amos, W. & Coulson, T. Does heterozygosity estimate inbreeding in real populations? Szulkin, M., Bierne, N. & David, P. Heterozygosity\u2013fitness correlations: a time for reappraisal. Huisman, J., Kruuk, L. E. B., Ellis, P. A., Clutton-Brock, T. & Pemberton, J. M. Inbreeding depression across the lifespan in a wild mammal population. Natl Acad. Chen, N., Cosgrove, E. J., Bowman, R., Fitzpatrick, J. W. & Clark, A. G. Genomic consequences of population decline in the endangered Florida scrub-jay. Curr. Kardos, M., Luikart, G. & Allendorf, F. W. Measuring individual inbreeding in the age of genomics: marker-based measures are better than pedigrees. Heredity 115, 63\u201372 (2015). High-throughput sequencing reveals inbreeding depression in a natural population. Natl Acad. Kardos, M., Qvarnstr\u00f6m, A. & Ellegren, H. Inferring individual inbreeding and demographic history from segments of identity by descent in Ficedula flycatcher genome sequences. Genetics 205, 1319\u20131334 (2017). Genetic rescue in a severely inbred wolf population. Selection for heterozygosity gives hope to a wild population of inbred wolves. Two centuries of the Scandinavian wolf population: patterns of genetic variability and migration during an era of dramatic decline. Rescue of a severely bottlenecked wolf (Canis lupus) population by a single immigrant. Severe inbreeding depression in a wild wolf (Canis lupus) population. The recovery, distribution, and population dynamics of wolves on the Scandinavian peninsula, 1978\u20131998. Can. Seddon, J. M., Sundqvist, A. K., Bj\u00f6rnerfeldt, S. & Ellegren, H. Genetic identification of immigrants to the Scandinavian wolf population. Long runs of homozygosity are enriched for deleterious variation. Thompson, E. A. Identity by descent: variation in meiosis, across genomes, and in populations. Genetics 194, 301\u2013326 (2013). Garc\u00eda-Dorado, A. Understanding and predicting the fitness decline of shrunk populations: inbreeding, purging, mutation, and standard selection. Genetics 190, 1461\u20131476 (2012). Crow, J. F. & Kimura, M. An Introduction to Population Genetics Theory (The Blackburn Press, Caldwell, 1970)."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 7,
+    "paragraph_number": 19,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol \u00a9 2017 Macmillan Publishers Limited, part of Springer Nature. All rights reserved."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 3,
+    "text": "Kardos, M., Allendorf, F. W. & Luikart, G. Evaluating the role of inbreeding depression in heterozygosity\u2013fitness correlations: how useful are tests for identity disequilibrium? Genomic patterns of homozygosity in worldwide human populations. Hedrick, P. W., Hellsten, U. & Grattapaglia, D. Examining the cause of high inbreeding depression: analysis of whole-genome sequence data in 28 selfed progeny of Eucalyptus grandis. B\u00e9r\u00e9nos, C., Ellis, P. A., Pilkington, J. G. & Pemberton, J. M. Genomic analysis reveals depression due to both individual and maternal inbreeding in a free-living mammal population. Runs of homozygosity in European populations. Recovery of large carnivores in Europe\u2019s modern human-dominated landscapes. Laikre, L., Olsson, F., Jansson, E., Hossjer, O. & Ryman, N. Metapopulation effective size and conservation genetic goals for the Fennoscandian wolf (Canis lupus) population. Heredity 117, 279\u2013289 (2016). Estimating wolf (Canis lupus) population size from number of packs and an individual based model. Li, H. & Durbin, R. Fast and accurate short read alignment with Burrows\u2013 Wheeler transform. Bioinformatics 25, 1754\u20131760 (2009). The sequence alignment/map format and SAMtools. Bioinformatics 25, 2078\u20132079 (2009). The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. The variant call format and VCFtools. Bioinformatics 27, 2156\u20132158 (2011). Campbell, C. L., Bh\u00e9rer, C., Morrow, B. E., Boyko, A. R. & Auton, A. A pedigree-based map of recombination in the domestic dog genome. J. J. A fast algorithm for computing inbreeding coefficients in large populations. Breed. Kalinowski, S. T., Taper, M. L. & Marshall, T. C. Revising how the computer program CERVUS accommodates genotyping error increases success in paternity assignment."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 4,
+    "text": "Acknowledgements Financial support was obtained from the Swedish Research Council, Swedish Research Council Formas, Swedish Environmental Protection Agency, Research Council of Norway, Norwegian Environment Agency and Marie-Claire Cronstedts Foundation. We thank the National Veterinary Institute (Sweden), Norwegian Institute for Nature Research, Swedish Museum of Natural History, County Administrative Boards in Sweden, Wildlife Damage Centre at the Swedish University of Agricultural Sciences and Inland Norway University of Applied Sciences for contributing with samples. The preparation of samples was conducted by A. Danielsson and E. Hedmark at Grims\u00f6 Wildlife Research Station at the Swedish University of Agricultural Sciences. Bioinformatic computations were performed on resources provided by the Swedish National Infrastructure for Computing through the Uppsala Multidisciplinary Center for Advanced Computational Science."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 5,
+    "text": "Author contributions H.E. conceived the project. M.K., M.\u00c5., \u00d8.F., H.S., C.W. and H.E. initiated the project. H.E., M.K. and M.\u00c5. designed the project. M.K. and T.F. performed the data analysis. O.L. performed the original reconstruction of the pedigree. O.L., M.\u00c5. and \u00d8.F. maintained, updated and refined the pedigree. M.\u00c5. performed the calculations of FP. O.L., H.S., P.W. and C.W. coordinated the field work and sampling. P.O. performed the variant calling. The first draft of the paper was written by M.K. with input from H.E. and T.F. All authors contributed to discussing the results and editing the paper."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 6,
+    "text": "Competing interests The authors declare no competing financial interests."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 7,
+    "text": "Additional information Supplementary information is available for this paper at https://doi.org/10.1038/ s41559-017-0375-4."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 8,
+    "text": "Reprints and permissions information is available at www.nature.com/reprints."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 9,
+    "text": "Correspondence and requests for materials should be addressed to H.E."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 10,
+    "text": "Publisher\u2019s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 8,
+    "paragraph_number": 11,
+    "text": "Nature Ecology & Evolution | www.nature.com/natecolevol nature research | life sciences reporting summary June 2017 Initial submission Revised version Final submission Life Sciences Reporting Summary Nature Research wishes to improve the reproducibility of the work that we publish. This form is intended for publication with all accepted life science papers and provides structure for consistency and transparency in reporting. Every life science submission will use this form; some list items might not apply to an individual manuscript, but all fields must be completed for clarity."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 6,
+    "text": "For further information on the points included in this form, see Reporting Life Sciences Research. For further information on Nature Research policies, including our data availability policy, see Authors & Referees and the Editorial Policy Checklist."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 9,
+    "text": "Describe how sample size was determined. Sample size was calculated as the number of individual wolves in the study Describe any data exclusions. All data passing standard quality control filters (as described in the paper) were included in the study."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 13,
+    "text": "Describe whether the experimental findings were reliably reproduced."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 14,
+    "text": "The study was not replicated as the data are from a long term field study spanning nearly 40 years."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 16,
+    "text": "Describe how samples/organisms/participants were allocated into experimental groups."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 17,
+    "text": "Our study was observational, and individuals were thus not assigned into experimental groups. T the indiviudals were selected exactly as described in the Mmethods section of the paper."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 19,
+    "text": "Describe whether the investigators were blinded to group allocation during data collection and/or analysis."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 20,
+    "text": "Investigators were not blinded to group allocation because group allocation was not used in this study."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 21,
+    "text": "Note: all studies involving animals and/or human research participants must disclose whether blinding and randomization were used."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 23,
+    "text": "For all figures and tables that use statistical methods, confirm that the following items are present in relevant figure legends (or in the Methods section if additional space is needed)."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 9,
+    "paragraph_number": 25,
+    "text": "The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement (animals, litters, cultures, etc.) A description of how samples were collected, noting whether measurements were taken from distinct samples or whether the same sample was measured repeatedly A statement indicating how many times each experiment was replicated The statistical test(s) used and whether they are one- or two-sided (note: only common tests should be described solely by name; more complex techniques should be described in the Methods section) A description of any assumptions or corrections, such as an adjustment for multiple comparisons The test results (e.g. P values) given as exact values whenever possible and with confidence intervals noted A clear description of statistics including central tendency (e.g. median, mean) and variation (e.g. standard deviation, interquartile range) See the web collection on statistics for biologists for further resources and guidance. nature research | life sciences reporting summary June 2017 Policy information about availability of computer code 7. Software Describe the software used to analyze the data in this study."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 6,
+    "text": "R v3.4.1, BWA v0.7.13, SAMtools v1.3, GATL v3.3.0, bcftools v1.3, VCFtools v0.1.14, CFC v1.0, For manuscripts utilizing custom algorithms or software that are central to the paper but not yet described in the published literature, software must be made available to editors and reviewers upon request. We strongly encourage code deposition in a community repository (e.g. GitHub). Nature Methods guidance for providing algorithms and software for publication provides further information on this topic."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 9,
+    "text": "Policy information about availability of materials 8. Materials availability Indicate whether there are restrictions on availability of unique materials or if these materials are only available for distribution by a for-profit company."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 11,
+    "text": "Samples from wolves in the study are not available. Sequence data are freely available as described in the paper."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 13,
+    "text": "Describe the antibodies used and how they were validated for use in the system under study (i.e. assay and species). a. State the source of each eukaryotic cell line used. No cell lines were used. Describe the method of cell line authentication used. No cell lines were used. c. Report whether the cell lines were tested for mycoplasma contamination. If any of the cell lines used are listed in the database of commonly misidentified cell lines maintained by ICLAC, provide a scientific rationale for their use."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 23,
+    "text": "Policy information about studies involving animals; when reporting animal research, follow the ARRIVE guidelines Provide details on animals and/or animal-derived materials used in the study."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 26,
+    "text": "Extensive detailes on each research animal are given in Supplementary Information Table 1 of our paper."
+  },
+  {
+    "filename": "Kardos et al 2018 Nature Ecology & Evolution.pdf",
+    "page_number": 10,
+    "paragraph_number": 27,
+    "text": "Policy information about studies involving human research participants Describe the covariate-relevant population characteristics of the human research participants."
+  }
+]

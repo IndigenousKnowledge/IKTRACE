@@ -1,0 +1,506 @@
+[
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 1,
+    "paragraph_number": 2,
+    "text": "New developments in the field of genomic technologies and their relevance to conservation management. Recent technological advances in the field of genomics offer conservation managers and practitioners new tools to explore for conservation applications. Many of these tools are well developed and used by other life science fields, while others are still in development. Considering these technological possibilities, choosing the right tool(s) from the toolbox is crucial and can pose a challenging task. With this in mind, we strive to inspire, inform and illuminate managers and practitioners on how conservation efforts can benefit from the current genomic and biotechnological revolution. With inspirational case studies we show how new technologies can help resolve some of the main conservation challenges, while also informing how implementable the different technologies are. We here focus specifically on small population management, highlight the potential for genetic rescue, and discuss the opportunities in the field of gene editing to help with adaptation to changing environments. In addition, we delineate potential applications of gene drives for controlling invasive species. We illuminate that the genomic toolbox offers added benefit to conservation efforts, but also comes with limitations for the use of these novel emerging techniques."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 1,
+    "paragraph_number": 8,
+    "text": "Despite ongoing activities to halt biodiversity loss, we are still losing many species at an alarming rate (Turvey and Crees 2019; WWF 2020). Targets to stop this loss, defined by the Convention of Biological Diversity (CBD) to be achieved by 2020, have clearly not been met (CBD 2020). Currently the post-2020 targets for CBD are developed and the EU biodiversity strategy discussed, both phrasing ambitious goals and milestones. However, it is less clear how these could be achieved. Meanwhile, conservationists seek to identify tools to improve and solve many of the conservation challenges globally, such as managing small populations or controlling invasive species. At the same time a technological revolution is taking place in the field of molecular biology, granting novel opportunities to screen, manipulate and even edit genomic material. These technological advancements have been seen as opportunities for conservation by some (Breed et al. 2019; Hohenlohe et al. 2021), and highly controversial among others (e.g. see motion 75 of the IUCN World Conservation Congress 2020 on synthetic biology https://\u200bwww.\u200biucnc\u200bongre\u200bss2020.\u200borg/\u200bmotion/\u200b075). While the field of synthetic biology (see glossary) has been a centre of debate (Piaggio et al. 2017), conservation projects can benefit from the existing knowledge in other areas of biotechnology such as animal or plant breeding approaches applied in agriculture and livestock (McLean-Rodr\u00edguez et al. 2021). With this perspective, we aim to provide an overview on the latest biotechnological developments for conservation practitioners and managers and especially highlight their feasibility for present and future potential conservation applications. This manuscript is a result of a G-BiKE COST Action (https://g-bikegenetics.eu ) workshop on novel genomic tools for conservation. The aim of the workshop was to bring practitioners and researchers together and help bridging the gap between researchers and managers, which has been described earlier (Shafer et al. 2015). Most attendees of the workshop had a background in animal conservation, thus our overview is likely to be biased towards animals, but we state that many topics are similar also for plants and other organisms. Here, we focus on four important conservation areas: (1) management of small populations, (2) restoring and increasing genetic diversity, (3) support of adaptation to changing environments, and (4) invasive species management. We discuss the underlying techniques of genomic screening, cloning, gene editing and gene drive, highlighting examples from different plant and animal species. We also provide some key questions which need to be asked before starting a conservation project (Fig. 1 and end of each section) and present an overview on the feasibility and challenges of those techniques for the different conservation areas (Fig. 2)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 2,
+    "paragraph_number": 5,
+    "text": "With this overview, we hope to inspire, inform and illuminate if and how these technologies can be used by managers and practitioners in their conservation projects."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 2,
+    "paragraph_number": 7,
+    "text": "Small population management is a critical tool to safeguard populations and has evolved at a rapid pace over the last decades, as a response to the escalating biodiversity crisis (see also CBD 2020, Target 12). Many populations have become so small and fragmented that they are vulnerable to genetic and demographic stochasticity and unable to recover on their own, even when the anthropogenic threats they face can be successfully mitigated (Gilpin and Soul\u00e9 1986). Due to their limited (effective) population size, small populations lose genetic diversity over time, and as such adaptive potential, making them prone to inbreeding. In these situations, effective conservation requires a strategy that incorporates the most appropriate population management activities, selected from a range of options across ex situ and in situ conditions (Traylor-Holzer et al. 2019). Whether ex situ or in situ, the work follows a multi-step procedure starting from identifying the need and defining the role of the management actions, setting measurable goals, evaluating alternative (genetic) management actions and methods, monitoring progress towards the set genetic goals and adjust as needed (see the IUCN guidelines on ex situ management https://\u200b porta\u200bls.\u200biucn.\u200borg/\u200blibra\u200bry/\u200bnode/\u200b44952 and Westgate et al. 2013, McGowan et al. 2017). Genomics now has the potential to revolutionise how we approach these steps (Russello and Jensen 2018; Supple and Shapiro 2018) by evaluating the genetic history and status of the in situ and any ex situ populations in more detail."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 2,
+    "paragraph_number": 8,
+    "text": "Defining ex situ populations and their relationship to in situ populations using genomics Today, ex situ conservation programs often rely completely or in part on existing collections of living individuals, gametes, plant seeds, or tissue and blood samples. Genomic techniques allow us to detect DNA sequence variation at single nucleotides (i.e. single-nucleotide polymorphism: SNP, see glossary) that can be used to evaluate the effects of historic founder selection (Gomes Viana et al. 2018; Frandsen et al 2020; Ogden et al. 2020; Wei and Jiang 2021) and set guidance on how to increase levels of genetic diversity and minimise genetic similarity (Bragg et al. 2020) via selective addition of unrepresented lines (Wildt et al. 2019; Galla et al. 2020; Miller et al. 2010). The efficiency of ex situ management partly relies on the profound knowledge of a species\u2019 taxonomic status and recent demographic history."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 3,
+    "paragraph_number": 3,
+    "text": "For many species of conservation concern, such information is either missing or incomplete, and genomics has proven key in filling knowledge gaps (e.g. Frandsen et al. 2020; Robinson et al. 2021a) and delineating management units (Barbosa et al. 2018) starting from almost any type of sample (e.g. museum collections and biobanks; Baveja et al. 2020). Likewise, the inclusion of species specific genomic analysis generates unseen possibilities to reach predefined long-term conservation goals whether that is to e.g. increase genetic diversity or minimize inbreeding, even if little is known about relatedness of individuals. Genome wide SNP data are starting to be used to complement or even replace missing or incomplete pedigrees to provide robust data for guiding breeding efforts (Galla et al. 2020). Simultaneously, genomic data will guide optimal management (e.g. balancing hybridisation or the potential of adaptation) with the in situ population as a benchmark. As such, modern population management can and should foster a tight link between conservation efforts of ex situ populations and their wild counterparts (Boscari et al. 2021) and be integrated into the overall conservation strategy for a single or multiple species (the One Plan Approach coined by the Conservation Planning Specialist Group of the IUCN; Pritchard et al. 2012; Byers et al. 2013). Small in situ populations, either remnant or reintroduced, are affected by the same negative processes that affect ex situ populations (e.g. loss of genetic diversity and accumulation of inbreeding), so the same general principles used for genetic management in the latter could be applied in the former. These include the maximization of founder population size and the management of gene flow; however, managing precise breeding is often out of reach. The same applies to ex situ management of group living species such as many aquatic species, some primate species or hoof stock living in large herds, where individual pedigrees are unknown and breeding recommendations are difficult. For plants, seed banks, i.e. storage of seeds, is the most popular way of ex situ conservation due to ease of storage, low costs and low risks of infestation or predation (Schoen and Brown 2001). However, seed banking can be problematic for species with low seed longevity, persistent dormancy or low germination rates. For these species, living collections for example in Fig. 1 Genomic and biotechnological toolkit for conservation. Main conservation problems (left side, each box marked with a different colour) and most relevant questions when starting a genomic study. The flow chart connects conservation problems with techniques already available or under development. Arrow colours link the technologies with the conservation tasks (the same colour is used for the arrows as in the boxes on the left) botanical gardens are often implemented as ex situ method. In addition to the same negative genetic processes of small and isolated in situ populations, ex situ living collections of plants risk local adaptation to non-natural, \u2018garden\u2019 conditions. To minimize the risk of adaptation to non-natural conditions, \u2018quasi in situ\u2019 conservation\u2014ex situ collections that are grown in natural environments\u2014can be suggested as a compromise between ex situ and in situ conservation (Volis and Blecher 2010). In combination with genomic techniques to monitor genetic variation in next generations this may provide a successful integrated conservation strategy for plants."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 4,
+    "paragraph_number": 4,
+    "text": "Improving population management and monitoring through genomics Minimizing overall genetic relatedness within populations (i.e. pedigree based kinship breeding) significantly reduces the pace at which diversity is lost and became the method of choice to manage small populations (Lacy et al. 2012; CheCastaldo et al. 2021). Out of necessity, the pedigree approach was built on assumptions such as no founder relatedness and the absence of selection, knowing that this is not always the case (Frankham 2008; Hogg et al. 2019). Hence, many breeding programs will benefit from genetic screenings to (i) compensate for differences between theoretical and realized kinships (Grueber et al. 2021), (ii) resolve origin and screening for hybridisation (Howard-McCombe et al. 2021), (iii) detect clonal reproduction (e.g. many plants and apomictic species (Brown and Marshall 1995), (iv) guide reproduction or translocations in species for which individual record keeping, and as such pedigree reconstruction and/or kinship estimation, is (historically) missing, inaccurate or difficult e.g. group managed species (McLennan et al. 2020), (v) optimize health via direct screening for genetic or heritable diseases e.g. Devil Facial Tumor Disease (Storfer et al. 2018; Hohenlohe et al. 2019) or maintaining overall immunity (Savage and Zamudio 2011) and (vi) ensure that the genetic diversity captured within the ex situ populations represents that of the in situ population (Kleinman-Ruiz et al. 2019; Wei and Jiang 2021). Given the existing similarity of the general management aims in plant and animal ex situ collections, botanic gardens could benefit by adapting and broadly using the well-established scientific approaches by the zoo community (Fant et al. 2016;"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 4,
+    "paragraph_number": 7,
+    "text": "Genomic tools as drivers for future management and biobanking The largest gain in genomic analyses, over more traditional genetic tools, is their power to get additional information on genomic regions under selection, [e.g. runs of homozygosity (ROH) and deleterious mutations, Hohenlohe et al. 2021; see also Fig. 3 and glossary]. These could be introgressed genomic segments stemming from hybridisation or the lack hereof, or parts of the genome that are under selection. Additionally, population structure within a population can be detected and, depending on the conservation goals, should or could lead to a population management in separate groups based on evolutionary and genomic divergence. The Fig. 2 Feasibility of conservation areas and the different genomic and biotechnological tools. Each line and colour presents one of the main conservation problems (same colours as in Fig. 1). The timeline indi- cates the feasibility of the listed tools for current and future potential conservation applications genomic revolution also allows for direct identification of desirable genes and alleles, as well as the transfer of these adaptive genes to deliver new varieties, as has been proven effective for crop and livestock improvement (Wambugu et al. 2018). In addition, management of ex situ collections of plant genetic resources can benefit from genome-wide screening and the availability of reference-genome assemblies for almost all major crop species, overcoming the reproducibility issues related to earlier markers (Mascher et al. 2019). Broad applicability of genomics to improve conservation management is, however, often limited by a lack of samples from current populations and their (wild) founders. Biobanking techniques are well suited for animals and plants (Heywood and Iriondo 2003), including seed banks, in vitro storage (slow growth and cryopreservation), pollen banks, tissue cryopreservation, DNA storage, and botanic gardens living collections (Thormann et al. 2006). As such, regional zoo and aquarium biobanks [e.g. the European Association of Zoos and Aquaria (EAZA) Biobank] and seed banking initiatives (e.g. Millenium Seed Bank) are very valuable for both research and population management by maintaining genetic diversity (e.g. Howell et al. 2021) or even reviving lost genetic lineages. The addition of genomic information, e.g. SNP genotypes, to the information linked to records of stored samples could complement and correct traditional metadata and constitute a molecular fingerprint (Digital Sequence Information (DSI), for more background and discussion see the White Paper on DSI at https://\u200bwww.\u200bdsmz.\u200b de/\u200bfilea\u200bdmin/\u200buser_\u200bupload/\u200bColle\u200bction_\u200ballg/\u200bFinal_\u200bWiLDSI_\u200b White_\u200bPaper_\u200bOct7_\u200b2020.\u200bpdf). Such a unique fingerprint would complement the conventional sample banks with bio-digital resource centres combining the storage of the preserved materials with their genomic and molecular characterization. Alongside improving the management of the collections, the dense genotyping information for all accessions would highlight duplicates and sampling coverage gaps (Mascher et al. 2019). Some novel initiatives within this context (e.g. the DivSeek project https://\u200bdivse\u200bekintl.\u200b org), and the potential of genomics-based technologies, could generate a paradigm shift in the usability of bio- and cryobank collections and bridge the gap between different data types."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 4,
+    "text": "Questions to be considered for managing small populations For some (mostly iconic) species, genomic data already provided useful insights to guide ex situ population management. While the list of species that can benefit from genomic screenings increases, the shortage of available resources, such as reference genomes and samples from both ex situ and in situ populations, is often hindering the evaluation of how current levels of genetic diversity compares to historic or current in situ diversity."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 7,
+    "text": "\u2022 Which genomic tools will help secure the data needed (e.g. coding, non-coding, whole genome to scan for inbreeding levels and adaptive potential) to answer the management questions in an in- and ex situ framework?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 8,
+    "text": "Several populations and research questions have been or are currently generating data on wild plants and animals that potentially could be used to help improve population management. However, one of the challenges to overcome is how to integrate and allow comparisons among data collected over different time periods or geographic ranges with various technologies."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 9,
+    "text": "\u2022 How can we ensure that different data types can be integrated and comparisons with suitable reference populations be made?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 10,
+    "text": "As more data isn\u2019t always better and the data required might be very much case by base dependent;"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 11,
+    "text": "\u2022 What is the ideal amount of data (e.g. number of SNPs) needed to answer questions that are challenging a conservation breeding program over time, e.g. high mean kinship within a population requires an increased need for informative SNPs?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 12,
+    "text": "Depending on the conservation question(s) to be answered, the population size, management strategy and resources, it is important to consider sampling;"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 13,
+    "text": "\u2022 How many and which extant populations and/or individuals as well as historical collections need to be sampled to provide answers that can help guide the conservation action?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 15,
+    "text": "\u2022 Is demographic, medical or other relevant data linked to samples/individuals through databases (e.g. Zoological Information Management System (ZIMS) or BGCI PlantSearch), which could be used to better understand a given population?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 16,
+    "text": "And lastly, how can future considerations and needs be incorporated into a species management plan;"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 5,
+    "paragraph_number": 17,
+    "text": "\u2022 Will cryopreservation of cell lines or gametes be of future use?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 6,
+    "paragraph_number": 5,
+    "text": "The National Academy of Sciences Engineering and Medicine (NASEM) defines gene drive as \u201ca system of biased inheritance in which the ability of a genetic element to pass from a parent to its offspring through sexual reproduction is enhanced. Thus, the result of a gene drive is the preferential increase of a specific genotype, the genetic makeup of an organism that determines a specific phenotype (trait), from one generation to the next, and potentially throughout the population\u201d (NASEM 2016). In summary, it can be described as a mechanism to bias inheritance through sexual reproduction (for a more detailed overview see Rode et al. 2019). Gene drive systems are naturally occurring, but in the last decades, researchers have been studying how to develop gene drives to modify species in order to address challenges in public health, conservation or agricultural pest control. The advances of gene editing tools have increased the ability of researchers to develop such mechanisms and the recent years have seen a multiplication of successful cage experiments, in particular in mosquitoes (Gantz et al. 2015; Hammond et al. 2016; Kyrou et al. 2018; Simoni et al. 2020, Oh et al. 2021). While the overall definition is quite simple, it fails to represent the diversity of gene drive mechanisms and applications. For instance, in some cases (e.g. human malaria), there is a need to develop a mechanism that can spread through large populations while releasing a relatively small number of individuals carrying the modification (Garrood et al. 2021). Those mechanisms are called \u201clow threshold\u201d as opposed to \u201chigh threshold\u201d mechanisms that require a high frequency of individuals carrying the modification to spread and modify the population. As such the risks and benefits might be different, and the choice of gene drive mechanism depends on the specific context. For instance, high threshold gene drives can be considered as one method of molecular confinement, and can be beneficial for interventions on invasive alien species that need to be eradicated in a location in contact with another location where the species is not invasive. Risk assessment and evaluation need to be done on a case-by-case basis to take into account those specificities (Redford et al. 2019). To develop an engineered gene drive (as opposed to naturally occurring ones), researchers use gene-editing tools. Different platforms can be used depending on the type of gene drive to be developed. One of the most common types of gene drives is based on endonucleases, which will break the DNA and allow for the integration of the new sequence (Hammond et al. 2016). CRISPR-Cas9 has been a commonly used endonuclease for this, but other systems have also been developed. All engineered gene drive mechanisms are a result of gene editing but not all gene editing events would result in a gene drive. In most cases, gene-edited traits are inherited in a normal Mendelian way: that is, for any given gene editing event there is a 50% chance that an offspring will inherit it."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 6,
+    "paragraph_number": 9,
+    "text": "The availability of complete genomes of a range of species has opened up a treasure-trove of information for conservation biologists. Tools originally developed for human and model species such as laboratory animals or livestock, we can now use also for non-model species (Ekblom and Galindo 2011) and thus unlock a wealth of valuable data about the genetic history and current status of a species (Primmer 2009; Ouborg et al. 2010; Shafer et al. 2015; Supple and Shapiro 2018). Data from genomic approaches can now readily be used to improve conservation management. One very recent example where policy for breeding and reinforcement programmes have been gained from such an approach, was assessing the potential introgression to the endangered lesser whitefronted goose (Anser erythropus) in Sweden (D\u00edez-DelMolino et al. 2020). What parameters obtained by full genome sequencing are relevant for conservation? 3 and supplementary Table 1)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 6,
+    "paragraph_number": 10,
+    "text": "Overall genetic diversity, measured from resequence data as the number of heterozygous variants in an individual, can be seen as a proxy for long-term adaptive potential. Naturally, most of the genetic variation will prove not useful in the long run, but the measure is thought to reflect the potential variants in a population that may become adaptive in the future. Especially when the environment is changing rapidly, adaptive potential can define whether a species will persist or go extinct. But in a stable environment individual heterozygosity can also determine translocation success (Scott et al. 2020). 2. Inbreeding levels, measured as Runs Of Homozygosity (ROH) in the genome of an individual, reflects the extent of consanguinity in a population under the assumption of random mating. Numerous and long ROH are a warning that the population is undergoing inbreeding as a consequence of population decline, which may result in inbreeding depression (see also Fig. As such, ROH could be an estimator of genetic health in a population."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 7,
+    "paragraph_number": 3,
+    "text": "3. Genetic load, measured as the amount of predicted harmful mutations in the genome of an individual, reflects how many variants with a potentially negative effect on fitness are present in a population. Most of such variants are recessive, therefore their harmful effect is only exposed during inbreeding (known as inbreeding depression). This measure can predict the severity of fitness reduction and population decline if inbreeding will occur, and can therefore be seen as an early warning system and also be considered in translocations (Hansson et al. 2021). 4. Lethal recessives are particularly damaging mutations that can be problematic in small populations when they are at high frequency. Note that this is different from the genetic load, which is thought to consist of many variants with small effects. These lethal mutations can be pinpointed in a genome and included in a breeding program or serve as a target for gene editing. Locally adapted genes can be pinpointed as selective sweeps or highly differentiated parts of the genome between related populations or species. Local adaptation is important for a population to persist, and therefore such genetic variants should be maintained in a population, especially if individuals are re-introduced into their original habitat. Also, outbreeding with another population may not be desirable if many differences in local adaptation exist."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 7,
+    "paragraph_number": 6,
+    "text": "Cloning animals produces genetically identical copies of individuals via a process called somatic cell nuclear transfer (SCNT). During this process the nucleus of a cell from the animal of interest is merged with the enucleated oocyte of another animal. The resulting embryo is implanted into a surrogate mother. The resulting offspring is genetically identical to the nucleus donor. The process of producing this animal is novel because gametic cells (eggs or sperm) are not used. Instead, somatic cells, often skin cells called fibroblasts, are harvested from animals and their nuclei are inserted into the donated oocytes. Harvesting fibroblasts is less invasive than harvesting eggs or sperm which is desirable from an animal welfare standpoint (Ryder and Onuma 2018). Fibroblasts are relatively easy to cryopreserve and thaw for downstream applications. Thus, animals that have been dead for decades but have cryopreserved biomaterial can be cloned and reproduced. Biorepositories around the globe have preserved hundreds of species over the last 40 years, and many of the preserved samples would be suitable materials for cloning. Cloning endangered species requires a modified approach to SCNT because of inefficiencies in the process. Many oocytes need to be harvested from animals to produce an embryo that develops into viable offspring. Therefore many oocyte donors are needed to produce a Fig. Genomic measures estimating genetic diversity within the genome of an organism single clone. For endangered species, available oocyte donors are typically not available, therefore interspecific SCNT (iSCNT) has been proposed. iSCNT uses oocytes donated from individuals of closely related species. This mismatch of species results in greater inefficiencies still. To date, only a few attempts at iSCNT have been successful at producing healthy clones (Borges and Pereira 2019). iSCNT is a useful and often used experimental design in developmental biology and biomedicine, with rapid strides being made at overcoming these inefficiencies and developmental mismatches. Currently, cloning is limited to use in biomedicine and research in the European Union. Cloning animals for food or related commodities is banned under an EU directive (https://\u200bec.\u200b europa.\u200beu/\u200bfood/\u200bsites/\u200bfood/\u200bfiles/\u200banima\u200bls/\u200bdocs/\u200baw_\u200bother_\u200b aspec\u200bts_\u200bnovel-\u200bcloni\u200bng_\u200bcom20\u200b13-\u200b894_\u200bfinal_\u200ben.\u200bpdf)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 8,
+    "paragraph_number": 4,
+    "text": "Utilizing biotechnology developed on domestic species to conservation of wildlife Genomic research on domestic animals has paved the way for the study of their wild relatives. These studies have applications for both ex situ and in situ population management. For example, in domestic species different breeds can become admixed over time and ancestral breeds lost. Genomic information can assist in the design of breeding programmes aimed at recovering original genetic variability from currently admixed breeds (Amador et al. 2014; Fern\u00e1ndez et al. 2016). Such approaches have been useful in the conservation of domestic populations and, particularly, local breeds (Kristensen et al. 2015), but have the potential to support conservation efforts of wildlife as well (Hedrick 2010; Miller et al. 2017). For example, wild (Felis silvestris silvestris) and domestic (Felis silvestris catus) cats interbreed in Portugal (Oliveira et al. 2008), wild and domestic pigs (both Sus scrofa) interbreed on the Iberian Peninsula (Gama et al. 2013) and cultivated walnut populations mix with native walnut trees (Hoban et al. 2012). In each case, the domestic population threatens the wild population with genetic swamping. While identifying hybrids has been possible already with microsatellites or SNPs (e.g. Soto et al. 2003) new genomic resources could help to identify hybrid individuals and to distinguish between past and recent hybridisation events in previously unknown accuracy (Mattucci et al. 2019). Additionally simulations can be useful for predicting outcomes of hybrid gene flow (e.g. DiFazio et al. 2012). This has been shown to be especially relevant for estimating gene flow from transgenic plants and crops into their wild relatives. Research into domestic animals has also allowed the development of tools and baseline knowledge, as exemplified by the large number of studies on wolves (Canis lupus) genomics, which take advantage of resources developed for dogs (e.g. Pendleton et al. 2018). These tools have allowed, for example, the identification of the origin of the black pigmentation of some American wolves as a result of ancient hybridization with dogs (Anderson et al. 2009), the identification of genes associated with altitude adaptation in central Asian wolves (Zhang et al. 2014) or the characterization of inbreeding at Isle Royale (Robinson et al. 2019). Importantly, the management of domestic populations has also allowed the advancement of reproductive schemes and approaches that could also be applied to wild species. These involve the design of mating strategies that minimize inbreeding or maximize allelic diversity (Fern\u00e1ndez et al. 2016; L\u00f3pez-Cortegano et al. 2019) applicable to closely monitored and managed wild and captive populations. Similarly, research on domestic species enabled the development of assisted reproductive technologies allowing the introduction of allelic variants from one population to another without the need to move individuals, and even allowing the recovery of genetic variants from long-dead individuals (for examples see Table 1). Biomedical research that advances biotechnology also utilizes domestic species such as the domestic ferret (Mustela putorius furo), horse, and sheep, and these models have paved the way for reproductive technologies, such as cloning of wild counterparts like the black-footed ferret (Mustela nigripes), Przewalski\u2019s horse (Equus ferus przwalski) and mouflon (Ovis aries musimon) (see references in Sandler et al. 2021, Box C and Table 1). These genomic and reproductive biotechnological advances in domestic species may also be combined in the future to design genomes with an increased variation, or that display more fit phenotypes (see Sect. \u201cFacilitating adaptation to changing environments through biotechnological applications\u201d for details). However, the strict selection of animal or plant breeding specimen for particular traits comes at the price of an additional reduction in the size of the founding population, with accompanying reduction in the effective population size (Amador et al. 2014; Toro et al. 2014; Fern\u00e1ndez et al. 2016). Selective breeding of admixed populations can only aspire to restore the variation that is still segregating, but part of the original variation may no longer be available. In these cases, it may be possible to use cryopreserved biological material or seed banks to reintroduce some of the lost genetic variants into the population (Table 1). A potentially new source of information derived from studies of biomedical models of domestic species, comes from studies on epigenetic variation. Epigenetics refers to changes in the gene products and ultimately phenotypes of individuals that are heritable but not associated with changes in the nucleic acid sequence. Rapid adaptations to changing environments can be brought by epigenetic mechanisms."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 9,
+    "paragraph_number": 3,
+    "text": "Table 1 General conservation management questions, advantages of genomic tools, case studies for different conservation settings and existing open questions Conservation questions Advantages of using genomic tools Case study Open questions How can we strive to preserve or increase genetic diversity? What are the genetic criteria for reintroducing individuals from a captive population? Can we estimate the risk of inbreeding depression? Which individuals should be selected for translocations? To what extent does admixture occur in a given population?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 9,
+    "paragraph_number": 6,
+    "text": "Analysing kinship Genetic structuring and admixture can be assessed Genetic analyses reveal levels of genetic diversity and distance across populations Populations history can be inferred, as can genetic load Outcome of translocations can be monitored Identification of hybrids Genetic load and harmful mutations can be assessed Analysing population history in the kakapo (Stigops habroptilus) (Dussex et al. 2018) Identifying conservation units in Carex scirpoidea (Bard et al. 2021) Detecting introgression levels in white-fronted goose (Anser erythropus) (D\u00edez-del-Molino et al. 2020) Analysing genetic structure for managing sturgeon (Huso huso) (Boscari et al. 2021) Evaluating demography in pygmy hog (Porcula salviana) (Liu et al. 2020) Identifying admixture levels and selecting individuals for breeding in Tasmanian devil (Sarcophilus harrisii) (McLennan et al."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 9,
+    "paragraph_number": 8,
+    "text": "Identifying hybrids in Scottish wild cat (Felis silvestris) (Howard-McCombe et al. 2021) Analysing introgression and informing breeding in African taurine cattle (Bos taurus) (Ou\u00e9draogo et al. 2021) Assessing genetic diversity in the hihi (Notiomsytis cincta) (de Villemereuli et al. 2019) Analysing introgression in Oak species (Quercus chrysolpis/tomentella) (Ortego et al. 2018) Mitigating temperature effects through translocations in valley oak (Quercus lobata) (Browne et al. 2019) Reviewing genetic diversity in ex situ plant collections (Wei and Jiang 2021) Assessing genetic variation in ecological restoration for two Savannah plant species (Carvalho et al. 2021) Reviewing how genomic information can aid translocations (Seaborn et al. 2021) Is there evidence for fixation of deleterious mutations in past bottleneck(s)? How does sample size affect detectability of introgression? How sampling protocolsbe optimised and standardised? How do the fixed harmful mutations affect fitness? Can changes at functional genes be assessed?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 10,
+    "paragraph_number": 4,
+    "text": "Conservation questions Advantages of using genomic tools Case study Open questions How can we facilitate adaptation? Identify genotypes which have specific desired traits Characterising the evolutionary potential in Moroccan goats (Capra aegagrus hircus) (Rochat et al. 2021) Identifying temperature tolerant genotypes in wild cocoa (Theobroma cacoa) (Ceccarelli et al. 2021) Predicting drought adaptation in Arabidopsis thaliana (Exposito-Alonso et al. 2018) Reviewing adaptation in forest trees (Kijowska-Oberc et al. 2020 Reviewing the potential of genomics to predict climate change adaptation in animals and plants (Caplancq et al. 2020) What is the breeding system of the given species? Can phenotypes be predicted?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 10,
+    "paragraph_number": 8,
+    "text": "How can we eradicate invasive species? Potential of targeting invasive mosquitos No case study yet (see Burt et al. 2018, Redford et al. 2019) Reviewing the application of genomic tools for biosurveillance of invasive species (Hamelin and Roe 2020) Currently only theoretical applicable\u2014needs to be tested How to rescue a population with low genetic diversity? Possibility of alleviating inbreeding depression and mutational meltdown Quantifying reproductive success in Scandinavian wolves (Canis lupus) (\u00c5kesson et al."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 10,
+    "paragraph_number": 11,
+    "text": "2016) Estimating levels of inbreeding in Swedish adder (Vipera berus) (Madsen et al. 1999) Evaluating biomedical technology in the black-footed ferret (Mustela nigripes) (Wisely et al. 2015) Assessing phenotypic traits in the Torrey pine (Pinus torreyana) (Hamilton et al. 2017) Reviewing genetic rescue studies (Frankham How can we incorporate biobank samples into genetic rescue?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 10,
+    "paragraph_number": 14,
+    "text": "How to assist a population with biotechnology? If live animals are not available for genetic rescue, alternative sources may be used Reporting of cloning in mouflon (Ovis aries musimon) (Loi et al. 2001) Reporting of cloning in Przwalski's horse (Equus ferus przwalski) (Hernandez 2020) Reporting of cloning in black-footed ferret (Mustela nigripes) (Imbler 2021) Reviewing genetic mixing and rescue strategies in plants (Hoffman et al. 2021) What are the limits on the tissue types to be used for adding genetic variability?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 11,
+    "paragraph_number": 3,
+    "text": "Epigenetic modifications represent an extra-molecular component of biodiversity that links genomes to the environment, and ultimately improves the identification of conservation units by estimating the adaptive potential of organisms (Rey et al. 2020). Epigenetics has been put forward as a biomarker for physical conditions, and methylation levels that cells use to control gene expression might be of importance for guarding against the expression of harmful alleles under specific conditions (Marin et al. 2020). In plants, DNA methylation has been shown to regulate multiple processes, such as gene expression, genome stability and gene imprinting (Zhang et al. 2018; Gallego-Bartolom\u00e9 2020) and is postulated to play an important role in phenotypic plasticity and fast responses to sudden environmental changes (Colicchio and Herman 2020). Ultimately epigenetics may be valuable to the conservation practitioner as a new tool to delimit evolutionary significant units that take into account the capacity for organisms to adapt to rapidly changing environments (Rey et al. 2020)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 11,
+    "paragraph_number": 4,
+    "text": "When might domestic animals be good surrogate models for conservation of wildlife counterparts?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 11,
+    "paragraph_number": 5,
+    "text": "Domestic species, particularly those used for agriculture or biomedicine, are frequently well-studied and have genomic and reproductive science resources that are on the cutting edge of technology. When those domestic model species are congeners and closely related to species of concern, they can be powerful resources for understanding the target species. Genomes of domestic species have been used as a reference for unannotated genomes of wildlife (Hohenlohe et al. 2021), and reproductive techniques once applied to domestic species have been utilized in wildlife (Comizzoli and Wildt 2017). While it is important to understand that each species is ecologically, physiologically and behaviourally unique, domestic species can provide important information about evolutionarily similar species. For example, domestic ferrets have been used to advance the reproductive capabilities of both European mink (Mustela lutreola) and black-footed ferrets (Amstislavsky et al. 2008). The domestic dog has been used as a reference genome for multiple canid species, including the highly inbred Channel Island Fox (Urocyon littoralis; Robinson et al. 2016)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 11,
+    "paragraph_number": 6,
+    "text": "Advanced genomic and reproductive sciences have enhanced reintroductions, translocations and genetic rescue Small populations that have become inbred due to matings between relatives are at risk of inbreeding depression, which results from the expression of deleterious alleles that can accumulate over time simply by chance (genetic load; for an overview see: van Oosterhout 2020). Animals with inbreeding depression show reduced fitness that manifests as reduced survivorship or fecundity (Hedrick and Fredrickson 2010). For example, inbred Scandinavian wolves bred less frequently and produced less offspring resulting in a population that declined over time (\u00c5kesson et al. 2016). Two strategies are often suggested to reduce the impact of inbreeding depression in natural populations: purging and genetic rescue (Hedrick and Garcia-Dorado 2016; Bell et al. 2019, see also glossary). At least, in theory, maintaining a population at a small size should contribute to removing deleterious variation through purging, thus reducing the amount of genetic load and inbreeding depression. However, simulations have shown that methods aimed at enhancing purging by intentional inbreeding should not be generally advised in conservation programmes because this implies important reductions in effective population size leading to severe inbreeding depression in the short term (Caballero et al. 2017). Inbreeding is alleviated by mating of individuals in the inbred population with other individuals characterised by alleles not found in that population. The resulting offspring of that mating will be likely more fit than their parents and then survive longer or have more offspring. The population recovers and grows as a result of the addition of genetically unique individuals, defined as genetic rescue (Ralls et al. 2020 for a detailed overview). Genetic rescue has been observed to occur naturally when immigrants from a distant population integrate into an inbred one (reviewed in Frankham 2015). Genetic rescue has also been used successfully as a management tool for inbred populations, using translocated individuals e.g. in adders (Vipera berus, Madsen et al. 1999), Florida Panther (Puma concolor coryi, Johnson et al. 2010) or greater prairie chicken (Tympanuchus cupido pinnatus, Westemeier et al. 1998), or translocations or interpopulation crosses in rare plant species (e.g. Pinus torrevana, Hamilton et al. 2017; Rutidosis leptorrhnynchoides, Pickup and Young 2008; Ranunculus reptans, Willi et al. 2007). In arctic foxes (Vulpes lagopus, Hasselgren et al. 2021) and Isle Royale wolves (Canis lupus, Robinson et al. 2019) inbreeding could also be reduced through genetic rescue, although this effect was only significant in the first generation. The goal for conservation practitioners and wildlife managers is to determine (i) which individuals can provide genetic rescue, (ii) and where a source of those individuals can be found."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 11,
+    "paragraph_number": 9,
+    "text": "Determining which individuals to use for genetic rescue If translocated or reintroduced individuals are too genetically similar to the target population in need of genetic rescue, then inbreeding will not be alleviated and an increase in fitness will not be observed. On the other hand, if translocated individuals are too genetically dissimilar from the target population, then outbreeding depression can occur. Outbreeding depression reduces fitness in the next generation as a result of mismatches in genetic compatibility between two individuals and/or the introduction of maladapted genes (Flanagan et al. 2018). Recent advances in genomics allow conservation practitioners to better understand if candidate individuals for translocation are a good fit for genetic rescue. First, a genomic screening is suggested in which genetic diversity, inbreeding and harmful mutations are assessed for both the population in need of genetic rescue as well as potential donor individuals (see also Fig. Ideally, these donor individuals come from different source populations as this greatly enhances the genetic diversity that can be used for rescue. As this approach could increase the genetic load in the target population, some authors suggested to source individuals from partially-inbred populations (Robinson et al. 2018, 2019; However, Ralls et al. (2020) recently highlight the limitations of these studies and argue to use source populations with high genetic diversity. In any case, intensive monitoring and rigorous evaluations will be needed to develop best practices for implementing genetic rescue measures (see Robinson et al. 2021b)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 12,
+    "paragraph_number": 4,
+    "text": "Determining the source of individuals to use for genetic rescue The selection of suitable source populations is key for any reintroduction program (Houde et al. 2015). For this purpose, genomic data can provide very valuable and previously inaccessible insights into the evolutionary and demographic history of target and source populations (Hohenlohe et al. 2021). Relocation programs, while aiming at increasing genetic diversity, should also consider source populations from environments as similar as possible to the population to be augmented (e.g. Hedrick and Fredrickson 2010) to decrease the possibility of maladaptation/outbreeding depression. Such a situation arises when donor and recipient populations have developed different environmental adaptations and their offspring are less adapted to either habitat (Marshall and Spalton 2000). Identifying potential functional fitness-related variation enables direct assessments of candidate source population for preadaptation to the target environment, and for their potential for acclimation to the new environments through phenotypic plasticity (Cauwelier et al. 2018; Muchero et al. 2018). Despite the need to preserve adaptive variants and avoid the introduction of deleterious alleles in translocations (Kristensen et al. 2015), the general recommendation has been to prioritize overall genetic diversity and evolutionary potential more than specific variants or adaptations (Weeks et al. 2011; Kardos and Shafer 2018). Careful consideration of alternative source populations is thus required when planning translocation or reintroduction programs, so that closely related and ecologically similar populations are favoured and large populations with high genetic load are avoided when alternatives are available. Genetic rescue has typically been conducted using live individuals that are translocated from either a wild or a captive population. Assisted reproduction technologies like artificial insemination or in vitro fertilization have been used in captive wildlife management for decades and have the possibility of being used for genetic rescue of wild populations (Comizzoli and Wildt 2017). In this case sperm, ova, or embryos from genetically valuable individuals would be used instead of live individuals to increase the genetic diversity of the recipient gene pool. Although technologically feasible, this technique has not been used for genetic rescue of in situ populations. Finally, instead of using germplasm, such as sperm or eggs, it has been proposed that nonreproductive somatic cells could be used to clone genetically valuable individuals that could then be used for genetic rescue. While this idea has been proposed earlier (Wisely et al. 2015), efforts have now led to successful protocols (Borges and Pereira 2019), which have only recently been used for genetic rescue in the Przewalski horse (Equus przewalskii; Hernandez 2020) and the black-footed ferret (Mustela nigripes; Imbler 2021). For potential ethical considerations of such approaches see Sandler et al. A typical example of a \u2018genetic rescue\u2019 approach is the case of the California endemic Torrey pine (Pinus torreyana Parry). The species is one of the rarest pines in the world and of conservation concern with only two populations, occupying a mainland and an island (Hamilton et al. 2017). Based on a progeny trial for evaluation of phenotypic differences, the authors found genetic population-specific differences, with the island population having reduced genetic variability compared to the mainland population. The \u00adF1 hybrids (a cross between both populations) exhibited increased fitness (height and higher fecundity) compared to the parents. In this context, the authors suggest that intraspecific hybridization might help restore genetic variation capable of coping with environmental changes, thus preserving the evolutionary potential in rare species and realising the concept for \u2018genetic rescue\u2019. Reintroduced populations are particularly susceptible to genetic erosion due to intense founder effects caused by usually a small number of released individuals, low survival and large variance in reproductive success during the establishment phase. As in the foundation of a captive population, the selection of animals for release should be focused on minimizing inbreeding and relatedness to allow optimal founder diversity and to avoid inbreeding accumulation in the first few generations. Any post-release genetic management will require accurate information on the survival and reproduction of the released individuals. Fortunately, this is greatly facilitated by the genetic profiling of scats, hair, moulted feathers, and other material obtained through noninvasive genetic sampling, suboptimal materials that allow, nevertheless, for the genotyping of an increasing number of genome-wide markers (von Thaden et al. 2020) and even the access to targeted (Perry et al. 2010) or whole genome sequences (Taylor et al. 2020). Intensive monitoring of reintroduced populations would then allow for an individualbased genetic management of subsequent releases during the establishment phase by selecting individuals that are minimally related to the current population. The global Iberian lynx (Lynx pardinus) population in 2002 was less than 100 individuals distributed in two isolated remnant populations in Southern Spain. Wholegenome sequences revealed the Iberian lynx as one of the species with the lowest species- and genome-wide genetic diversity (Abascal et al. 2016), resulting from long-term small population sizes and recent bottlenecks. Historical and ancient genetic data suggested that currently observed genetic differentiation between the two remnant populations was driven by genetic drift and isolation, hence validating their admixture and the management of the species as a single management unit (Casas-Marce et al. 2013, 2017). The holistic conservation program included the establishment of an ex situ population and an intensive in situ program, which eventually incorporated translocations and an ambitious reintroduction program. Molecular marker data became an integral part of the management of the ex situ population since its conception, by contributing an empirical founder kinship matrix and by allowing the comparison of the genetic compositions of wild and captive populations and the monitoring of genetic diversity and inbreeding through time (Kleinman-Ruiz et al. 2019). Genetic management has been based on the principle of minimizing average kinship, so the priority for reproduction, pairings and releases are determined annually from the marker-assisted kinship matrix. Ongoing genome wide studies seek to identify potentially deleterious mutations relevant for inbreeding depression, as well as particular genetic variants associated with specific traits, information that could eventually be implemented in the management of the species. Once one of the most endangered felids in the world, the recent 2019 census yielded > 800 wild individuals living in the two remnants and six reintroduction areas, illustrating a very successful species recovery assisted by the application of genomic information and molecular tools."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 13,
+    "paragraph_number": 5,
+    "text": "For the target population, it is important to know which specific mutations are causing the reduction in fitness when exposed in a homozygous state (i.e. which mutations contribute to the genetic load). Then the potential donor animals are genetically screened for the five important genomic measures as indicated in Box B \u201cGenomic tools\u2019 (see also Fitzpatrick and Funk 2019; Fitzpatrick et al. 2020). These genomic measures can be used to accurately estimate distinct genetic areas and assess inbreeding in populations, they have been used to design breeding schemes to select against deleterious alleles or to increase heterozygosity, and they have the potential to increase the long-term survival of breeds and wild populations in view of climate change (for an overview see Kristensen et al. 2015). For evaluating overall adaptive potential whole genome, or at least genome-wide screenings, may remain the preferred option (Flanagan et al. 2018; Bourgeois and Warren 2021). Genomic analyses of source populations could also allow the identification of genetic variation underlying (or simply linked to) traits that increase fitness in particular environments. Although there are a few examples of successful identification of the genetic basis of particular traits in natural populations (e.g. Anderson et al. 2009; Fulgione et al. 2016; Benazzo et al. 2017; Christmas et al. 2019), this remains a challenging task, despite the increasing availability of annotated reference genomes (Kardos et al. 2016). Such a problem is particularly daring for endangered species, as they present severe limitations in sample sizes, phenotypic data, and experimental approaches. Here ex situ populations can be of help, as they offer ample opportunities for combining e.g. behavioural and demographic data with genomic profiles, and access to samples either directly from zoos, aquariums and botanic gardens or from large collections in biobanks (such as the EAZA Biobank or the Millenium Seed Bank). Finally, transcriptomic analyses can inform on the ability of particular individuals, or populations, to change expression levels in response to environmental stressors anticipated at the reintroduction area, either at candidate response genes when these have been previously identified, or globally when these remain unknown (He et al. 2016). A similar challenge to variants under positive selection due to local adaptation exists for the detection of variants that have detrimental effects. Recent genomics methodologies have been developed to assess the potential impact of mutations that are present in genomes, without the need of phenotypes to test their harmful nature. Such bioinformatic identification of deleterious alleles rely on evolutionary conservation (Cooper et al. 2005; Pollard et al. 2010), physicochemical properties and their putative effect on the functionality of genes (Ng and Henikoff 2003) or combined approaches (Kircher et al. 2014; Wang et al. 2010). Although the deleteriousness of single variants remains notoriously difficult to predict from sequence data alone, when combined they can provide a reliable estimate of genetic load in a comparative framework (van der Valk et al. 2019; von Seth et al. 2021)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 4,
+    "text": "Prior to initiating a genetic rescue program, conservation practitioners should consider several questions. As with any conservation action, defining the problem that needs to be solved is paramount. Thus for genetic rescue, a first question to consider is:"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 5,
+    "text": "\u2022 Does the population decline have a genetic cause, i.e. is there reduced fitness in the population?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 6,
+    "text": "Previous studies have conducted time series analysis of population size and inbreeding (\u00c5kesson et al. 2016), or assessed correlations of fitness and levels of inbreeding (Santymire et al. 2019). Genomic methods increasingly provide a robust method for identifying maladaptations or recessive alleles."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 7,
+    "text": "\u2022 Have genomes been sequenced for the target species so that different populations can be analysed and potential maladaptations be assessed?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 8,
+    "text": "Historically, living individuals or seeds from different populations have been the source of genomes for genetic rescue. If genomes of living individuals are available we can use bioinformatic tools to pinpoint potential deleterious mutations within the genome and choose individuals with the lowest load. As an alternative to such wild or domestic individuals, advanced reproductive science makes it possible to use cryopreserved semen or embryos (Comizzoli and Wildt 2017) or even cryopreserved fibroblasts (Wisely et al. 2015). Ultimately, source material may come in the form of living organisms or biobank samples from ex situ or in situ populations."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 9,
+    "text": "\u2022 Are the source genomes compatible with the gene pool of the recipient population and do they have the potential to increase fitness?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 10,
+    "text": "Advances in genomic analyses will allow for better matching between source and recipient gene pools so that inbreeding depression is alleviated yet outbreeding depression or other genomic pitfalls are avoided. In addition, individuals with high genetic load could be identified as unsuitable as a source for translocation (Kyriazis et al. 2021). Therefore screening genomic samples not only from the recipient population, but also the source population is desirable."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 11,
+    "text": "\u2022 What technical expertise is required to integrate source and recipient gene pools?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 12,
+    "text": "It is important to understand the technical feasibility of a genetic rescue operation. Wild animal or plant translocations have requirements that would be different from using animals or plants from captive breeding facilities or botanical gardens. Genetic rescue from cryopreserved samples is technologically complicated and requires feasibility tests on different levels (from fertilization of a single individual to implementing such information in a wild population). For example, advanced reproductive science techniques such as cryopreservation, artificial insemination, in vitro fertilization and cloning would need to be optimised for each species for which the specific technology is being considered."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 14,
+    "text": "Genetic rescue implies that success is not solely an increase in population size, but also increased reproduction, survival, and adaptation potential in the target population. Therefore monitoring of recipient populations for population vital rates is key. However, genomic and biotechnological tools are only a small part of the overall toolbox."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 14,
+    "paragraph_number": 15,
+    "text": "Facilitating adaptation to changing environments through biotechnological applications Genetic diversity is the underlying prerequisite for all species to adapt to changing environmental conditions. Ecosystem resilience thus highly depends on genetic variation (see Hoban et al. 2021; Stange et al. 2021). Genomic tools now enable us to assess the adaptive potential of species and identify particular loci underlying adaptation. Such genomic information is adopted in commercial animal and plant breeding to predict the phenotype of individuals and identify potential shifts in phenotypes (Meuwissen et al. 2001; Only recently has it been applied in wild populations, e.g. to identify the basis of the shift in egg laying date in great tits (Parus major) (Gienapp et al. 2019) or multiple morphological traits such as weight, horn length or coat color in soay sheep (Ovis aries) (Ashraf et al. 2020) or drought, freezing tolerance, warmer temperatures or salt stress in plants and trees (Exposito-Alonso et al. 2018; Browne et al. 2019). Genomic knowledge of specific genes can not only be used to identify specific variants of interest (e.g. Shryock et al. 2021) but the genetic code can also be altered by targeted changes of an organism's genome, also known as genome editing (see glossary). This approach encompasses a wide variety of tools using site-specific enzymes. Currently, the CRISPR/Cas9 nuclease system (clustered regularly interspaced short palindromic repeat/CRISPR-associated protein) is commonly used in many research fields (such as agriculture and medicine) and the attempts to alter or introduce genes with the goal of enhancing species survival against specific threats, such as disease or climate change are discussed widely (for an overview see Piaggio et al. 2017; Redford et al. 2019). The versatility, simplicity, and efficacy of the CRISPR technology offer the researchers previously unattainable levels of precision and control over genomic modifications, making it the most widely used among the genome editing tools (Bewg et al. 2018). While the application of genome editing tools in many wild animal species is still in its infancy, it has already been demonstrated in forest trees such as poplars (Populus) (Elorriaga et al. 2018) and woody perennials (Tsai and Xue 2015) and we can expect an increasing genomic knowledge to develop strategies for disease resistance (Naidoo et al. 2019; Changing environmental conditions such as increasing sea temperatures are threatening marine ecosystems and especially corals that suffer from mass bleaching. Thus, thermal adaptation is crucial for their persistence. Heat tolerance can be inherited and natural variation in temperature tolerance may thus facilitate adaptation (Dixon et al. 2015). Specific genes which are responsible for heat tolerance have already been identified through gene editing techniques (Cleves et al. 2020). This knowledge helps to understand which genetic traits are controlling heat tolerance of corals and might thus be useful targets for future genetic engineering and enhancing thermal tolerance (van Oppen et al. 2017). The American chestnut (Castanea dentata) is a fastgrowing and long-lived keystone tree species in the eastern United States and Canada (Powell et al. 2019). An invasive fungal pathogen Chestnut blight (Cryphonectria parasitica) has been introduced from Asia into the United States in the late 1800s. Since then it has been spreading throughout the species range killing around 90% of the population (Merkle et al. 2007; Powell et al. 2019). The American Chestnut Foundation (https://\u200bwww.\u200bacf.\u200borg) has implemented a breeding program that tries to incorporate the blight resistance of Chinese chestnut (Castanea mollissima) into the American chestnut trees by backcross breeding. While this has been partly promising, inheritance by future generations is inconsistent and will likely require many generations of breeding (Steiner et al. 2017). Thus genetically engineered blighttolerant American chestnut trees have been developed and those first transgenic American chestnut trees were planted in field trials in 2006 (Steiner et al. 2017). While transgenic trees are mostly developed for economic purposes, the chestnut trees represent the first example of genome editing as part of a restoration strategy for conservation purposes (Merkle et al. 2007). The US Department of Agriculture has started a regulatory review of the proposed transgenic American chestnut in August 2020, including a period of public comment."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 4,
+    "text": "Questions to consider prior to further integration of genome editing for management Genome editing and the introduction of additional variation into the genome of wild organisms are based on the genomic information available in different populations of the target species. In case a genome editing approach might be considered several key questions need to be answered ahead:"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 6,
+    "text": "\u2022 Is full genome/transcriptome information for the target species available? \u2022 Is that information available across different populations or subspecies? \u2022 Is the target species related to a model species?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 7,
+    "text": "If genome information is accessible then we need to identify if and how this information relates to specific phenotypes."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 8,
+    "text": "\u2022 Can target genes potentially be identified? \u2022 Are the traits which should be altered controlled by a single gene or multiple genes?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 9,
+    "text": "By identifying the underlying genomic basis for specific traits we can start experiments. For this, we need to have additional information."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 10,
+    "text": "\u2022 What is the breeding system of the organism? \u2022 Can these organisms be kept in an experimental setting under different environments?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 15,
+    "paragraph_number": 12,
+    "text": "Invasive species are within the five key drivers of biodiversity loss and extinction with 20% of extinctions being attributed to invasive alien species and 54% partially caused by them (Clavero and Garc\u00eda-Berthou 2005). However, the management and eradication of invasive alien species is challenging and needs case by base evaluations due to different ways of spreading, life cycles and reproduction strategies. Currently managing invasives is mostly done through mechanical, chemical and biological controls, bio pesticides or the mass release of sterile individuals (Wittenberg and Cock 2001; Teem et al. 2020). While those tools have shown to be partly successful, they are labour and cost-intensive and, therefore, difficult to scale up to larger areas (Glen et al. 2013). There can also be negative side effects on non-target species that can result as bycatch products, or when using chemicals and introducing allochthonous natural predators (Messing and Wright 2006; Glen et al. 2007). Genetic information can complement the existing integrated invasive alien species management programmes by providing relevant information on, e.g. hybridisation mechanisms (van de Crommenacker et al. 2015) and physiological adaptation to different conditions (i.e. transcriptomic studies) (Luo et al. 2020; Clark et al. 2021). Increasing numbers of genomes are currently being sequenced or already available for many invasive species, providing key information on their biology, evolution and invasive spread (Prentis et al. 2008; North et al. 2021). The processes during an invasion can be tracked through molecular data and understanding the history of invasions can inform management of current and future introductions (Hamelin and Roe 2020). Information on the temporal and spatial dynamics of an invasion also helps to develop a biosurveillance system (Westfall et al. 2020), where pests and pathogens could be identified and pathways of spread assessed (Hamelin and Roe 2020). Genomic information can give valuable insight whether genetic variability in native species can be linked to invasiveness. The emerald ash borer (Agrilus planipennis) is a phloem-feeding beetle that is native to Asia but invasive in North America where it has been identified to be an extremely destructive pest for ash trees (Fraxinus spp.) (Global Invasive Species Database 2020). Studies comparing the genomes of the most susceptible North American ashes (F. americana, F. pennsylvanica, F. nigra) with the resistant species F. mandshurica in Asia mapped defence related genes and identified candidate genes linked to resistance (Lane et al. 2016; Kelly et al. 2019). This ultimately can lead to improved future ash breeding programmes (Bai et al. 2011). A different approach is used when the genomic composition of the invasive species itself is analysed by identifying the genes and causative mutations that play an important role in the evolution of invasiveness. Studying the actual function of such genes can be combined with phenotypic traits of interest (Prentis and Pavasovic 2013). Identified resistance genes could then be monitored and potentially increased for sexually reproductive species. The introduction or modification of a genetic trait that would negatively affect the reproductive ability of the invasive alien species could be achieved by a so-called gene drive (see Box A; Alphey et al. 2020). This mechanism can be observed in nature in fungi, yeast and other organisms, and allows a gene to be passed to the progeny through sexual reproduction at a higher inheritance rate, even if it does not confer a competitive advantage (Burt and Trivers 2006). Possibilities to apply gene drive for invasive species eradication management plans involve targeting specific genes involved in main physiological functions or reproduction (i.e., for arthropods). Recently, the potential use of gene drives for the management of populations has been discussed and described in detail in Rode et al. However, the development of gene drives for conservation applications is still at a very early stage, and further investigations are required to evaluate their feasibility as well as potential impacts both positive and negative (for a recent review see Price et al. 2020)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 16,
+    "paragraph_number": 7,
+    "text": "Similar to efforts taking place to tackle human malaria using gene drive approaches (Burt et al. 2018), researchers are investigating potential new tools to eliminate avian malaria threatening Hawaiian birds. Avian malaria is the driver for the native bird population extinction and decline (Atkinson and Lapointe 2009). The avian malaria vector mosquito (Culex quinquefasciatus) is an alien invasive species in Hawaii (Kenis et al. 2009). Different interventions involving genetic approaches are being considered. For instance, using a gene drive approach to make the invasive mosquitoes refractory to avian malaria (gene drive population alteration approach) or reducing the population of invasive mosquitoes by driving infertility traits or biasing the sex ratio (gene drive population suppression approach) (National Academies Science, Engineering, Medicine 2016). The US Fish and Wildlife Service, Hawai\u02bbi Department of Land and Natural Resources, and the American Bird Conservancy are also looking at the potential use of Wolbachia, a naturallyoccurring bacteria that can lead to the absence of viable progeny (Redford et al. 2019). This approach has been used to control another invasive mosquito species Aedes aegypti, which is one of the key vectors for dengue and Zika viruses (Hoffmann et al. 2011). This research on new approaches to tackle avian malaria is still at an early stage and is expected to benefit from some of the discoveries made in human malaria research, where the research is more advanced, partly because of higher attention from researchers, funders and the public."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 16,
+    "paragraph_number": 9,
+    "text": "The invasive common wasp (Vespula vulgaris) originally native to Eurasia is listed among the 100 world worst invasive alien species (Lowe et al. 2000). In New Zealand the common wasp predates 0.8\u20134.8 million loads of prey/ha, exerting an annual cost of about NZ$133 million. Due to the high densities of wasp populations that cover over more than a million hectares of native forest, the environmental impact of using pesticides is prohibitive and risky for biodiversity. Modellers have demonstrated the potential of a CRISPR-based gene drive mechanism that would target spermatogenesis genes with likely male-specific expression to obtain modified-queens (Lester et al. 2020). When a modified-queen mates with wild-type males it will produce fertile workers carrying modified genes and thus propagate it to the next generation, but if it mates with a genetically modified male, fertilization will fail and all offspring will be male. This nest will fail and die in spring or early summer as males do not forage or aid in nest maintenance. A spermatogenesis gene drive could thus potentially reduce the wasp population and depending on population dynamics, locally eradicate those invasive wasps (Rode et al. 2019)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 5,
+    "text": "Since the 1960s, conservation efforts have focused on restoring the islands' biodiversity by eradicating invasive rodents (particularly because they are destroying native fauna and flora). The use of gene drive to eradicate rodents requires special knowledge and precautions to ensure that the intervention remains on the target populations and does not affect populations of rodents where they are native species. The proposed approaches (Lindholm et al. 2016; Harvey-Samuel et al. 2017; Piaggo et al. 2017; Campbell et al. 2019) are to bias sex ratio of the invasive rodents\u2019 offspring, and to get this modification inherited at a high ratio, which would reduce or completely suppress the population due to lack of reproduction and natural attrition. This is still under development in the laboratories and the release of modified mice into the wild is likely to be in the distant future. This gene drive approach offers a potentially attractive alternative to the use of toxicants for eradication and can serve as an important tool to reduce invasive rodent pests, island predators, or zoonotic disease hosts (e.g. house mice, Mus musculus, and three rat species; Rattus norvegicus, R. rattus and R. exulans)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 6,
+    "text": "Questions to consider prior to further integration of gene drives for targeting invasive species While some conservationists already discuss the use of gene drives for conservation management the technologies are still in development and will not be readily applicable in the near future. For practitioners and managers that means that gene drives will need further rigorous research\u2014both in containment and potentially with small-scale field evaluations\u2014before they can be applied to address specific challenges. Several key questions have to be asked for potential projects:"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 8,
+    "text": "\u2022 What is the success rate of previous control attempts? \u2022 Is there any genomic information available for the target species and the target genes? What are the benefits of using a potential gene drive approach? What is the timeframe and scale on implementing invasive disease control?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 9,
+    "text": "\u2022 Is there a risk of the gene drive technology spreading to a non-target population (either in a location where the species is not invasive, or to a non-invasive related species through hybridisation). \u2022 Would gene drive technology obtain social, ethical, and regulatory acceptability? And what are stakeholder perceptions/views for acceptance and engagement in genetic biocontrol?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 10,
+    "text": "In cases where gene drives could be established in model organisms successfully some additional points have to be asked."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 11,
+    "text": "\u2022 Is the generation length short enough for a gene drive approach to have an effect in a relevant timescale for humans and nature? \u2022 Does the target organism reproduce sexually?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 12,
+    "text": "Currently it is very clear that gene drives cannot be uniformly applied to all organisms. Short generation times and high offspring rates such as in mosquitoes can make the intervention relevant. Before planning field trials one has to consider:"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 13,
+    "text": "\u2022 Are there co-occurring native species at the target site which might be affected through hybridisation? \u2022 Can the risk assessment of field trials be done on the basis of a deployment hypothesis? What are the potential risks for the accidental or deliberate release of genetically modified organisms into nontarget populations?"
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 17,
+    "paragraph_number": 15,
+    "text": "The crux of almost all management actions is to obtain comprehensive knowledge of the target species to inform decision making, including data on population size and habitat use, behavioural data like colonisation ability, generation time, and reproductive mode. Many of these questions can be confidently addressed using microsatellites or a few hundred SNPs. However, with genomic information being increasingly available for many species (Hohenlohe et al. 2021), we gain additional insight, as on the demographic history or introgression patterns, thus providing relevant information for species management. Genomic technologies are increasingly being applied in ex situ and in situ management and genomic screenings are necessary to identify the most suitable individuals for breeding programs, translocations and genetic rescue in terms of genetic relatedness and to avoid increasing genetic load in the target population. Genomic variation also helps to more efficiently fight potential diseases and combat climate change by identifying genetic variation of specific traits that increase fitness in particular environments. In addition, knowledge from genomes helps us to compare contemporary populations as well as allowing temporal comparisons in more detail and thus enables us to estimate the magnitude of change across populations and time. Genomic information is equally important for cloning representatives of highly endangered or even extinct species, where the first achievements have been made. In this context, a state-of-the-art collection and storage of seeds, tissues, and cells in biobanks are invaluable. Comprehensive genomic knowledge is also essential for gene editing of organisms in support of their adaptation to environmental changes or for combating pathogens. This practice of genome modification has already been applied in plant taxa, model species, and even in humans, and holds great potential for conservation applications at the individual level. On the population level gene drives are currently developed to be applied on pest species, for which other eradication interventions have not succeeded. The broad range of biotechnological and genomic tools can help conservation practitioners and managers to resolve some of the most pressing conservation challenges, whilst at the same time actions should be made to secure habitat and provide species protection. However, a careful case-by-case risk assessment for potential applications is required, and ethical and political aspects need to be considered (Breed et al. 2019; Redford et al. 2019). While some tools are already well established, others still need to be tested and will only be applicable in the future (Fig. 2)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 18,
+    "paragraph_number": 6,
+    "text": "Admixture Two populations/genetic lineages of a species which have been previously isolated mix which each other. Admixture introduces new genetic information into a given population. One, two, or more versions of a specific locus (gene) on the chromosome. An individual inherits one allele from each of its parents, if both alleles are the same/different the individual is homozygous/heterozygous. Candidate gene Pre-specified gene of interest, where the biological function is known and which is associated with a specific phenotype or disease status. Coding/ non-coding  Coding DNA is providing instructions for making proteins, whereas non-coding DNA does not code for any amino acids."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 18,
+    "paragraph_number": 7,
+    "text": "Epigenetics Changes in heritable phenotypes that are not associated with DNA sequence changes. Epigenetic modifications alter the accessibility of DNA to the transcription process and thus influence gene expression. Functional variation  Genetic variation which is causing phenotypic variation."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 18,
+    "paragraph_number": 8,
+    "text": "Gene editing Site-specific DNA modifications, that involves cutting the DNA at specific sites and changing/ adding/ removing the DNA where it was cut. Gene drive A gene drive is a system of biased inheritance in which the ability of a genetic element to pass from a parent to its offspring through sexual reproduction is enhanced. Thus, the result of a gene drive is the preferential increase of a specific genotype, the genetic makeup of an organism that determines a specific phenotype (trait), from one generation to the next, and potentially throughout the population (NASEM 2016). Genetic load Lowered mean population fitness due to detrimental mutations with only small selective disadvantages that occur in high frequency, or become fixed in a population by genetic drift (Hedrick and Fredrickson 2010). Genetic rescue Unrelated individuals from a genetically close population are introduced into a population with low fitness (Hedrick and Fredrickson 2010). Homozygosity/ heterozygosity An individual has inherited two identical/different alleles for a particular gene or genes from both parents."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 18,
+    "paragraph_number": 10,
+    "text": "Inbreeding depression  Lower fitness of an individual due to an increased homozygosity of detrimental (deleterious) alleles from mating between close relatives (Charlesworth and Charlesworth 1999). Introgression  Transfer of genes/alleles from one species into another distinct species. Long-read sequencing  Also called third-generation sequencing produces DNA reads in excess of 10 kb. Long reads improve de novo assembly, mapping certainty, transcript isoform identification, and detection of structural variants."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 3,
+    "text": "Neutral variation  Genetic variation which is unaffected by natural selection."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 4,
+    "text": "Next generation sequencing (NGS)  Massive parallel amplification of DNA sequence reads, also called massive parallel sequencing or second generation sequencing; generates DNA reads in excess of 600 bp."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 6,
+    "text": "Lower fitness of a hybrid individual resulting from mating between individuals with mixed backgrounds, due to genomic incompatibilities, maladaptation or disrupting pleiotropic gene complexes."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 7,
+    "text": "Purging  Genetic purging means the reduction of the frequency of a deleterious allele. As deleterious alleles have a negative effect (many alleles are only harmful when homozygous) such offspring will be removed from the gene pool. Runs of homozy gosity (ROH)  Genomic regions where identical haplotypes (or identical DNA sequences) are inherited from each parent."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 9,
+    "text": "Different variants of a single nucleotide at a given position in the genome. Measures variability within populations or species."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 11,
+    "text": "Cloning technique in which the nucleus of an oocyte (egg cell) is replaced with the nucleus of a somatic (body) cell."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 12,
+    "text": "Synthetic biology Synthetic biology is a further development and new dimension of modern biotechnology that combines science, technology and engineering to facilitate and accelerate the understanding, design, redesign, manufacture and/or modification of genetic materials, living organisms and biological systems. Toleranceassociated genes (TAGs)  Genes which can be identified to be expressed under changing environmental conditions (e.g. salt tolerance, temperature tolerance)."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 14,
+    "text": "Transcriptome Complete set of RNA transcribed from a specific genome."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 16,
+    "text": "Acknowledgements This article is a result of a workshop organised by COST Action G-Bike (CA18134), supported by COST (European Cooperation in Science and Technology). We appreciate the feedback of three anonymous reviewers, the editor and Philippine Vergeer and Maria Balcazar."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 18,
+    "text": "Funding Open Access funding enabled and organized by Projekt DEAL."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 21,
+    "text": "Conflict of interest The authors declare that there is no conflict of interest."
+  },
+  {
+    "filename": "s10592-021-01415-5.pdf",
+    "page_number": 19,
+    "paragraph_number": 25,
+    "text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://\u200bcreat\u200biveco\u200bmmons.\u200borg/\u200blicen\u200bses/\u200bby/4.\u200b0/."
+  }
+]

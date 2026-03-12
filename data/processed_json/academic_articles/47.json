@@ -1,0 +1,842 @@
+[
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 1,
+    "paragraph_number": 3,
+    "text": "Characterization of DNA Microsatellite Loci From a Threatened Snake: The Eastern Massasauga Rattlesnake (Sistrurus c. catenatus) and Their Use in Population Studies We describe the isolation and genetic characterization of six microsatellite DNA loci from a threatened snake species, the eastern massasauga rattlesnake (Sistrurus c. catenatus) and document the use of these loci for a variety of population-level analyses. Based on data from more than 70 adults from a single population in Killbear Provincial Park, Ontario, these loci: (1) are highly variable, with numbers of detected alleles per locus ranging between 4 and 12 and expected heterozygosities between 0.15 and 0.85, although observed heterozygosities are lower; (2) generally segregate in a Mendelian fashion based on comparisons between genotypes of mothers and their offspring in two litters; (3) may not evolve via a stepwise mutation model as based on frequency distributions of allele sizes; (4) are sufficiently variable for accurate determination of paternity in this species with a significant probability (P 5 .979) of detecting multiple paternity in single broods; and (5) amplify similar size fragments in other species of snakes. Further analyses demonstrate a significant heterozygote deficiency at all loci in this population which, for at least three of the six loci, is not likely due to the presence of null alleles. This pattern suggests that this population has experienced local inbreeding and/or is subdivided on a microgeographic scale. These markers will be ideal for further analyses of population variation and differentiation in this species, which will pro- vide useful information for conservation and evolutionary studies of these snakes."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 1,
+    "paragraph_number": 7,
+    "text": "DNA-based genetic markers that exhibit high levels of intraspecific variation are valuable tools for examining a variety of questions at the population level including those related to parentage, estimation of various population parameters, levels of differentiation, and phylogenetic relationships between populations (Avise 1994). Recently developed microsatellite DNA markers (Tautz 1989; Weber and May 1989) seem to be ideal for these types of population studies because they represent loci that are easily distinguishable, have codominant alleles, and the genotypic information is logistically easy to obtain relative to certain other DNA-based markers (Quellar et al. 1993). Allelic variation in microsatellites is due to variation in the number of small (1\u20136 bp) tandem simple sequence repeats present in different alleles. Microsatellite loci have been isolated from an increasing number of wild animals, including mammals (Amos et al. 1992; Paetkau and Strobeck 1994; Taylor et al. 1994 ) and birds (Gibbs et al. 1996; Hanotte et al. 1994; McDonald and Potts 1994; Primmer et al. 1995), and used for studies of the ecology, behavior, evolutionary biology, and conservation of such species. Reports of the isolation and use of microsatellites from another major vertebrate group, the reptiles, are much less common. For snakes, the only study published to date reported the isolation of six loci from a timber rattlesnake (Crotalus horridus) genomic library (Villarreal et al. 1996). That study confirmed that snake microsatellites had genetic characteristics similar to those identified in other vertebrates and showed the potential for using such loci for population studies of this species. Here we report the characterization of microsatellites from another snake, the eastern massasauga rattlesnake (Sistrurus c. catenatus), and describe their ge- netic characteristics. In addition we also address topics not dealt with by Villarreal et al. (1996) including the statistical power of these loci for parentage analyses, expected versus observed levels of population heterozygosity, possible existence of null alleles, and the potential for crossspecies amplification of these loci. This work is part of a long-term study of the conservation and evolutionary genetics of disjunct populations of this subspecies in eastern North America (cf."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 1,
+    "paragraph_number": 10,
+    "text": "Population Samples In 1994 and 1995 we captured massasaugas opportunistically encountered throughout a 9 km2 study area within Killbear Provincial Park on Georgian Bay, Ontario (808129E, 458219N). Massasaugas have been present in this area for no more than 10,000 years, following the last glacial retreat (Johnson and Menzies 1993). Overall we captured 74 adults and 26 neonates (representing the litters of two sampled females). From each snake we obtained 25 to 100 ml of blood drawn from the caudal vein using a 0.5 ml syringe fitted with a 28 gauge needle. Blood samples were then mixed with 800 ml of lysis buffer (Seutin et al. 1991) and stored at 48C until DNA extraction. Upon capture, all massasaugas were permanently marked with either ventral scale branding or PIT-tags to eliminate the possibility of resampling the same individual. DNA was then extracted from these samples using either standard phenol-chloroform extractions as described in Gibbs et al. (1994), or by using DNA ZOL (GIBCO BRL) and following the manufacturer\u2019s protocol. Samples were then resuspended in 13 TE (pH 7.5) and concentrations determined using a fluorometer."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 1,
+    "paragraph_number": 11,
+    "text": "Isolation of Microsatellite DNA Loci To isolate nuclear microsatellite DNA markers for massasaugas, we followed the Table 1. Genetic characteristics of six eastern massasauga rattlesnake microsatellite loci Locus Repeat motif Primer sequences (59\u201339) (TC)16(TG)14TT(TG)5 F-CTTTGTGCTATTTTTCCACC R-GCCAAAAAAGTAAAATATGAGC 60 176 8 (72) Scu11 (AC)24 F-GAAATTGGTGGAAGAGACCTG R-GTCCAGGATATGAGGGATCTG 62 173 5 (74) Product sizes (in bp) are based on the size of the clone sequenced for each locus. F is the forward primer sequence and R the reverse primer sequence for each locus. Tm is the annealing temperature (in 8C) used to assay variation in the locus."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 2,
+    "paragraph_number": 12,
+    "text": "Allelic variation at microsatellite locus Scu07 among 13 individuals (A\u2013M) from Killbear Provincial Park. Lanes marked with 1 are the products of amplifications from a plasmid clone containing a known-size (176 bp) allele. procedures outlined by Dawson et al. (1997). Briefly a size-selected (350\u2013400 bp) enriched snake genomic DNA library in pUC18 was screened using three radiolabeled dinucleotide polymers (CA, GC, and CT; Pharmacia). Genomic DNA used to make the library came from a pooled sample made up of equal amounts of DNA from individuals from populations in Pennsylvania, New York, Ohio, and Ontario. Primary and secondary screening were used to identify positive clones which possibly contained a microsatellite sequence. These clones were then sequenced using T7 polymerase (Sequenase; USB) and cycle sequencing (Perkin Elmer) kits and this information was used to design primers (using Primer version 0.5) to loci identified in these clones."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 2,
+    "paragraph_number": 14,
+    "text": "Detection of Microsatellite Variation To assay variation in these loci, PCR amplifications were performed in 10 ml reaction volumes using 50 ng genomic DNA, 0.3 pmol of the forward primer end-labeled with 33P-ATP (Dupont), 0.4 pmol of unlabeled forward primer, 0.8 pmol of unlabeled reverse primer, 200 mM dNTPs, 0.5 U AmpliTaq, 0.1 M Tris-HCl pH 8.3, 0.5 M KCl, and 1.5\u20132.0 mM MgCl2. Amplifications were run in a Perkin Elmer 480 Thermocycler for 30 cycles, with each cycle consisting of 30 s at 948C, 30 s at the appropriate annealing temperature, and 30 s at 728C. Amplification products (3 ml) were then run on 6% denaturing polyacrylamide gels at 55 W for 2.5 h. Gels were then dried and exposed to Biomax (Kodak) X-ray film overnight. Products were sized by reference to a known sequencing reaction of a control template and \u2018\u2018hot\u2019\u2019 amplifications of the known-size clones for each locus, both of which were run on the gel at the same time."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 2,
+    "paragraph_number": 17,
+    "text": "Identification of Microsatellite Loci We screened approximately 6400 colonies using the procedure outlined above and obtained 46 single-insert positive clones. We sequenced all 46 clones, identified repeat sequences in 30 of these clones, and then designed and synthesized primer sequences which flanked the repeat sequence in 11 of these clones. Only six of these primer pairs successfully amplified polymorphic products in a panel of five snake genomic DNA samples. We then optimized the annealing temperature for these six primer pairs and used these loci for surveys of population variation (see below). The optimal annealing temperature, repeat motif, and primer sequences for each locus are given in Table 1. The sequences of primer pairs which did not amplify polymorphic products are available from the authors. As expected from the probe sequences used to screen the library, all of the detected microsatellites were based on dinucleotide repeat variation. However, some loci were based on uninterrupted strings of a single type of dinucleotide repeat (e.g., Scu01, 16, and 26), whereas the other three loci consisted of mixtures of different two-base repeats combined with single base-pair insertions."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 2,
+    "paragraph_number": 19,
+    "text": "Levels of Variation Surveys of 72 to 74 adult massasaugas from the Killbear population showed that these loci detected 4 to 12 alleles per locus (Table 1). An example of the variation detected at the locus Scu07 is shown in Figure 1. Mean allele frequency varied from between 0.083 (Scu01) and 0.20 (Scu16). One unexpected result is that allele sizes for three of the loci show strongly disjunct distributions (Figure 2). In particular, Scu01, 05, and especially 11 showed gaps between allele sizes ranging in size from 20 to more than 120 bp. The significance of this observation is that the most commonly used stepwise models of mutation in microsatellites (e.g., Valdes et al. 1993) assume that changes occur through either increases or decreases of a single repeat unit. These gaps suggest that mutational events in these loci may involve changes of many more than single repeat units. Maternal segregation analyses of two litters of massasaugas consisting of 12 and 13 young respectively suggest that the alleles at each locus segregate in a Mendelian manner (data not shown). All offspring share one allele with their mother. Where the female is heterozygous, the data are generally consistent with an Figure 2. Size distributions for alleles at three microsatellite loci (Scu01, Scu05, and Scu11) for the Killbear population."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 3,
+    "paragraph_number": 3,
+    "text": "Expected and observed heterozygosity and Fis values for six microsatellite loci in the Killbear population 49 (,.0001) 40 (,.0001) 49 (.0039) 47 (.0224) 43 (.005) 13 (.012) 0.227 (,.0001) 0.233 (,.001) 0.164 (,.005) 0.0177 (..05) 0.0818 (..05) 0.314 (,.001) Hexp is calculated as described by Nei and Roychoudbury (1974); Hobs is the proportion of the individuals in the sample that are heterozygotes. Overall values are means of values for reach locus. Fis is calculated as described by Weir and Cockerham (1984). P values are for significance of difference between observed and expected number of heterozygotes (P) as tested using the exact test described in GENEPOP (Raymond and Rousett 1995), whereas the probability that the Fis values were different from zero was tested using the permutation procedure in FSTAT (Goudet 1995). equal probability of segregation for each maternal allele, since contingency table analyses failed to reject the null hypothesis of equal probability of segregation for seven of eight brood-locus combinations tested."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 3,
+    "paragraph_number": 16,
+    "text": "Parentage Analyses The usefulness of these loci for parentage analyses was determined by calculating the probability of detecting more than a single father\u2019s genotype in offspring [P(E)] using the formula in Chakravarti and Li (1983). This analysis assumes that the maternity of young is known, which is true for this species given that litters are live born, and random mating within the population, and then uses the population allele frequencies to estimate P(E) values. The overall P(E) value is .979, indicating that when the six loci are used for parentage analyses we have a 98% chance of detecting multiple paternity within a litter of this species. The accuracy of these P(E) values is affected to an unknown extent by the nonrandom associations of alleles documented below. For the two litters used in the segregation analyses (see above), a maximum of two additional alleles other than those observed in the mother were present in the offspring at each locus (data not shown). Given the power of our loci to detect multiple paternity, this suggests that these litters had a single father."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 3,
+    "paragraph_number": 18,
+    "text": "Expected and Observed Levels of Heterozygosity An initial survey of the levels of heterozygosity in the Killbear population suggested a strong heterozygote deficiency at a number of loci. Results in Table 2 confirm this impression: the mean observed level of heterozygosity across loci (0.437) was more than 28% lower than the mean expected value (0.610), and for all loci there were significantly (P # .012) fewer of the heterozygotes predicted under Hardy\u2013 Weinberg expectations present using the exact test in the program GENEPOP (Raymond and Rousset 1995). Fis values, which estimate the extent of nonrandom associations among alleles in a population, are high and significantly different from zero for four of six loci, with a mean value of 0.166, which is also significant (Table 2). Thus these results argue that levels of homozygosity for the microsatellites described here are high in this massasauga population. There are a number of possible biological explanations for the observed heterozygote deficiency, which we discuss below. However, a recently suggested methodical explanation (e.g., Allen et al. 1995; Paetkau and Strobeck 1994) is that heterozygote deficiencies occur due to the presence of null or nonamplifying alleles which are a result of mutations in the primer sites in different individuals (cf. Thus an individual who is a heterozygote but has a null allele will be scored as a homozygote because only one of the two alleles present will be amplified. We tested this possibility for the three loci (Scu01, 07, and 26) which showed the highest levels of heterozygote deficiency by using the original sequence for each of these loci to redesign sets of new primers that were located 0 to 10 bp upstream or downstream of the primer sequences shown in Table 1. Hence the sets of new primers did not overlap with the locations of the original primer sets (sequences not shown). We then reamplified all individuals that had originally been classified as homozygotes using the new primers for these loci. We predicted that if null alleles were present then at least some of these individuals should be reclassified as heterozygotes. In no case did this occur: all individuals originally scored as homozygotes at a particular locus remained classified as such using the new primers. Thus the presence of null alleles cannot explain the heterozygote deficiency in our population, suggesting that a biological explanation is more plausible (see below)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 3,
+    "paragraph_number": 20,
+    "text": "Cross-Species Amplifications To test the effectiveness of our primer sets for amplifying homologous loci in other snake species we conducted low stringency amplifications using DNA from a taxonomically diverse set of species including another rattlesnake (C. viridus) and a variety of Colubrid species (Table 3). All amplifications were done with a low annealing temperature of 508C and success of an amplification was scored based on the presence or absence of a fragment of approximately the expected size when Table 3. Results of cross-species amplification experiments using the rattlesnake microsatellite loci Crotalus viridis Elaphe obsoleta Elaphe vulpina Nerodia sipedon Coluber constrictor All amplifications were done with an annealing temperature of 508C. A 1 indicates that a product of approximately the expected size was produced, whereas a 2 indicates that either no product or a smear was observed, and ? indicates the species wasn\u2019t tested for that locus. the amplification was run on an agarose gel. The different primer sets gave variable results. For example, Scu01 appeared to amplify only rattlesnakes, Scu05 was specific to eastern massasaugas, whereas the remaining primer sets work on both rattlesnake and at least some Colubrid species. Thus some of the primer sets may be useful for detecting variable loci in a variety of snake species, although based on data from birds and other snake species, loci that can be amplified with heterospecific primers are not necessarily polymorphic (Gibbs HL, unpublished data)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 4,
+    "paragraph_number": 16,
+    "text": "Our main result is that we have isolated and characterized a set of variable microsatellite loci that should prove useful for a variety of population-level analyses in eastern massasaugas and possibly other snake species. Our results also raise some general issues related to these types of analyses using microsatellites in vertebrates, which we comment on below."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 4,
+    "paragraph_number": 17,
+    "text": "Levels of Heterozygosity One striking finding was the significant heterozygote deficiency at all loci within the Killbear population of massasaugas. Traditionally such deficiencies have been attributed to some biological phenomenon such as nonrandom mating or undetected population structure (cf. Hartl and Clark 1987). More recently, however, the discovery of null alleles in microsatellites have lead some authors to argue that an alternative explanation for high levels of homozygosity is the presence of nonamplifying alleles within individuals and that this is a sufficient explanation for heterozygote deficiencies in natural populations (cf. Our use of alternate primer sets for three of the loci described here is one of the first direct tests of the \u2018\u2018null allele\u2019\u2019 hypothesis for heterozygote deficiencies in wild vertebrates."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 4,
+    "paragraph_number": 18,
+    "text": "The fact that we detected no additional heterozygotes indicates that (1) the use of comparisons between observed and expected levels of heterozygosity as tests for the presence of null alleles may give misleading results and (2) the reduced levels of heterozygosity in this massasaugas population are probably due to biological phenomena. Potential biological explanations for the heterozygote deficiency in the Killbear population include (1) a Wahlund effect (cf. Hartl and Clark 1987) due to unrecognized population structure on a microgeographic scale or (2) inbreeding resulting from assortative mating between kin. Additional analysis by Gibbs et al. (unpublished data) indicate that both phenomena may cause heterozygote deficiencies in this and other populations of these snakes."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 4,
+    "paragraph_number": 19,
+    "text": "The stepwise mutation model for microsatellite evolution assumes that when a mutation occurs at a locus the allele in question has an equal probability of either increasing or decreasing in size by one repeat unit (Valdes et al. 1993). However, recent analyses using either simulations (Di Rienzo et al. 1994) or analytical predictions (Estoup et al. 1995) suggest that a simple stepwise model does not accurately reflect mutational processes at some microsatellite loci in humans and insects. Based on these results, Estoup et al. (1995) argue that the more traditional infinite alleles mutation model (Ewens 1972) may better match the mutational processes occurring at these loci. Although we did not conduct formal tests of the appropriateness of either model to explain variation in the snake microsatellites described here, the large gaps in allele size distributions for at least three of the loci suggest that, for unknown reasons, at least some mutations may have resulted in changes of allele sizes of many repeat units. Modeling studies of the type con- ducted by Di Rienzo et al. (1995) are needed to accurately determine which model best describes how mutations occur at these loci, but we feel our data at least raise the issue that the pure stepwise model may not be appropriate. What we assume about how mutational processes operate at microsatellite loci is important because it bears on the accuracy of the different metrics used to measure levels of population differentiation. Our results suggest that measures based on the stepwise models [e.g., Rst (Slatkin 1995) and dmm (Goldstein et al. 1995)] may significantly overestimate the evolutionary divergence between populations and that, at least for the loci described here, more traditional measures of divergence based on the infinite alleles model [e.g., Fst and Nei\u2019s genetic distance (D; Nei 1972)] will give conservative but possibly more accurate estimates of population differentiation. There are two other possibilities that could explain the presence of two distinct types of alleles in the Killbear population. First, it could represent a retained ancestral polymorphism that resulted due to introgression between two ancient populations containing different size alleles. A test of this idea would require information on the phylogenetic history of the two allele types. Such data are not currently available. Second, massasaugas collected elsewhere which carry different size alleles may have been translocated into the park by humans. Anecdotal information suggests that small numbers of massasaugas have been released into the park during the past 30 years (Parent C, unpublished data). However, this explanation seems unlikely because the size range of alleles from other Georgian Bay populations is similar to that of the Killbear snakes (Gibbs HL et al., unpublished data) and the survival of translocated massasaugas is extremely low (Johnson B, unpublished data)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 3,
+    "text": "Microsatellite variation in grey seals (Halichoerus grypus) shows evidence of genetic differentiation between two British colonies."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 4,
+    "text": "Molecular markers, natural history, and evolution. New York: Chapman and Hall."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 5,
+    "text": "Social structure of pilot whales revealed by analytical DNA profiling."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 6,
+    "text": "A simple method for estimating null allele frequency from heterozygote deficiency."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 7,
+    "text": "The effect of linkage on paternity calculations. In: Inclusion probabilities in parentage testing (Walker RH, ed). Arlington, Virginia, American Association of Blood Banks; 411\u2013422."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 8,
+    "text": "Isolation of microsatellite markers from a passerine bird, the yellow warbler, Dendroica petechia, and their use in population studies. Heredity 79:506\u2013514."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 9,
+    "text": "Mutational processes of simple-sequence repeat loci in human populations."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 10,
+    "text": "Microsatellite variation in honey bee (Apis mellifera L.) populations: hierarchical genetic structure and test of the infinite allele and stepwise mutation models. Genetics 140:679\u2013695."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 11,
+    "text": "The sampling theory of selectively neutral alleles. Theor Popul Biol 3:87\u2013112."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 12,
+    "text": "Analysis of genetic differentiation of host races of the Common Cuckoo, Cuculus canorus, using mitochondrial and microsatellite DNA variation. Proc R Soc Lond B 263:89\u2013 96."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 13,
+    "text": "Genetic analysis of populations of threatened snake species using RAPD markers."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 14,
+    "text": "Genetic absolute dating based on microsatellites and the origin of modern humans."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 16,
+    "text": "Isolation and characterization of microsatellite loci in a passerine bird, the reed bunting, Emberiza schoeniclus."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 17,
+    "text": "Hartl D and Clark AG, 1987. Principles of population genetics, 2nd ed."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 18,
+    "text": "International symposium and workshop on the conservation of the eastern massasauga rattlesnake."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 19,
+    "text": "McDonald DB and Potts WK, 1994. Cooperative display and relatedness among males in a lek-breeding bird."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 20,
+    "text": "Genetic distance between populations. Am Nat 106:283\u2013292."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 21,
+    "text": "Nei M and Roychoudhury AK, 1974. Sampling variances of heterozygosity and genetic distances. Genetics 76: 379\u2013390."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 22,
+    "text": "Microsatellite analysis of genetic variation in black bear populations."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 23,
+    "text": "Pemberton JM, Slate J, Bancroft DR, and Barrett JA, 1995. Non-amplifying alleles at microsatellite loci: a caution for parentage and population studies."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 24,
+    "text": "Resolving genetic relationships with microsatellite markers: a parentage testing system for the swallow, Hirundo rustica."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 26,
+    "text": "Quellar DC, Strassman JE, and Hughes CR, 1993. Microsatellites and kinship."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 27,
+    "text": "Raymond M and Rousset F, 1995. GENEPOP (version 1.2): a population genetics software for exact tests and ecumenicism."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 28,
+    "text": "Seutin G, White BN, and Boag PT, 1991. Preservation of avian blood and tissue samples for DNA analysis. Can J Zool 69:82\u201390."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 29,
+    "text": "A measure of population subdivision based on microsatellite allele frequencies. Genetics 139:457\u2013462."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 30,
+    "text": "Hypervariability of simple sequences as a general source for polymorphic DNA markers."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 31,
+    "text": "Taylor AC, Sherwin WB, and Wayne RK, 1994. Genetic variation of microsatellite loci in a bottlenecked species: the northern hairy-nosed wombat, Lasiorhinus krefftii."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 32,
+    "text": "Alleles frequencies at microsatellite loci: the stepwise mutation model revisited. Genetics 133:737\u2013749."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 33,
+    "text": "Isolation and characterization of microsatellite loci for use in population genetic analysis in the timber rattlesnake, Crotalus horridus."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 34,
+    "text": "Weber JL and May PE, 1989. Abundant class of human DNA polymorphisms which can be typed using the polymerase chain reaction."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 35,
+    "text": "Weir BS and Cockerham CC, 1984. Estimating F-statistics for the analysis of population structure."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 38,
+    "text": "Microsatellite Markers in Canada Geese (Branta canadensis) A Canada goose (Branta canadensis) genomic library was created and screened for clones containing various microsatellite motifs. Fourteen positive clones were identified and sequenced; five primer pairs were developed and utilized to screen approximately 460 Canada geese for genetic variation. Each of these primer pairs were consistently scorable and polymorphic (average heterozygosity of 55%). DNA was isolated and successfully amplified from 2-year-old goose tail fans which received no special care other than storage at 48C. Two of the five goose primers also amplified DNA from a partial family of wood ducks (Aix sponsa; n 5 5), but no variation was detected at either locus. In geese, the number of alleles per locus ranged from 7 to 24. PIC values ranged from 0.41 to 0.91, while average levels of observed heterozygosity varied between 0.34 and 0.78. The high levels of polymorphism exhibited by these markers should be useful in addressing population genetic issues in Canada geese."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 42,
+    "text": "Canada geese (Branta canadensis) number in the millions across North America. Their populations and natural history have been a source of study for decades (Bellrose 1980; MacInnes 1962; Palmer 1976). Geese are a wildlife management priority from both an economic and biological standpoint. There are 11 putative subspecies of Canada geese based upon morphological differences (Delacour 1954; Johnsgard 1978). These subspecies are grouped according to size into two categories: large- and small-bodied geese. A main objective of North American waterfowl biologists is to identify the population affiliation, if any, of small Canada geese in the Central Flyway (B. c. parvipes and B. c. hutchinsii). Initially, analysis of proteins through allozyme electrophoresis was used to detect potential differences among subspecies of Canada geese (Baker and Hanson 1966; Morgan et al. 1977). A major problem with allozyme studies of geese is the low level of variability detectable with conventional protein electrophoresis. From a genetic viewpoint, the available allozyme data suggests that there is no basis for current taxonomic distinctions at the subspecific level. We chose to utilize hypervariable microsatellite loci (which typically have many more alleles per locus than allozymes) to determine if low levels of variability among loci are the primary reason that allozyme studies have failed to delineate populations and subspecies of Canada geese. Our objective was to produce a panel of microsatellite markers that could be used to assess the population structure of Canada geese."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 5,
+    "paragraph_number": 44,
+    "text": "Genomic Library Blood samples were used as a source of high-quality DNA. Our samples came from 13 collecting locales in the Northwest Territories of Canada ranging from Baffin Island in the east to the Mackenzie River delta in the west. Geese were mainly collected on their nesting grounds by driving flightless geese (those that had molted) into an enclosure. Goose blood (0.25\u20130.50 cc) was drawn from the brachial vein and transferred to a sterile polypropylene tube Table 1. Molecular properties and population statistics of five Canada goose microsatellites TTUCG-1F TTUCG-1R 59-CCCTGCTGGTATACCTGA-39 59-GTGTCTACACAACAGC-39 ;119 558C 453 0.4349 7 0.5754 TTUCG-2F TTUCG-2R 59-GAGAGCGTTACTCAGCAAA-39 59-TCACTCTGAGCTGCTACAACA-39;136 558C 416 0.7788 24 0.8847 TTUCG-3F TTUCG-3R 59-GAGGTCGAATCCAACCTG-39 59-GCACATGATGCATGTGCTG-39 ;79 538C 377 0.4138 14 0.8562 TTUCG-4F TTUCG-4R 59-GGTGTACTCTGCTGAGTGTC-39 59-CTAGAACTAGTGGATCTCTC-39 ;194 558C 426 0.3427 18 0.4068 TTUCG-5F TTUCG-5R 59-GGGTGTTTTCCAACTCAG-39 59-CACTTTCCTTACCTCATCTTG-39;206 598C 402 0.7761 18 0.9090 Figure 1. Panels A and B show two microsatellite loci amplified from Canada geese. Panel A shows a pentanucleotide repeat (TTUCG-5) and the sequence of M13. Panel B shows a dinucleotide repeat (TTUCG-2). The numerous slippage bands in the dinucleotide repeat make it more difficult to score than the pentamer, which has fewer and less severe shadow bands. Additionally the size of the dinucleotides are sometimes difficult to discern, as shown in panel B. containing 5 ml of lysis buffer (Longmire et al. 1991). The blood and lysis buffer were incorporated by inversion. Once the tubes arrived at the laboratory, proteinase K was added to the blood-lysis solution to a final concentration of 0.5 mg/ml and incubated at 378C with rotation overnight. Following a phenol extraction, the aqueous phase was retained and dialyzed against 13 TE (10 mM Tris, 1 mM EDTA) at 48C overnight. The DNA was then ethanol precipitated and rehydrated with water. DNA concentrations were determined by agarose-gel electrophoresis. Additionally DNA was extracted from feather quills pulled from the tail fan and from muscle associated with the tail fan. These goose tail fans were 2 years old and had no special care given to them other than cold- room storage. The tissues were placed into the lysis buffer and treated in the same manner as the blood samples. A genomic library was constructed using methods similar to DeWoody et al. Briefly, genomic DNA from a single goose was digested with Sau3A1; small fragments (,500 bp) were collected and cloned into the plasmid vector pBluescript II SK1 (Stratagene Inc., La Jolla, California) and transformed into DH5-alpha competent cells (Stratagene). Different repeat arrays d(GT/CA, CT/GA, GATA/ CTAT) were hybridized to resultant colonies according to Janecek et al. (1993); 14 positive clones were isolated and sequenced according to established protocols (Sambrook et al. 1989). Sequences are deposited in GenBank under accession numbers U66089, U66090, U66091, U66092, and U66093."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 6,
+    "paragraph_number": 17,
+    "text": "DNA Amplification PCR primers were designed for five of the 14 positive clones. All 14 clones contained repeats; however, 9 of the 14 clones did not allow primer design due to insufficient sequence data. Several of these clones contained microsatellites that were too close to the vector/insert junction to allow primer design. The sequence of each primer, expected product size, and annealing temperature are listed in Table 1. PCRs were performed in 25 ml volumes containing ;200 ng DNA, 0.25 mM of each primer, 200 mM dNTP, 1.5 mM MgCl2, 13 buffer, and 1.25 units of Taq DNA polymerase. Thermal profile consisted of an initial denaturation of 2 min at 948C followed by 35 cycles of 948C for 1 min, primer-specific annealing temperature (Table 1) for 30 s, and 728C for 30 s. PCR products were visualized using a radioactively labeled primer; the forward primer was labeled with 32P-gamma-ATP using T4-polynucleotide kinase (New England Biolabs, Beverly, Massachusetts) according to manufacturer\u2019s instructions. Radiolabeled PCR products were denatured for 4 min at 808C and electrophoresed in a 6% polyacrylamide gel (Sequagel, Atlanta, Georgia) at 55 W for up to 6 h. After drying, gels were exposed to X-ray film. Autoradiographs were scored utilizing the DNA sequence of M13 as a molecular size standard. Each allele was discrete and defined by size according to this standard."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 6,
+    "paragraph_number": 19,
+    "text": "We isolated and sequenced 14 clones that hybridized to three microsatellite repeat motifs from a Canada goose genomic library. We designed PCR primers to amplify five presumably independent loci that contained microsatellite repeats. Four of the five loci (TTUCG-1\u20134) are each d(GT/ CA)n repeats, while the fifth locus (TTUCG-5) is a d(GATAA/CTATT)n pentamer. The clone containing the pentamer repeat also contained a d(CT/GA) repetitive element, but our PCR primers amplify only the pentamer repeat. Our results indicate that the pentamer repeat is much easier to score than the dinucleotide repeats because of fewer slippage bands (Figure 1). Each of the five PCR primer pairs was highly polymorphic in Canada geese, with an average of 15.4 alleles per locus (Table 1). Average observed heterozygosity ranged from 34 to 78%, with an average of 55% over all five loci (Table 1). PIC values (Botstein et al. 1980) indicate that each marker should be highly informative; values ranged from 0.4068 to 0.9090 (Table 1). Two of the five markers (TTUCG-1 and TTUCG-4) amplified DNA from a small sample of related wood ducks (n 5 5; mother and four offspring); however, no genetic variation was observed even though genetic variation is segregating within the family according to a duck microsatellite marker (Cathey et al. 1996). In summary, we created a goose genomic library and developed a panel of five microsatellite markers that are highly polymorphic in multiple populations of Canada geese. Two of these markers were monomorphic in a small family of wood ducks. Additionally we successfully used all five microsatellite markers to amplify goose DNA from tail fans that were collected in the field and donated by hunters. Goose hunters are often surveyed by the U.S. Fish and Wildlife Service to obtain information about their harvest. These surveys offer a convenient and inexpensive way to gather tissue from wild populations that can later be used for genetic analysis. The tail fans were shipped in an envelope at ambient temperature and transferred to a cold room at 48C at the earliest convenience. No other care and/or preparation was given to these tail fans until some 2 years later, when DNA was isolated as described above. Therefore the markers described herein should be of value to both wildlife managers who study Canada geese as well as geneticists."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 3,
+    "text": "From the Department of Range, Wildlife, and Fisheries Management and the Department of Biological Sciences, Texas Tech University, Lubbock, Texas. Dr. Cathey is now at the Texas Parks and Wildlife Department, Engeling WMA, Rt. 1 Box 27, Tennessee Colony, Texas. This work was supported by the U.S. Fish & Wildlife Service and by the Central Flyway Council. We thank J. Haskins, J. Cornely, and R. Trost for initiating this work. J. Hines, B. Croft, R. Bromley, R. Alisauskas, A. Didiuk, M. Gillispie, and D. Caswell collected blood samples from Canada geese. We thank J. L. Longmire and Los Alamos National Laboratory for technical assistance. R. J. Baker graciously provided guidance, laboratory facilities, and critical comments on an earlier draft of this article. This is manuscript T-9-773, College of Agriculture and Natural Resources, Texas Tech University. Address correspondence to Dr. Cathey, Texas Parks and Wildlife Department, Engeling WMA, Rt. 1 Box 27, Tennessee Colony, TX 75861, or e-mail: ewma@etex.com."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 6,
+    "text": "Molecular genetics of avian proteins\u2014VI. Evolutionary implications of blood proteins of eleven species of geese. Comp Biochem Phys 17:997\u20131006."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 8,
+    "text": "Ducks, geese and swans of North America."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 9,
+    "text": "Construction of a genetic linkage map in man using restriction fragment length polymorphisms."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 10,
+    "text": "Cathey JC, Smith LM, Baker RJ, and DeWoody JA, 1996. Trinucleotide repeat polymorphism at the alpha-enolase/tau-crystallin locus in ducks."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 11,
+    "text": "The waterfowl of the world. London: Country Life."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 12,
+    "text": "DeWoody JA, Honeycutt RL, and Skow LC, 1995. Microsatellite markers in white-tailed deer."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 13,
+    "text": "Janecek LL, Longmire JL, Wichman HA, and Baker RJ, 1993. Genome organization of repetitive elements in the rodent Peromyscus leucopus."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 14,
+    "text": "Lincoln: University of Nebraska Press."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 15,
+    "text": "Longmire JL, Ambrose RE, Brown NC, et al., 1991. Use of sex-linked minisatellite fragments to investigate genetic differentiation and migration of North American populations of the peregrine falcon (Falco peregrinus). In: DNA fingerprinting: approaches and applications (Burke T, Dolf G, Jeffreys AJ, and Wolff R, eds)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 16,
+    "text": "Nesting of small Canada geese near Eskimo Point, Northwest Territories."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 17,
+    "text": "Morgan RP, Sulkin ST, and Henny CJ, 1977."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 18,
+    "text": "Handbook of North American birds. New Haven, Connecticut: Yale University Press."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 19,
+    "text": "Sambrook J, Fritsch EF, and Maniatis T, 1989. Molecular cloning: a laboratory manual. Cold Spring Harbor, New York: Cold Spring Harbor Laboratory Press."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 22,
+    "text": "Short Beak: A New Autosomal Recessive Semilethal Mutation in Japanese Quail Short beak (SBK) is a new semilethal mutation of Japanese quail (Coturnix japonica). The SBK individuals are characterized externally by short beaks, shanks, and digits. The shank is also thicker than the wild type. The shape of the mutant beak does not show a parrotlike appearance, contrasting with that of other poultry chondrodystrophic mutants reported in the literature. Bones in the fore and hind limbs of the SBK mutant are also shorter than the wild types. The humerus and ulna in the wing are significantly thicker than the wild types. Other bones in the wing and leg show approximately the same thickness as the wild types. The majority of the SBK mutants die at the late embryonic stage. Some chicks can hatch with no assistance, but almost all die around 3 days of age. However, a part of the SBK individuals (5.3%, 8/151) reach sexual maturity and can reproduce. Genetic analyses revealed that the SBK mutation is controlled by an autosomal recessive gene. The proposed gene symbol is sbk. The sbk gene is not allelic to the previously reported stumpy-limb (sl) gene that expresses a somewhat similar phenotype to the SBK."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 26,
+    "text": "In August 1994 we found unusual chicks having beaks and shanks reduced in size. These were among the progeny from a mating of a black-at-hatch mutant (Minezawa and Wakasugi 1977) female and a wild-type male Japanese quail (Coturnix japonica) kept at the Department of Laboratory Animal Science, College of Agriculture, Osaka Prefecture University. All of these unusual chicks died before reaching maturity. Fullsib matings of their normal siblings also segregated such abnormal individuals. Thus this abnormality seemed to be a recessive lethal mutation. In Japanese quail, there are five mutations that show reduced beak and shank lengths and lethality (Collins et al. 1968; Hermes et al. 1990; Hill et al. 1963; Nichols and Cheng 1991; Tsudzuki 1995b). The present mutant seemed to be phenotypically different from all of them. We named our mutant short beak (SBK) and started genetic analysis. This article describes the features of the SBK character and its mode of inheritance."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 7,
+    "paragraph_number": 28,
+    "text": "General care of quail is described elsewhere (Tsudzuki 1995a). We compared external appearances between the SBK and wild-type newly hatched chicks. We measured with a caliper the length of the beak, shank, and third digit and the midshaft thickness of the shank in both mutant and wild-type chicks. Furthermore, we compared SBK and wild-type long bones of 15day embryos by measuring their length and midshaft thickness under a dissecting microscope. For this purpose we stained the bone with alizarin red S (Wako Pure Chemical Industries, Ltd., Osaka, Japan) based on the method described by Tsudzuki and Wakasugi (1988). The resulting data were analyzed by Student\u2019s t test or Cochran\u2013Cox test."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 8,
+    "paragraph_number": 2,
+    "text": "Body weight (g), length (mm) of the beak, shank, and third digit, and thickness (mm) of the shank in newly hatched wild-type and short-beak mutant chicks (mean 6 SEM) Body weight 6.88 6 0.10a 6.94 6 0.15a 6.94 6 0.13a 6.88 6 0.12a Thickness of the shank 1.86 6 0.04a 1.87 6 0.03a 2.00 6 0.04b 2.03 6 0.04b Means within a line having different superscripts significantly differ by Student\u2019s t test or Cochran\u2013Cox test (P , .001 for body weight and length of the beak, shank, and third digit; P , .05 for thickness of the shank)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 8,
+    "paragraph_number": 15,
+    "text": "Measurements (mean 6 SEM) of body weight (g) and appendicular bones (mm) in wild-type and short-beak mutant embryos at 15 days of incubation Body weight 5.90 6 0.08a 5.85 6 0.10a 5.32 6 0.12b 5.25 6 0.10b 6.07 6 0.03a 0.54 6 0.01a 5.09 6 0.04a 0.47 6 0.01a 3.70 6 0.05a 0.45 6 0.01a 1.15 6 0.02a 0.54 6 0.01a 6.09 6 0.04a 0.54 6 0.01a 5.21 6 0.05a 0.48 6 0.01a 3.63 6 0.03a 0.45 6 0.01a 1.16 6 0.02a 0.53 6 0.01a 4.65 6 0.16b 0.60 6 0.01b 4.30 6 0.07b 0.52 6 0.01b 3.24 6 0.06b 0.43 6 0.01a 0.96 6 0.02b 0.56 6 0.01a 4.69 6 0.11b 0.60 6 0.01b 4.34 6 0.07b 0.52 6 0.01b 3.33 6 0.04b 0.43 6 0.01a 0.99 6 0.02b 0.56 6 0.01a 0.86 6 0.01a 10.13 6 0.04a 1.21 6 0.02a 3.12 6 0.04a 0.65 6 0.01a 0.89 6 0.01a 10.00 6 0.10a 1.21 6 0.02a 3.08 6 0.04a 0.65 6 0.01a 0.85 6 0.01a 8.53 6 0.15b 1.23 6 0.02a 2.49 6 0.04b 0.68 6 0.01a 0.85 6 0.01a 8.47 6 0.12b 1.24 6 0.01a 2.43 6 0.04b 0.67 6 0.01a L 5 length; T 5 thickness; Metacarpus 5 the third metacarpus; phalanx in the wing 5 the first phalanx of the third digit; length of the metatarsus 5 length of the third metatarsus; thickness of the metatarsus 5 total thickness of the second through fourth metatarsi; phalanx in the leg 5 the first phalanx of the third digit. Means within a line having different superscripts differ significantly by Student\u2019s t test or Cochran\u2013Cox test (P , .05 for body weight, P , .01 for bone thickness, P , .001 for bone length)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 8,
+    "paragraph_number": 46,
+    "text": "Mating Experiments We separated the female and male of the original pair that produced the first mutants and mated each of them to wild-type controls (UOP-WT line; Ito and Tsudzuki 1994) to produce F1 progeny. We then mated the F1 birds among themselves, avoiding sib matings, and identified carrier matings by a progeny test. We mated the progeny from these carrier matings inter se and again identified carrier matings by a progeny test. In these selected proven carrier matings, we examined the incidence of SBK individuals. With the SBK individuals derived from the carrier matings, we examined the viability of this mutant. Because a few SBK mutants were viable and fertile, we paired SBK mutants with wild-type controls to produce F1 progeny. We then backcrossed the F1 birds to the SBK mutants. In these F1 and backcross progeny, we investigated the incidence of the SBK individuals. All segregation data obtained in the present study were analyzed by the chi-square test. In addition to the mating experiment with the viable SBK mutants and wild-type controls, we made an allelism test between the viable SBK mutant and stumpy limb (sl) mutant (Tsudzuki 1995b; Tsudzuki et al. 1991) that is also characterized by reduced beaks and shanks. For this purpose we paired the SBK male to the SL female and examined the phenotype of their F1 progeny."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 8,
+    "paragraph_number": 48,
+    "text": "Morphology The SBK chick had a somewhat smaller and more globular head than the wild type. The beak of the mutant was shorter than the wild type. Its shape did not show a parrotlike appearance but was similar to that of the wild-type beak. The shanks and digits of the SBK chick were shorter than those of the wild-type chick. Moreover, the SBK shanks were slightly thicker than the wild type."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 8,
+    "paragraph_number": 49,
+    "text": "Measurement of the Beak, Shank, and Digit Table 1 shows body weight, length of the beak, shank, and third digit, and thickness of the shank in newly hatched wild-type and SBK mutant chicks. There was no significant difference in the body weight between the mutant and the wild type, nor between the sexes. There was also no sex difference in the length of the beak, shank, and third digit. However, the length of the beak, shank, and third digit of the SBK mu- tant were all significantly (P , .001) shorter than the wild type. The length of the beak, shank, and third digit of the SBK chick was approximately 90% of that of the wild-type chick. The shank was significantly (P , .05) thicker in the SBK mutant than in the wild type. The extent to which the SBK shank was thickened was approximately 110%. These data support the correctness of the visual observation mentioned above."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 8,
+    "paragraph_number": 51,
+    "text": "Measurement of Appendicular Bones Table 2 shows measurements of body weight and appendicular bones of wildtype and SBK mutant embryos at 15 days of incubation. There were no sex differences in all points measured within each group. The body weight of the SBK em- bryo was significantly smaller than that of the wild type. The length of all the bones that were measured (humerus, ulna, third metacarpus, and first phalanx of the third digit in the wing, and femur, tibia, metatarsus, and first phalanx of the third digit in the leg) was significantly smaller in the SBK embryos (approximately 80\u201390%) than in the wild-type embryos. On the other hand, the humerus and ulna of the SBK embryos were significantly thicker (approximately 110%) than that of the wild types. The other bones in the wings and all bones in the legs that were measured showed similar values to those of the wild types. The appendicular bones of the SBK mutant had a dumpy appearance in comparison with wild-type bones. In spite of the similar thickness of the Table 3. Segregation data for the short-beak mutant (SBK) and wild type (WT) in carrier matings Carrier matings 705 663 46 40 93 426 58 462.75 : 154.25 0.09 .80 . .70 Control 284 261 18 11 0 232 0 \u2014 \u2014 \u2014 a Based on a 3:1 ratio of simple autosomal recessive inheritance, involving both dead embryos and chicks hatched."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 9,
+    "paragraph_number": 14,
+    "text": "Incidence of the short-beak (SBK) mutant in F1 and backcross generations in mating experiments between wild-type (WT) controls and viable SBK mutants WT SBK 3 3 SBK WT 4 1 164 18 164 18 0 0 164:0 18:0 \u2014 \u2014 \u2014 \u2014 Total 5 182 182 0 182:0 \u2014 \u2014 F1 SBK 3 3 SBK F1 4 1 144 57 73 30 71 27 72:72 28.5:28.5 0.03 0.16 .90 . .70 a Observation was performed at 15 days of incubation. metatarsus between the wild-type and SBK individuals (Table 2), the thickness of the shank was significantly larger in the SBK mutant than in the wild type (Table 1). There is a possibility that the SBK mutant shank might have a greater amount of flesh and/or skin around the metatarsus. Although the body weight of the 15-day SBK embryos was lighter than the wild type (Table 2), there were no significant differences in body weight between the newly hatched wild-type and SBK mutant chicks (Table 1). The body weight of the 15-day SBK mutant embryos ranged from 4.1 to 6.0 g. As is mentioned later, a considerably larger number of the SBK mutants die before hatching. Thus it is thought that SBK individuals with lower body weight die before hatching and only those with higher weight can hatch, leading to no significant difference in body weight between the wild-type and SBK chicks."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 9,
+    "paragraph_number": 27,
+    "text": "Genetic Analyses Table 3 shows the incidence of the SBK mutant in proven carrier matings. Before 11 days of incubation, embryonic mortality was similar between the control and carrier matings. Of 617 progeny on and after 11 days of incubation, 466 were wildtypes and 151 were SBKs. This segregation ratio was in good agreement (x2 5 0.09, .80 . .70) with the expected 3:1 ratio based on the hypothesis that the SBK character is controlled by an autosomal recessive gene. Among the 466 wild types, 40 (8.6%) died at the late embryonic stage, whereas among the 151 SBKs, 93 (61.6%) died at the same stage. Moreover, of the 58 SBK chicks that hatched, 42 died before maturity, with the peak of death around 3 days of age. The remaining 16 birds (7 females and 9 males) reached adulthood. Of the 7 females and 9 males, a female and a male showed no sexual maturity, 4 females and 2 males showed sexual maturity but died before mating experiments, and 2 females and 6 males could actually reproduce. Table 4 shows the results of direct matings of the viable SBK mutants to controls. All 182 F1 birds from reciprocal matings were wild types. The backcross segregation ratio was also in good accordance (x2 5 0.12, .80 . .70) with the expected 1:1 ratio based on the hypothesis mentioned. Thus it is concluded that the SBK character is controlled by an autosomal recessive semilethal gene with variable expressivity in lethality. The stumpy limb (SL) mutant (Tsudzuki 1995b; Tsudzuki et al. 1991) shows short beaks and shanks and is controlled by an autosomal recessive gene, sl. In the test for allelism, the 75 F1 birds from two pairmatings of the SBK male and SL female showed a wild-type phenotype, which indicates that the two traits are not alleles. We propose the gene symbol sbk for the mutant gene controlling the short beak character. The present mutant is characterized by brachycephaly and short, thick legs and accompanied by lethality. Besides the SL mutation mentioned, there are four chondrodystrophic mutations in Japanese quail that have abnormalities in the beak and leg and show lethality, that is, micromelia (Hill et al. 1963), chondrodystrophy (Collins et al. 1968), chondrodystrophy-2 (Hermes et al. 1990), and micromelia-Nichols (Nichols and Cheng 1991). All of them, however, are easily distinguishable from the present SBK mutant by possessing a parrotlike beak and/or 100% prehatching lethality. The SBK mutant has a shortened beak, but its shape does not show a parrotlike beak appearance. Approximately 40% of the SBK mutants can hatch with no assistance, and a few SBK birds reach sexual maturity. Several chondrodystrophic mutations have also been reported in chickens and turkeys as well as in Japanese quail (Savage 1990; Somes 1990), but almost all of them are characterized by parrotlike beaks and/or 100% lethality during embryonic stages, apparently differing from the quail SBK mutation. The micromelia-Hays mutant of chickens (Hays 1944) is somewhat similar to the quail SBK mutant in having reduced beaks with normal shape and approximately 30% hatchability. However, mutant chicks have greatly shortened legs and die within 1 week, which differs obviously from the quail SBK mutant. The extent to which the SBK legs are shortened is small, and a few SBK individuals reach sexual maturity and can reproduce. The chondrodystrophy-m mutant of turkeys (Nestor 1978) resembles the present SBK mutant in two points. It has proportionately shortened upper and lower beaks, and some mutants reach adulthood. However, all are sterile, and about half of the mutants show the absence of some terminal phalanges, contrasting with the quail SBK mutant in which phalanges are normal and some individuals are fertile."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 9,
+    "paragraph_number": 31,
+    "text": "From the Laboratory of Animal Breeding and Genetics, Faculty of Applied Biological Science, Hiroshima University, Kagamiyama, Higashi-Hiroshima 739-8528, Japan (Tsudzuki), and Department of Laboratory Animal Science, College of Agriculture, Osaka Prefecture University, Sakai, Osaka, Japan (Nakane and Wada). Address correspondence to Dr. Tsudzuki at the address above or e-mail: tsudzuki@ue.ipc.hiroshima-u.ac.jp."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 3,
+    "text": "Collins WM, Abplanalp H, and Yoshida S, 1968. Early embryonic chondrodystrophy in Japanese quail."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 4,
+    "text": "Hays FA, 1944. Chondrodystrophy in Rhode Island reds. Am Nat 78:54\u201358."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 5,
+    "text": "Hermes JC, Abbott UK, Johnston E, and Owens M, 1990. A new chondrodystrophy mutation in Japanese quail (Coturnix japonica)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 7,
+    "text": "Ito S and Tsudzuki M, 1994. Orange: a plumage color mutation accompanied by semi-lethality in Japanese quail."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 8,
+    "text": "Studies on a plumage mutant (black at hatch) in the Japanese quail."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 9,
+    "text": "Nestor KE, 1978. Hereditary chondrodystrophy in the turkey."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 10,
+    "text": "Nichols CR and Cheng KM, 1991. Micromelia-Nichols (m-N): an autosomal recessive obligate embryonic lethal mutation in Japanese quail."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 11,
+    "text": "Mutations and major variants in turkeys. In: Poultry breeding and genetics (Crawford RD, ed)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 12,
+    "text": "Somes RG Jr, 1990. Lethal mutant traits in chickens. In: Poultry breeding and genetics (Crawford RD, ed)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 13,
+    "text": "Light down lethal: a new autosomal recessive down color mutation of Japanese quail."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 14,
+    "text": "New findings in the stumpy-limb mutation of Japanese quail."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 15,
+    "text": "Genetic head-skeleton abnormalities in the ET (ear tuft) strain of Japanese quail: a defect associated with the incomplete closure of the hyomandibular furrow."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 19,
+    "text": "Genetic Variation and Population Genetic Structure in Trifolium pratense Trifolium pratense (red clover) is a shortlived herbaceous plant native to southeastern Europe and Asia Minor. Widely used in agriculture, T. pratense is cultivated as an annual, winter annual, or biennial. It blooms from mid-spring to early fall and is insect pollinated and self-incompatible. Seeds are mammal and bird dispersed. Naturalized populations of T. pratense occur along roadsides and in old fields as well as native grasslands. Allozyme diversity and population genetic structure were determined for nine populations of T. pratense. Results from 13 allozyme loci indicate that genetic diversity is higher and population divergence is lower than expected based on the life-history characteristics of the species. We conclude that the high levels of genetic diversity found within populations of T. pratense suggest that these are not newly established founder populations, and that the low levels of genetic divergence seen among populations are probably due to high rates of gene flow among populations as a result of seed and pollen movement."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 23,
+    "text": "Agricultural breeding practices and lifehistory characteristics of cultivated species effect the levels of genetic diversity maintained within species and their populations. At the species level, high genetic diversity is desirable; thus germplasm collections and seed banks have been established to conserve and maintain the genetic diversity of cultivated species and their relatives (Blixt 1988; Marshall 1989; Marshall and Brown 1975). Genetic diversity within populations of crop species is often reduced, however, when the characteristics of high yield and phenotypic uniformity are selected. Naturalized populations of cultivated species (i.e., escapes) are ultimately a product of both their biological characteristics and historical cultivation practices. Newly established naturalized populations should have low levels of genetic diversity for several reasons. First, genetic variation in the source population (i.e., a cultivated field) may be limited because the field was planted with a single strain or cultivar. Second, populations of colonizing species are often founded by a small sample of a larger population (i.e., founder effect) and as a result may exhibit reduced genetic diversity (Barrett and Shore 1989; Chakraborty and Nei 1977; Nei et al. 1975; Finally, because the competitive ability of cultivated species is often reduced in natural habitats, the number of successful founders may be small (i.e., founder selection), further reducing genetic variation sampled from the source population. These factors should contribute to low genetic diversity within populations and higher divergence among populations. In contrast, the mixing of strains due to seed movement and pollen flow between established populations should increase intrapopulation diversity and reduce differentiation among populations. In this study we examined genetic variation within and among naturalized pop- ulations of Trifolium pratense L. (red clover). A short-lived herbaceous plant, T. pratense is cultivated as an annual, winter annual, or biennial. It is widely used in agriculture and is of considerable economic importance. Originating in southeastern Europe and Asia Minor, T. pratense was first cultivated in northern Europe around 1650 (Merkenschlager 1934) and was introduced to North America by European colonists (Fergus and Hollowell 1960; Pieters and Hollowell 1937). T. pratense is an insect-pollinated, self-incompatible diploid (2n 5 14) that blooms from mid-spring to early fall (Smith et al. 1985). Seeds are dispersed by horses, cattle, humans and birds (Ridley 1930). T. pratense is commonly found along roadsides and in old fields, but it also invades natural and cultivated grasslands. We compared the genetic diversity and population genetic structure in naturalized populations of T. pratense with plant species having similar life-history characteristics. We concluded that the high levels of genetic diversity found within populations of T. pratense suggest that these are not newly established founder populations, and that the low levels of genetic divergence seen among populations is probably due to high rates of gene flow among populations as a result of seed and pollen movement."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 10,
+    "paragraph_number": 26,
+    "text": "Nine population samples of T. pratense were collected, three populations in the southeastern United States in 1992 (Jackson, North Carolina 5 JNC1; Clayton, Georgia 5 BMT1; Athens, Georgia 5 CCR1) and in 1993 (Jackson, North Carolina 5 JNC2; Clayton, Georgia 5 BMT2; Athens, Georgia 5 CCR2) and an additional three populations in 1993 from the northeastern United States (Biddeford, Maine 5 UNE; Kennebunk, Maine 5 KBS; Woodstock, Virginia 5 WHS) (Figure 1). Data from the 1992 and 1993 southeastern populations were pooled for analysis unless stated otherwise. From each population leaf samples were collected from 48 individual plants. Samples were stored on ice after collection and transported to the laboratory for electrophoretic analysis. Each leaf sample was cut finely, frozen with liquid nitrogen, and crushed with a mortar and pestle. Enzymes were stabilized and extracted by the addition of a potassium phosphate buffer (Mitton et al. 1979). The enzyme extracts were absorbed onto filter paper wicks and stored at 2708C."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 11,
+    "paragraph_number": 2,
+    "text": "Locations of nine T. pratense populations collected in the eastern United States."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 11,
+    "paragraph_number": 3,
+    "text": "Electrophoresis was performed on 10% starch gels according to the gel and electrode buffer systems of Soltis et al. Twelve enzyme stains resolved 13 loci. The enzymes stained were triose phosphate isomerase (TPI), alcohol dehydrogenase (ADH), glucose-6-phosphate dehydrogenase (GDH), peroxidase (PER), malate dehydrogenase (MDH), glucosephosphate isomerase (GPI), diaphorase (DIA), 6-phosphogluconate dehydrogenase (6PGDH), malic enzyme (ME), b-galactosidase (b-GAL), leucine aminopeptidase (LAP), and fructose biphosphate (FBP). Stain recipes were taken from Soltis et al. (1983), except for DIA and b-GAL, which were taken from Cheliak and Pitel (1984), and FBP, which is from Wendel and Weeden (1989). The genetic basis of the observed allozyme banding patterns was inferred from segregation patterns with reference to typical subunit structure (Gottlieb 1981; Harris and Hopkinson 1976). Allozyme diversity was calculated for the species as a whole and on a population basis using four standard measures: percent polymorphic loci (P), mean num- ber of alleles per polymorphic locus (AP), effective number of alleles per locus (Ae ), and gene diversity (He ). Subscripts refer to species (s) or population (p) level parameters. Percent polymorphic loci (Ps) was calculated by dividing the number of loci polymorphic in at least one population by the total number of loci analyzed. The mean number of alleles per polymorphic locus (APs) was determined by summing all the alleles observed at polymorphic loci and dividing by the total number of loci. The effective number of alleles was calculated for each locus by 1/Spi 2, where pi is the mean frequency of the ith allele. These values were then averaged across loci to obtain Aes. Gene diversity at each locus was calculated as h 5 1 2 Spi 2. The mean genetic diversity (He) is the arithmetic average of h values across all loci. At the population level, the values of Pp, APp, Aep, and Hep were calculated using the equations of Hedrick (1985). Genetic parameters at the population level represent population means, whereas at the species level, parameters reflect overall genetic diversity within the species."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 11,
+    "paragraph_number": 5,
+    "text": "Deviations from Hardy\u2013Weinberg expectations were examined for each population by calculating Wright\u2019s fixation index (Wright 1922) and testing for significant deviations from the expected value (F 5 0) by chi-square tests (Li and Horvitz 1953). Chi-square analyses were also performed to test for heterogeneity in allele frequencies among populations (Workman and Niswander 1970) and among years. Total genetic diversity was partitioned into components using Nei\u2019s (1973, 1977) gene diversity statistics. For each polymorphic locus, total gene diversity (HT) was partitioned into diversity among regions (Dreg), among populations within regions (Dpop), and within populations (Hwpop) as follows: HT 5 Dreg 1 Dpop 1 Hwpop. A temporal component to gene diversity, Dyear, was examined for the southern populations only; where total gene diversity in the southern sample (HST) as partitioned into diversity among years (Dyear), among populations within years (Dpop(year)), and within populations (Hswpop) as follows: HST 5 Dyear 1 Dpop(year) 1 A measure of differentiation among populations, relative to total diversity, Gx, as calculated at each locus and averaged over all polymorphic loci to obtain a species value for population divergence. Population divergence was also examined by calculating Nei\u2019s genetic distance and identity parameters (Nei 1972) for all pairs of populations. An indirect estimate of gene flow among populations, Nm, was estimated, from the genetic data as where a 5 [n/(n 2 1)] and n 5 number of populations sampled (Crow and Aoki 1984)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 11,
+    "paragraph_number": 9,
+    "text": "Ten of the 13 loci (76.9%) were polymorphic in at least one population. b-GAL, 6PGDH, and ADH were monomorphic enzyme systems. The percent polymorphic loci within populations ranged from 61.5% in population CCR to 76.9% in population BMT, with an overall mean of 68.4%. The number of alleles per polymorphic locus was 2.60 at the species level and averaged 2.52 within populations. Expected heterozygosity for the species was Hes 5 0.285 and at the population level was Hep 5 0.250 (Table 1). Hardy\u2013Weinberg expectations were observed in all but 5 of the 117 chi-square tests. Since we would expect to see 5.85 Table 1. Summary of allozyme variation within populations of T. pratense 76.92 61.54 69.23 63.64 69.23 69.23 68.30 5.32 76.9 0.299 0.266 0.277 0.198 0.201 0.259 0.250 0.025 0.285 Values are based on 13 loci. Abbreviations: P, percent polymorphic loci; AP, mean number of alleles per polymorphic locus; Ae, effective number of alleles per locus; Hobs, observed heterozygosity; He, expected heterozygosity."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 12,
+    "paragraph_number": 11,
+    "text": "Gene diversity statistics (Nei 1973, 1977) and 10 polymorphic loci in T. pratense 0.265 0.258 0.002 0.468 0.419 0.499 0.480 0.473 0.483 0.361 0.016 0.001 0.000 0.001 0.001 0.057 0.021 0.029 0.000 0.005 0.052 0.115 0.000 0.033 0.006 0.131 0.020 0.038 0.032 0.063 0.932 0.884 1.000 0.966 0.993 0.812 0.959 0.933 0.968 0.932 Mean SD 0.371 0.157 0.013 0.019 0.049 0.044 0.938 0.056 Total genetic variation, HT, was partitioned into the proportion of genetic variation found among regions, Greg, among populations within regions, Gpop, and within populations, Gwpop."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 12,
+    "paragraph_number": 19,
+    "text": "Gene diversity statistics (Nei 1973, 1977) for 10 polymorphic loci in T. pratense 0.308 0.268 0.004 0.481 0.431 0.496 0.463 0.537 0.476 0.390 0.051** 0.019*** 0.000n.s. 0.068 0.184 0.000 0.033 0.005 0.230 0.039 0.023 0.030 0.060 0.881 0.797 1.000 0.952 0.982 0.757 0.938 0.926 0.968 0.849 Mean SD 0.385 0.158 0.028 0.028 0.067 0.077 0.905 0.082 Total genetic variation, HST, estimated in the southern populations BMT, CCR, and JNC, was partitioned into the proportion of genetic variation found among the years 1992 and 1993, Gyear, among populations within years, Gpop(year), and within populations Gswpop. a Chi-square test of independence. *** 5 P , .001; ** 5 P , .01; * 5 P , .05; n.s. 5 not significant. significant deviations at the P 5 .05 significance level by chance alone, we can conclude that the populations sampled are in Hardy\u2013Weinberg equilibrium. Furthermore, mean observed heterozygosity within populations, Hobs 5 0.228, was close to expectation, Hep 5 0.250, and the mean FIS value, a measure of the deviation of random mating within populations, was not significantly different from zero (P , .05). These results are consistent with the predominantly outcrossing mode of reproduction known for this species (Smith et al. 1985). Allele frequencies were significantly different among populations for 9 of the 10 polymorphic loci (P , .001), the exception being the GDH1 locus which had very little genetic variation. The mean proportion of total genetic variation due to differences among regions, Greg, and among populations within regions, Gpop, was 0.013 and 0.049, respectively, indicating that most of the genetic diversity occurs within populations (93.8%) Genetic identity among pairs of populations was relatively high, ranging from 0.952 to 0.989, with a mean of 0.972 (data not shown). Temporal variation among populations sampled in the southeastern United States, Gyear, accounted for 2.8% of the total gene diversity. Gyear values were significant for all loci except GDH and LAP (Table 3). The mean proportion of total genetic variation due to differences among populations within a sampling year, Gpop(year), was 0.067. Again, the majority of genetic diversity occurs within populations (Gwpop 5 0.905)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 12,
+    "paragraph_number": 29,
+    "text": "Genetic diversity in T. pratense is high in comparison to that of most plant species. Mean genetic diversity (Hes) was 0.285, mean percent polymorphic loci (Ps) was 76.9, and mean number of alleles per polymorphic locus (APs) was 2.60. These same parameters, averaged over many plant species, are Hes 5 0.150, Ps 5 50.5, and APs 5 2.90 (unpublished results based on data from Hamrick and Godt 1989). A similar pattern was observed at the population level. Mean genetic diversity within T. pratense populations (Hep) was 0.250, mean percent polymorphic loci (Pp) was 68.3, and the mean number of alleles per polymorphic locus (APp) was 2.52. Averaged over many plant species these values are Hep 5 0.113, a Pp 5 34.2, and an APp 5 2.55 (Hamrick and Godt 1989). The relatively high level of genetic variation in T. pratense may reflect this species\u2019 wide geographic distribution and obligate outcrossing mode of reproduction. Widely distributed plant species tend to maintain more variation than narrowly distributed species; and predominantly outcrossing species tend to have more genetic diversity overall and also tend to maintain more variation within their populations than species with higher proportions of self-pollination (Hamrick and Godt 1989; Hamrick et al. 1979). The level of genetic variation in T. pratense is high even when compared to other widely distributed and outcrossed species. Species with a wide geographic distribution have an Hes of 0.202 and Hep of 0.159, a Ps of 58.9 and Pp of 43.0, and an APs of 3.2 and APp of 2.0. Predominantly outcrossing species have an Hes of 0.167 and Hep of 0.124, a Ps of 50.1 and Pp of 35.9, and an APs of 3.0 and APp of 2.4. The values for T. pratense are generally higher than each of these parameters. Because high levels of genetic diversity are often deliberately maintained in crop species (Hamrick and Godt 1989; Marshall 1989; Muona 1989; Weber et al."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 12,
+    "paragraph_number": 31,
+    "text": ", the cultivated status of T. pratense may have contributed to the high genetic variation observed. Two observations suggest that the naturalized populations of red clover studied were founded by multiple individuals. First, genetic diversity values among populations of T. pratense are uniformly high. Second, genetic differentiation among populations of T. pratense within geographic regions and within years is low (Gpop 5 0.049 and Gpop(year) 5 0.067, respectively) compared to values averaged over many plant species and to geographically widely dispersed and outcrossing species. By contrast, Gpop values averaged over many plant species, geographically widely dispersed species, and outcrossing animal-pollinated species are 0.224, 0.210, and 0.197, respectively (Hamrick and Godt 1989). Because of the random losses of alleles due to sampling, both low genetic diversity and high population differentiation was predicted. The red clover data do not fit the predictions. Nei et al. (1975), however, showed that the reduction in average heterozygosity per locus depends not only on the size of a founder population, but also on the subsequent growth rate of the population. If population growth is rapid, reduction in heterozygosity is small, even when the founding population is small. Furthermore, because the subgroups (i.e., 1992, 1993, southern, and northern populations) display similar genetic diversity and population structure, it appears that interpopulation migration has effectively distributed the genetic diversity of the species among populations. Therefore, under the normal conditions of rapid population growth and high gene flow among populations of T. pratense, any founder effect present when the naturalized populations were first established would be ephemeral. Estimates of gene flow are high among populations. Based on Crow and Aoki\u2019s (1984) gene flow equation, an Nm value of 4.75 was estimated among regions. Among populations within regions Nm 5 3.36 and between years Nm 5 2.17. Chi-square analysis indicates that the overall Gyear value, 0.028, is significantly different from zero. Still the genetic identity between populations between years is relatively high (;0.96). These year-to-year differences are probably due to the high turnover of clover plants within naturalized populations (Vescio LV and Hamrick JL, unpublished data). It appears that the outcrossing nature of T. pratense, coupled with strong flying pollinators (e.g., Bombus spp.) and dispersal by mammals, birds, farm machinery, and other vehicles has resulted in a high level of gene exchange via pollen between cultivated and naturalized populations of red clover. This conclusion is consistent with indirect estimates of gene flow for plant species with breeding system characteristics similar to that of red clover (Hamrick et al. 1995). Our results are also consistent with genetic marker-based studies of other crop species or their related congeners (e.g., Ellstrand and Hoffman 1985; Kirkpatrick and Wilson 1988). The potential for long-distance seed and pollen movement has maintained high levels of genetic diversity within populations and reduced genetic diversity among populations."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 3,
+    "text": "From the USDA/ARS/HCRU, 3420 Orchard Ave., Corvallis, OR 97330 (Hagen) and the Departments of Botany and Genetics, University of Georgia, Athens, Georgia (Hamrick). The work described in this article was supported by an NIH genetics training grant, a University of Georgia Department of Botany grant, and a Sigma Xi research grant awarded to M.J.H."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 6,
+    "text": "Barrett SCH and Shore JS, 1989. Isozyme variation in colonizing plant species. In: Isozymes in plant biology (Soltis DE and Soltis PS, eds.)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 7,
+    "text": "Genetic resources at work: practical examples of the importance of genebank work regarding agriculture, horticulture, and forestry. Hereditas 108: 271\u2013273."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 8,
+    "text": "Chakraborty R and Nei M, 1977. Bottleneck effects on average heterozygosity and genetic distance with the stepwise mutation model."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 9,
+    "text": "Cheliak WM and Pitel JA, 1984. Techniques for starch gel electrophoresis of enzymes from forest tree spe- cies. Petawawa National Forestry Institute, Information Report P1-X-42. Chalk River, Ontario, Canada: Canadian Forestry Service, Agriculture."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 11,
+    "text": "Crow JF and Aoki K, 1984. Group selection for a polygenic behavioral trait: estimating the degree of population subdivision."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 12,
+    "text": "Ellstrand NC and Hoffman CA, 1985. Inter-population gene flow by pollen in wild radish, Raphanus sativus. Am Nat 126:606\u2013616."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 13,
+    "text": "Fergus EN and Hollowell EA, 1960. Red clover."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 14,
+    "text": "Electrophoretic evidence and plant population."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 15,
+    "text": "Allozyme diversity in plant species. In: Plant population genetics, breeding, and genetic resources (Brown AHD, Clegg MT, Kahler AL, and Weir BS, eds)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 16,
+    "text": "Hamrick JL, Godt MJW, and Sherman-Broyles SL, 1995. Gene flow among plant populations: evidence from genetic markers. In: Experimental and molecular approaches to plant biosystematics (Hoch PC and Stephenson AG, eds). St. Louis: Missouri Botanical Garden Press; 215\u2013232."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 17,
+    "text": "Relationships between life history characteristics and electrophoretically detectable genetic variation in plants."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 18,
+    "text": "Harris H and Hopkinson DA, 1976. Handbook of enzyme electrophoresis in human genetics. New York: Oxford American Elsevier."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 19,
+    "text": "Genetics of populations. Boston: Jones and Bartlett."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 20,
+    "text": "Kirkpatrick KJ and Wilson HD, 1988."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 21,
+    "text": "Some methods of estimating the inbreeding coefficient."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 22,
+    "text": "Marshall DR, 1989. Crop genetic resources: current and emerging issues. In: Plant population genetics, breeding, and genetic resources (Brown AHD, Clegg MT, Kahler AL, and Weir BS, eds)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 23,
+    "text": "Marshall DR and Brown AHD, 1975. Optimum sampling strategies in genetic conservation. In: Crop genetic resources for today and tomorrow (Frankel OH and Hawkes JG, eds). Cambridge: Cambridge University Press; 53\u201380."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 24,
+    "text": "Migration and distribution of red clover in Europe."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 25,
+    "text": "Allozyme polymorphisms detected in mature needle tissue of ponderosa pine."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 26,
+    "text": "Population genetics in forest tree improvement. In: Plantpopulation genetics, breeding, and genetic resources (Brown AHD, Clegg MT, Kahler AL, and Weir BS eds)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 27,
+    "text": "Genetic distance between populations. Am Nat 106:283\u2013292."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 28,
+    "text": "Analysis of gene diversity in subdivided populations."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 29,
+    "text": "F-statistics and analysis of gene diversity in subdivided populations."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 30,
+    "text": "Nei M, Maruyama T, and Chakraborty R, 1975. The bottleneck effect and genetic variability in populations."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 31,
+    "text": "Genetic drift and estimation of effective population sizes. Genetics 98:625\u2013640."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 32,
+    "text": "Pieters AJ and Hollowell EA, 1937. In: USDA Yearbook. Washington, D.C.: U.S. Government Printing Office; 1190\u20131214."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 33,
+    "text": "Smith RR, Taylor NL, and SR Bowley, 1985. Red clover. In: Clover science and technology (Taylor NL, ed). Madison, Wisconsin: American Society of Agronomy, Crop Science Society of America, Soil Science Society of America."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 34,
+    "text": "Soltis DE, Haufler CH, Darrow DC, and Gastony GJ, 1983. Starch gel electrophoresis of ferns: a compilation of grinding buffers, gel and electrode buffers, and staining schedules."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 35,
+    "text": "Selection strategies for the improvement of autogamous species. In: Plant population genetics, breeding, and genetic resources (Brown AHD, Clegg MT, Kahler AL, and Weir BS, eds)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 36,
+    "text": "Visualization and interpretation in plant isozymes. In: Isozymes in plant biology, vol. 4 (Soltis DE and Soltis PS, eds). Portland, Oregon: Dioscorides Press; 5\u201345."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 37,
+    "text": "Workman PL and Niswander JD, 1970. Population studies on southwestern Indian tribes. Local genetic differentiation in the Papago."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 38,
+    "text": "Wright S, 1922. Coefficients of inbreeding and relationship. Am Nat 56:330\u2013338."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 41,
+    "text": "Assignment of the Fr3 Locus to Soybean Linkage Group 9 A study was conducted to determine the linkage relationship between the loci Fr3 (root fluorescence) and Ap (acid phosphatase) in the soybean [Glycine max (L.) Merr.], as well as to ascertain the linkage relationship of Fr3 with two other loci in the soybean classical linkage group 9. Exact plant-to-plant reciprocal crosses were made between near-isogenic line Hark-Fr3 and near-isogenic line Clark-ti (Kunitz trypsin inhibitor null) and Hark-Fr3 with cultivar Norredo. F2 segregation data, for the Fr3Ap gene pair from reciprocal crosses of Hark-Fr3 3 Clark-ti, gave a recombination value of 4.51 6 0.55 with 1464 F2 plants. However, reciprocal crosses of Hark-Fr3 3 Norredo gave a recombination value of 10.25 6 0.83 with 1344 F2 plants. Finally, the gene order of Fr3\u2013Ap\u2013Ti\u2013Lap1 (leucine aminopeptidase) was established for classical linkage group 9 in soybean."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 13,
+    "paragraph_number": 44,
+    "text": "Soybean [Glycine max (L.) Merr.] linkage maps composed of morphological, protein, RFLP, RAPD, and SSR markers have been published (Akkaya et al. 1995; Palmer and Hedges 1993; Rafalski and Tingey 1993; Shoemaker and Olson 1993; Shoemaker et al. 1995; Shoemaker and Specht 1995). The cultivated soybean is considered as a diploidized tetraploid species (2n 5 2x 5 40 chromosomes) (Hymowitz Table 1. Tests of linkage between Fr3 and three loci in soybean Ap Clark-ti 3 Hark-Fr3 1,061 826.28 4.47 6 0.65 Ap Hark-Fr3 3 Clark-ti 403 309.62 4.63 6 1.07 Ap Norredo 3 Hark-Fr3 922 496.46 10.20 6 1.04 Ap Hark-Fr3 3 Norredo 422 232.32 10.36 6 1.55 Ti Clark-ti 3 Hark-Fr3 855 425.51 11.83 6 3.36 Ti Hark-Fr3 3 Clark-ti 154 77.00 12.00 6 7.92 Lap1 Norredo 3 Hark-Fr3 922 114.26 29.53 6 1.74 Lap1 Hark-Fr3 3 Norredo 422 57.68 28.69 6 2.54 and Singh 1987). Thus 20 linkage groups are expected, but the present classical genetic map lists only 19 linkage groups (Palmer and Hedges 1993). Root fluorescent soybean mutants (a phenomenon in which roots fluoresce when irradiated with ultraviolet light) have been useful in characterizing germplasm diversity (Delannay and Palmer 1982), in tissue culture research (Roth et al. 1982), and in genetic linkage studies (Devine et al. 1993; Griffin et al. 1989). Genetic analyses of these mutants have revealed at least four single recessive genes\u2014fr1, fr2, fr4, and fr5\u2014that condition the nonfluorescence phenotype. However, the single dominant gene, Fr3, also conditions nonfluorescence root phenotype in soybean (Delannay and Palmer 1982; Sawada and Palmer 1987). The Fr1 locus has been located on the classical genetic map to linkage group 12 (Griffin et al. 1989) and the Fr2 locus has been located on the soybean molecular map (Devine et al. 1993). The linkage relationships with the other three nonfluorescent loci are unknown. Near-isogenic lines have been developed in soybean via the backcross breeding method. Near-isogenic lines have been used in mapping classical and molecular markers and in the integration of the classical and molecular linkage maps (Muehlbauer et al. 1988, 1989). Backcrosses of nonfluorescent soybean root mutants (Palmer et al. 1983; Palmer 1994) were done to produce near-isogenic lines that were used in attempts to determine the biochemical pathway. Root fluorescence was not correlated with abundance per se of fluorescent isoflavonoids in roots (Grady et al. 1995). During the backcrossing it was noticed that the same variant alleles of Fr3 (root fluorescence) and Ap (acid phosphatase) tended to be inherited together, which suggested that the Fr3 and Ap loci might be linked. Soybean linkage group 9 is represented by four protein markers, acid phosphatase, Kunitz trypsin inhibitor, leucine aminopeptidase, and phosphogluconate dehydrogenase. Although some of the same lines were used by Yu and Kiang (1990) and Hildebrand et al. (1980) to determine recombination values between acid phosphatase and Kunitz trypsin inhibitor loci, recombination values varied from 6.1 6 0.3 (Yu and Kiang 1990) to 16.2 6 1.5 (Hildebrand et al. 1980). The various recombination values may be due to the fact that plants were grown in different environmental conditions, that distinct electrophoresis procedures were employed to identify isozyme banding patterns, or that different seed sources were used. The objective of this study was to verify the linkage relationship and the gene order of the Fr3 locus with other loci in the soybean classical linkage group 9."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 14,
+    "paragraph_number": 8,
+    "text": "The genetic stocks used in this experiment and their genotypes were Clark-ti (Ap-b fr3 Lap-b ti) 3 Hark-Fr3 (Ap-c Fr3 Lapb Ti-a) and Norredo (Ap-b fr3 Lap-a Ti-a) 3 Hark-Fr3 (Ap-c Fr3 Lap-b Ti-a). The Norredo cultivar and the near-isogenic line Clark-ti (L83\u2013693) were obtained from Dr. R. L. Nelson, USDA, Urbana, Illinois. The nearisogenic line Hark-Fr3 was developed by the USDA-ARS-FCR at Ames, Iowa (Palmer 1994). Seed of parents and F2 plants were characterized by using starch-gel electrophoresis for acid phosphatase (Ap locus; EC 3.1.3.2) (Cardy and Beversdorf 1984) and by polyacrylamide-gel electrophoresis for Kunitz trypsin inhibitor (Ti locus) (Hildebrand et al. 1980) and for leucine aminopeptidase (Lap1 locus; EC 3.4.1.1) (Kiang et al. 1985). The 4-day-old seedlings were observed in the dark under ultraviolet light and the root phenotypes were nonfluorescent (Fr32) or fluorescent (fr3fr3) ( The three lines were planted at the Bruner Farm near Ames, Iowa. One plant was harvested from each of the three lines. Seed were planted at the University of Puerto Rico\u2013Iowa State University Soybean Nursery near Isabela, Puerto Rico. Exact plantto-plant cross-pollinations with reciprocal cross-pollinations were made for all possible genetic combinations. F1 seed were harvested individually and planted at the Soybean Nursery near Isabela to generate F2 seed for linkage determinations. Recombination values and chi-squares were analyzed for the Ap (1:2:1), Fr3(3:1), Ti (3:1), and Lap1 (1:2:1) loci by using the computer program Linkage-1, version 90 (Suiter et al. 1983), which uses the maximum likelihood method (Allard 1956)."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 14,
+    "paragraph_number": 10,
+    "text": "Recombination is one of the mechanisms for generating genetic variability, whereas the lack of recombination conserves genetic variability. Plant breeders depend upon recombinations to create variability from which superior genotypes can be selected. Recombination values for various loci pairs in soybean generally have been consistent and a consensus classical linkage map has been constructed (Palmer and Hedges 1993). Soybean genetic linkage group 9 has been extensively studied. The parental lines used in our experiment had been maintained by self-pollination for a number of years. One plant from each parental line was selected, and its progenies were used for exact plant-to-plant cross-pollinations (and reciprocals). (1979) reported that seed from a single homozygous parent minimized variability in physiological studies. Thus pedigree information and seed source are crucial for comparing recombination values. For the Clark-ti 3 Hark-Fr3 crosses and their reciprocal crosses, the recombination values for the Ti-Fr3 (Table 1), Ap-Fr3 (Table 1), and Ap-Ti (Table 2) gene pairs were homogeneous. There was no significant variation among the three loci pairs in recombination values. For the Norredo 3 Hark-Fr3 crosses and their reciprocal crosses, the recombination values for the Ap-Fr3 (Table 1), Lap1-Fr3 (Table 1), and Ap-Lap1 (Table 2) gene pairs were homogeneous. Figure 1 shows both the consensus linkage group 9 recombination values (Palmer and Hedges 1993) and the data from our experiments. The recombination values for the Ap-Fr3 loci (Table 1) from reciprocal crosses of Clark-ti 3 Hark-Fr3 compared with reciprocal crosses of Norredo 3 Hark-Fr3 are not consistent between the two cross combinations. The nonfluorescent root phenotype (Fr32) is easily classified by Table 2. Tests of linkage between Ap and two loci in soybean Ti Clark-ti 3 Hark-Fr3 855 480.23 9.93 6 1.07 Ti Hark-Fr3 3 Clark-ti 154 89.96 9.51 6 2.46 Lap1 Norredo 3 Hark-Fr3 1,043 455.06 21.80 6 1.05 Lap1 Hark-Fr3 3 Norredo 581 324.07 19.76 6 1.30 See Table 1 for recombination values between Ap and Fr3."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 15,
+    "paragraph_number": 6,
+    "text": "Soybean linkage group 9. The recombination values without standard errors are from the consensus linkage map (Palmer and Hedges 1993). The recombination values with standard errors are from data presented in this article. (a) F2 data from Clark-ti 3 Hark-Fr3 and reciprocal crosses. (b) F2 data from Norredo 3 Hark-Fr3 and reciprocal crosses. using an ultraviolet light. Acid phosphatase is easily classified by using starch-gel electrophoresis. Both leucine aminopeptidase and Kunitz trypsin inhibitor loci were classified by using polyacrylamide-gel electrophoresis. If the banding patterns were not interpretable, those samples were rerun. All traits classified fit their respective 3:1 or 1:2:1 ratio. As mentioned in the introduction, recombination values between acid phosphatase and the Kunitz trypsin inhibitor loci varied between 6.1 6 0.3 (Yu and Kiang 1990) and 16.2 6 1.5 (Hildebrand et al. 1980). We used self-pollinated progeny from single plants in the cross-pollinations in an attempt to reduce variability in recombination values. The Clark-ti parent is a backcross-6 selection of Clark-i (mutation) 3 USDA PI 157.440 (source of the ti allele). PI 157.440 was introduced from South Korea in 1947. Both genotypes are G. max species. Hark-Fr3 parent is a backcross-6 selection of Hark 3 USDA PI 424.078 (source of the Fr3 allele). PI 424.078 originally was listed as the wild annual species G. soja Sieb. & Zucc. but now is considered G. max. The pedigree of Nor- redo is unknown but is probably from cultivar Laredo (PI 40.658) introduced from China in 1915 (Bernard et al. 1987). Disparity in estimation of recombination has been reported for linkage group 1, with a recombination value of 4.6 6 0.9 for the Aco3 (aconitase) locus with the Sp1 (bamylase) locus in the interspecific cross of G. max 3 G. soja (Griffin and Palmer 1987). For the same two loci in the intraspecific cross of G. max 3 G. max, the recombination value was 30.6 6 3.0 (Griffin and Palmer 1987). The G. soja genotype (PI 342.622A) is homozygous for a chromosomal translocation (Palmer et al. 1987), but linkage with the Aco3 and Sp1 loci was not tested. The translocation heterozygosity could have resulted in plants with reduced recombination because of less effective meiotic chromosome pairing. Pfeiffer and Vogt (1990) found variation in recombination frequencies for three different chromosome regions in soybean. However, a genotype that generally enhanced or repressed recombination was not identified. Recombination rates of soybean varieties from four different release periods were evaluated for their recombination frequencies at three locus pairs. Recombination frequencies were significantly different among varieties within a release period but did not differ among release periods (Pfeiffer 1993). Webb et al. (1995) reported segregation distortion in molecular mapping of soybean cyst nematode resistance. They attributed the distortion to differential survival of certain genotypes, pleiotropy, linkage of other genes to the soybean cyst nematode-resistance QTL, or a combination of both situations. The gene order and recombination values for the Fr3, Ap, Ti, and Lap1 loci were established. Acid phosphatase is the most distal marker in linkage group a2 of the USDA-ISU molecular map (Shoemaker and Specht 1995). These additional markers from the classical map can now be placed on the molecular map linkage group a2."
+  },
+  {
+    "filename": "Gibbs et al. 1998.pdf",
+    "page_number": 15,
+    "paragraph_number": 10,
+    "text": "From the USDA-ARS-CICGR and Departments of Agronomy and Zoology/Genetics (Palmer) and the Department of Agronomy and Interdepartmental Genetics Program (Chen), Iowa State University, Ames, Iowa 50011-1010. This is a joint contribution: journal paper J-17070 of the Iowa Agriculture and Home Economics Experiment Station, Ames, Iowa (project 3352) and from the USDA, Agricultural Research Service, Corn Insects and Crop Genetics Research Unit. Names are necessary to report factual or available data; however, the USDA and Iowa State University neither guarantees nor warrants the standard of the product, and the use of the name by the USDA or Iowa State University implies no approval of the product to the exclusion of others that may also be suitable. Address correspondence to Dr. Palmer at the address above or e-mail: rpalmer@iastate.edu."
+  }
+]

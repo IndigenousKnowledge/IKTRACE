@@ -1,0 +1,368 @@
+[
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 1,
+    "paragraph_number": 1,
+    "text": "Threatened and endangered species often exist in small isolated populations that theory predicts may suffer elevated risks of extinction due to impacts on their genetic makeup or through demographic stochasticity (Caughley, 1994; Populations with these characteristics experience increased genetic drift and inbreeding that lead to a loss of genetic variation, a reduction in the efficacy of natural selection, and an increase in the frequency and expression of deleterious recessive mutations termed genetic load (Charlesworth, 2009; Keller & Waller, 2002). However, the precise genetic endpoint of this process in terms of observed levels of genetic load in natural populations depends on complex interactions between the levels of inbreeding and the effectiveness of purifying selection as mediated through population size (Grossen Specifically, inbreeding results in the increased expression of recessive deleterious mutations that create the potential for selection Received: 27 April 2021 | Revised: 4 August 2021 | Accepted: 16 August 2021 Genomic signatures of inbreeding and mutation load in a threatened rattlesnake Department of Evolution, Ecology, and Organismal Biology, Ohio Biodiversity Conservation Partnership, Ohio State University, Columbus, Ohio, USA Correspondence Alexander Ochoa, Department of Biology, University of Central Florida, Orlando, FL, USA. Email: alexander.ochoa@ucf.edu H. Lisle Gibbs, Department of Evolution, Ecology, and Organismal Biology, Ohio Biodiversity Conservation Partnership, Ohio State University, Columbus, OH, USA. Email: gibbs.128@osu.edu Funding information State Wildlife Grants Program, Ohio Division of Wildlife and US Fish and Wildlife Service; Division of Environmental Biology, Grant/Award Number: 1638872 Theory predicts that threatened species living in small populations will experience high levels of inbreeding that will increase their genetic load, but recent work suggests that the impact of load may be minimized by purging resulting from long-term population bottlenecks. Empirical studies that examine this idea using genome-wide estimates of inbreeding and genetic load in threatened species are limited. Here we use individual genome resequencing data to compare levels of inbreeding, levels of genetic load (estimated as mutation load) and population history in threatened Eastern massasauga rattlesnakes (Sistrurus catenatus), which exist in small isolated populations, and closely related yet outbred Western massasauga rattlesnakes (Sistrurus tergeminus). In terms of inbreeding, S. catenatus genomes had a greater number of runs of homozygosity of varying sizes, indicating sustained inbreeding through repeated bottlenecks when compared to S. tergeminus. At the species level, outbred S. tergeminus had higher genome-wide levels of mutation load in the form of greater numbers of derived deleterious mutations compared to S. catenatus, presumably due to long-term purging of deleterious mutations in S. catenatus. In contrast, mutations that escaped species- level drift effects within S. catenatus populations were in general more frequent and more often found in homozygous genotypes than in S. tergeminus, suggesting a reduced efficiency of purifying selection in smaller S. catenatus populations for most mutations. Our results support an emerging idea that the historical demography of a threatened species has a significant impact on the type of genetic load present, which impacts implementation of conservation actions such as genetic rescue."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 1,
+    "paragraph_number": 50,
+    "text": "To reduce the frequency of these mutations, depending on the degree of dominance and the magnitude of the deleterious effects (Gl\u00e9min, 2003). This process, termed genetic purging, is most effective at high levels of inbreeding, and so bottlenecks tend to lead to selection purging highly deleterious, recessive mutations unless population sizes are extremely small (Garc\u00eda-Dorado, 2012; Kirkpatrick & Jarne, 2000). However, reduced population size also increases genetic drift and reduces the efficacy of selection, allowing deleterious mutations to drift to higher frequencies (Renaut & Rieseberg, 2015; Robinson et al., 2016). Thus, the type and level of genetic load present in a given population reflect a balance of the relative magnitudes of these distinct processes (inbreeding vs. reduced selection due to drift) with opposite effects on mutation frequencies. As a result, assessing levels of inbreeding, effective population size (Ne) and levels of genetic load is an important goal of empirical studies that seek to evaluate both the genetic risks impacting the long-term viability of threatened species (Benazzo et al., 2017; Grossen et al., 2020; Mathur & DeWoody, 2021; Robinson et al., 2016, 2019) and the appropriateness of specific management activities such as genetic rescue for mitigating these risks (Kyriazis et al., 2020; but see In terms of causes of variation in genetic load at the species level, van der Valk et al. (2021) have recently emphasized the previously underappreciated impact of historical demography on the observed level of genetic load of deleterious mutations in contemporary populations. They have shown that estimates of genetic load vary widely across mammal species with small Ne sizes and are only weakly correlated with genome-wide levels of inbreeding. They argue that this is because long-term reductions in Ne can result in sustained purging of deleterious mutations, leading to reduced genetic load in present-day populations. Such a pattern has been observed in populations of endangered species which have experienced long-term bottlenecks (Benazzo et al., 2017), suggesting the importance of incorporating historical patterns of population size in Whole genome resequencing offers new data and methods of analysis to evaluate inbreeding and genetic load in endangered species (Br\u00fcniche-Olsen et al., 2018). For assessing inbreeding, individual genome sequences provide information on runs of homozygosity (ROHs), which are genomic regions that have identical haplotypes and are identical by state (Br\u00fcniche-Olsen et al., 2018; Ceballos et al., 2018). These ROH regions arise in a genome due to the transmission of genome segments that are identical by descent from parents to offspring (Ceballos et al., 2018). ROH segments can be used to quantify inbreeding reflected by genomic autozygosity because ROH distributions more accurately reflect actual levels of inbreeding Distributions of different size ROHs also provide insights into recent demography because under random mating, the length of ROH regions is expected to decrease with increasing number of generations to the most recent common ancestor due to recombination and de novo mutations (Bosse et al., 2012). Therefore, the number and length of ROHs reflect the timing and intensity of a population bottleneck, with longer ROHs originating from recent inbreeding, and shorter ROHs from ancestral bottlenecks (Ceballos et al., 2018)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 2,
+    "paragraph_number": 57,
+    "text": "For assessing genetic load, new analytical methods (Adzhubei et al., 2010; Choi et al., 2012) now permit strong inference of the mutational effects of substitutions in coding sequences assumed to be under strong purifying selection. As such, data from these approaches can be used to estimate levels of accumulation of putatively deleterious mutations at the population or species level in nonmodel species and to explore the process that drives variation in genetic load (estimated as mutation load) in natural populations Resolving how genetic factors impact the future viability of small populations at the species and population levels is an important goal of management plans for species currently found in small isolated populations (Szymanski et al., 2016). One such species is the Eastern Massasauga rattlesnake (Sistrurus catenatus). Historically, this small snake was found in wetlands and surrounding upland habitat in midwestern and eastern North America. Population declines throughout its range due to habitat fragmentation and destruction have led to the listing of this species as threatened under the United States Endangered Species Act (U.S. Fish & Wildlife Service, 2016) and as a Species at Risk in Canada (Government of Canada, 2009)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 2,
+    "paragraph_number": 77,
+    "text": "This snake has a polygynous mating system (Jellen et al., 2007), and genetic analysis of parentage has shown direct evidence for multiple paternity in single litters (Stedman et al., 2016). This species exhibits little phylogeographical structure across its range\u2014and hence no evolutionary significant conservation units (Sovic et al., 2016)\u2014and high levels of population genetic structure with little to no migration between populations even at local geographical scales (Chiucchi & Gibbs, 2010; Martin et al., 2021; Sovic et al., 2019). Thus, the relevant management units within this species are individual populations."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 2,
+    "paragraph_number": 86,
+    "text": "Demographic studies suggest that the negative genetic impacts of drift on population viability are potentially a significant conservation issue for S. catenatus. (2019) have recently shown that the contemporary Ne values of most populations of S. catenatus are <50 individuals and that many have undergone recent bottlenecks, suggesting that genetic drift and the negative genetic impacts of inbreeding could be significant yet evidence in support of this possibility is unclear. Specifically, heterozygosity\u2013 fitness correlations based on neutral genetic markers and an indirect estimate of fitness (body condition) show few positive relationships consistent with the negative effects of drift and inbreeding, but the power of these tests may be limited because body condition is only an indirect measure of individual fitness (Gibbs & Chiucchi, 2012; Genome-level quantification of levels of inbreeding and genetic load would help address the impact of genetic factors on population viability in this species (Benazzo et al., 2017; Grossen et al., 2020; Mathur & DeWoody, 2021; Robinson To this end, we used data from resequenced genomes from 90 S. catenatus individuals from nine populations to conduct detailed analyses of inbreeding, recent population demography and levels of mutation load at the species and population level. To provide 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License necessary context for our results, we also generated similar data for 10 individuals from a single population of a closely related yet nonthreatened species, the Western Massasauga rattlesnake (Sistrurus tergeminus). In contrast to S. catenatus, S. tergeminus is relatively common throughout much of its range, and genetic studies show no evidence for high levels of population genetic structure, supporting the idea that it represents an outbred species that has experienced far fewer anthropogenic impacts on its genetic makeup (Bylsma, 2020; McCluskey & Bender, 2015;"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 3,
+    "paragraph_number": 11,
+    "text": "We used these data to address the following questions: What are the genome-wide levels of inbreeding and is inbreeding higher in S. catenatus as compared to S. tergeminus? Based on demographic analyses that use ROH size and abundance distributions, what are the trends in population size over recent timescales and how do these aid in interpreting observed levels of inbreeding and levels of mutation load in each species? What are levels of different types of deleterious mutations in both species and among S. catenatus populations and what evolutionary processes underlie differences in load between species and S. catenatus populations? Our results show how analysis of genomic data can test the idea that the historical demography of a threatened species has a significant impact on the type of genetic load present, which impacts conservation actions such as genetic rescue, and also identify populations of S. catenatus whose viability may be at risk due to genetic factors."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 3,
+    "paragraph_number": 28,
+    "text": "We analysed whole-genome sequences from 90 S. catenatus individuals from nine populations located in the Great Lakes region of the USA and Canada. We also analysed whole-genome sequences from 10 S. tergeminus individuals from a population located in Cheyenne Bottoms, Kansas, as a reference for expected patterns of variation in a closely related, yet outbred species (see above). Locations, population names, codes and sample sizes are presented in Figure 1 and We collected, sequenced and processed DNA samples as described in Section S1. Briefly, we used trim galore version 0.4.5 5 (https://github.com/Felix\u200bKrueg\u200ber/TrimG\u200balore) to trim sample Illumina paired-end (PE) 150-bp reads. We then used bwa version 0.7.15 (Li & Durbin, 2009) to map the resulting PE reads to an S. catenatus reference genome (~1.6 Gb; Broe et al., in prep.). Next, we used a combination of samtools version 1.3.1 (Li et al., 2009) and gatk version 3.8 (McKenna et al., 2010) to increase the quality of the mapping. Finally, we used mashmap version 2.0 (Jain et al., 2018) and a prairie rattlesnake (Crotalus viridis) genome assembly (Pasquesi et al., 2018) to identify and exclude nonautosomal scaffolds from our data."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 3,
+    "paragraph_number": 47,
+    "text": "For most analyses, we downsampled data to a mean sequence depth FI G U R E 1 Geographical location in the USA and Canada of the only S. tergeminus population (blue circle) and the nine S. catenatus populations (red circles) analysed in this study. Population names, codes and sample sizes are as follows: Cheyenne Bottoms (STER, n = 10), South Shore State Park (SSSP, n = 11), Spring Valley (SPVA, n = 10), Cedar Bog Nature Preserve (CEBO, n = 9), Prairie Road Fen (PROF, n = 10), Killdeer Plains Wildlife Area (KPWA, n = 10), Rome (ROME, n = 10), Mosquito Creek (MOSQ, n = 10), Cicero (CICE, n = 11) and Killbear Provincial Park (KBPP, n = 9) [Colour figure can be viewed at wileyonlinelibrary.com] 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License of 5\u00d7 (see Table S1 for mean sequence depths prior to downsamWe compared measures of genetic diversity, size and abundance of ROHs, and relatedness at the inter- and intraspecific levels using autosomal scaffolds \u22652 Mb (Figure S1), which covered 23% of the S. catenatus reference genome. We used angsd version 0.930 (Korneliussen et al., 2014) to estimate nucleotide diversity (\u03c0; Nei & Li, 1979), heterozygosity at equilibrium (\u03b8W; Watterson, 1975), and weighted differences between \u03c0 and \u03b8W (D; Tajima, 1989) for each population based on the site\u2013frequency\u2013spectrum principle (Nielsen et al., 2012). We also calculated long-term effective sizes (Ne.LT) from the equation \u03b8W = 4Ne. LT\u03bc (Watterson, 1975) after assuming a generation time of 3 years (Sovic et al., 2019) and a neutral mutation rate of \u03bc = 7.2 \u00d7 10\u22129 substitutions per site per generation (see squaFor each sample, we used rohan version 1.0 (Renaud et al., 2019) to infer the size and distribution of ROH tracts across scaffolds, \u03b8W outside of ROHs (\u03b8W.OUT), fraction of the genome covered by ROHs (FROH) and number of ROHs (NROH). (2017), we defined ROHs as genomic regions \u226550 kb with a heterozygosity rate \u22645 \u00d7 10\u22124 (i.e., \u226425 heterozygous genotypes in 50-kb sliding windows), thus accounting for potential sequencing errors. We quantified the impact of inbreeding on levels of variation by comparing individual estimates of FROH with individual estimates of \u03b8W.OUT and NROH. Inbred individuals should show a high FROH and low \u03b8W.OUT (Saremi et al., 2019), whereas individuals from populations that have experienced a recent bottleneck should show an excess of NROH (Ceballos et al., 2018). To conduct cross-study comparisons with other threatened and endangered species and subspecies (Benazzo et al., 2017; Grossen et al., 2020; Robinson et al., 2019; Saremi et al., 2019; van der Valk et al., 2021), we recalculated FROH for ROH sizes \u22650.1, 1, 2 and 2.5 Mb, which are specific values used in these other Estimates of individual relatedness can provide an additional evaluation of the level of inbreeding occurring within populations. As such, we used angsd and ngsrelate version 2 (Korneliussen & Moltke, 2015) to calculate relatedness for pairs of individuals from the same population based on genotype likelihood distributions. We used the rxy statistic (Hedrick & Lacy, 2015) because it is designed for estimating individual relatedness in populations where inbreeding occurs."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 4,
+    "paragraph_number": 44,
+    "text": "To describe recent inter- and intraspecific demographic events based on the ROH-size data generated by rohan, we first used mclust version 3 in R (R Core Team, 2020) to identify distinct ROH-size clusters (see Pemberton et al., 2012) from a pooled distribution of S. catenatus samples. (2020) have documented significant differences in recombination rates on snake macro- and microchromosomes that could bias demographic inferences (see below), we excluded microchromosomal scaffolds (Figure S1) from this analysis."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 4,
+    "paragraph_number": 52,
+    "text": "We then dated the resulting ROH-size clusters using the equation g = 100/(2rL), where g is the generation time (i.e., 3 years, as above), r is the recombination rate in centimorgans (cM) Mb\u22121, and L is the length of each ROH-size cluster inMb (Saremi et al., 2019)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 4,
+    "paragraph_number": 56,
+    "text": "Because there are no estimates of r for any reptilian species, we used a recombination rate estimate of 2.8 cM Mb\u22121 for chicken (Gallus gallus) macrochromosomes (International Chicken Genome Sequencing We assessed long-term species-specific demographic histories using psmc version 0.6.4 (Li & Durbin, 2011), which infers changes in Ne over extended periods of time based on local densities of heterozygous genotypes across a single diploid genome. We used samples with the highest mean sequence depth from each species (S. catenatus: sca1038, ~29\u00d7; S. tergeminus: ste0121, ~16\u00d7; Table S1) and gatk\u2019s best practices pipeline (www.broad\u200binsti\u200btute.org) to call single nucleotide polymorphisms (SNPs) across autosomal scaffolds of all lengths after excluding genomic regions containing repetitive elements, as defined by repeatmasker version We ran psmc with these data for 100 bootstrap replicates and assumed a neutral mutation rate of 7.2 \u00d7 10\u22129 substitutions per site per generaWe evaluated mutation load at the species and population levels using variants detected in a set of conserved single-copy coding loci (Benchmarking Universal Single-Copy Orthologs or BUSCOs; Sim\u00e3o et al., 2015) that are expected to be under purifying selection due to evolutionary constraints across specific lineages. To assess mutation load at the species level, we focused on sites containing derived nonsynonymous alleles across species (i.e., species-level mutations); these sites capture differences in genome-wide heterozygosity between species, which can substantially impact estimates of load (van der Valk et al., 2021). To estimate mutation load at the population level, we focused on sites containing derived nonsynonymous alleles within specific populations (i.e., population-level mutations); these sites capture aspects of mutation load that reflect the evolutionary process shaping variation within populations independent of To examine variation in BUSCO loci, we first performed homology searches for these loci in the S. catenatus reference genome."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 4,
+    "paragraph_number": 92,
+    "text": "We used busco version 3.1.0 (Sim\u00e3o et al., 2015) and the Tetrapoda version 10 database to identify the genomic coordinates of 5310 query BUSCO loci; we excluded duplicated or fragmented BUSCO loci from further analyses. We then used angsd and data from all 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License autosomal scaffolds to characterize SNPs and genotypes within these loci across samples. To identify derived nonsynonymous alleles, we translated and compared data to a genome assembly of a closely-related outgroup (Sistrurus miliarius; Broe et al., in prep. ; see We used provean version 1.1 (Choi & Chan, 2015) to determine the potential deleterious impact of the derived nonsynonymous alleles in the BUSCO loci (Perrier et al., 2017; Renaut & Rieseberg, 2015). provean uses blast searches of protein databases and subsequent alignments of protein sequences from related species to generate a measure (i.e., provean score) of how phylogenetically conserved a given derived nonsynonymous allele is among homologous protein sequences. We used these scores to classify derived nonsynonymous alleles into \u201cbenign\u201d (provean scores > \u22122.5), \u201cmildly deleterious\u201d (provean scores \u2264 \u22122.5 and >\u22124.1), and \u201cmoderately deleterious\u201d (provean scores \u2264 \u22124.1). We also identified \u201chighly deleterious\u201d derived nonsynonymous alleles that resulted in intermediate stop codons; since these mutations are not accounted for by provean, we assigned them a conservative score of \u221212, which roughly represents the lowest score detected across variants. For each sample, we weighted derived alleles\u2014and genotypes carrying these alleles\u2014 with data contained in the corresponding mutation class sites (i.e., benign, mildly deleterious, moderately deleterious, highly deleterious) identified across species and within populations to estimate species- and population-level mutation load, respectively."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 27,
+    "text": "We also calculated the Rxy statistic for selected pairs of populations. Broadly, this metric reflects the relative frequency of a specific class of deleterious mutations with respect to the frequency of neutral mutations in one population over that of another one."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 31,
+    "text": "In essence, Rxy standardizes for sampling effects and background differences resulting from population substructure (Do et al., 2015;"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 33,
+    "text": "We used derived synonymous alleles found in the BUSCO loci as background neutral variation for the analysis. For a species-level assessment of the Rxy statistic, we compared population KPWA (S. catenatus) with respect to STER (S. tergeminus); we selected KPWA for this analysis because multiple lines of evidence suggest that it is one of the largest S. catenatus populations in our sample (Sovic et al., 2019). Within S. catenatus, we compared PROF with respect to KPWA, as the former is one of the smallest populations in our sample (Sovic et al., 2019). We generated standard errors (SE) for Rxy estimates by jackknifing Rxy values associated with indiThroughout our study we used nonparametric Wilcoxon\u2013Mann\u2013 Whitney tests for statistical comparisons between groups. ther used the false discovery rate method (Benjamini & Hochberg, 1995) for p-value adjustments across multiple tests."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 50,
+    "text": "Table 1 shows different measures of genetic diversity for multiple populations of S. catenatus and the single reference population of S. tergeminus. The general patterns match those found with previous analyses of much smaller genetic data sets from these species (McCluskey & Bender, 2015; Sovic et al., 2019). Overall, S. catenatus shows substantially less genetic diversity and much smaller Ne. LT sizes than S. tergeminus, while genetic diversity and Ne. LT sizes across individual populations of S. catenatus are variable."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 58,
+    "text": "In terms of inbreeding, fine-scale representations of the distribution of ROHs across the longest scaffold analysed suggest that such tracts are longer and more abundant in threatened S. catenatus individuals relative to nonthreatened S. tergeminus individuals (Figure 2)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 62,
+    "text": "Further analyses confirm that S. catenatus shows low genetic diversity and high inbreeding levels with respect to S. tergeminus at the genome-wide level (Figure 3). Specifically, when averaged across all individuals, S. catenatus has a mean genome-wide \u03b8W.OUT (scaled to 103 bp hereafter) of 2.62 (SE = 0.01) and FROH of 0.551 (SE = 0.013), while S. tergeminus has a mean \u03b8W.OUT of 4.41 (SE = 0.02) and FROH of TA B LE 1 Genetic diversity and effective size summary statistics for S. tergeminus and S. catenatus populations based on whole-genome data Species Population \u03c0 \u00b1 SE (\u00d710\u22123) \u03b8W \u00b1 SE (\u00d710\u22123) D \u00b1 SE Ne. ST (95% CI) S. tergeminus STER 8.73 \u00b1 0.09 7.51 \u00b1 0.07 0.68 \u00b1 0.01 260,641 \u00b1 2600 NA S. catenatus SSSP 2.38 \u00b1 0.05 2.18 \u00b1 0.04 0.34 \u00b1 0.03 75,571 \u00b1 1307 22 (9\u2013Inf) SPVA 2.36 \u00b1 0.05 2.27 \u00b1 0.04 0.11 \u00b1 0.03 78,909 \u00b1 1254 8 (3\u201319) CICE 2.41 \u00b1 0.05 2.39 \u00b1 0.03 0.00 \u00b1 0.03 83,064 \u00b1 1143 13 (10\u201316) KBPP 2.09 \u00b1 0.04 1.82 \u00b1 0.03 0.58 \u00b1 0.03 63,277 \u00b1 1002 10 (9\u201312) Estimates are given for the following parameters: nucleotide diversity (\u03c0), heterozygosity at equilibrium (\u03b8W), weighted differences between \u03c0 and \u03b8W (D), long-term effective sizes (Ne.LT) and short-term effective sizes (Ne.ST). ST values for S. catenatus populations were obtained from Sovic et al. Standard errors (SE) or 95% confidence intervals (CI) for each parameter are also indicated."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 5,
+    "paragraph_number": 81,
+    "text": "1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 0.063 (SE = 0.004; Figure 3a); differences between species for both metrics are significant (p < .001). These patterns are consistent with repeated reductions in Ne and higher levels of inbreeding in S. cateA comparison of adjusted FROH values across studies suggests that S. catenatus is moderately inbred with respect to other threatened and endangered species and subspecies (Table S2; also see Br\u00fcniche-Olsen et al., 2018). For this analysis, we recalculated FROH using data from our study to be comparable with the different size criteria used in other studies (see Table S2). We also recognize that such comparisons are problematic because of varying criteria used to define ROH tracts (e.g., maximum number of heterozygous genotypes allowed to account for sequencing errors). However, based on these adjusted comparisons, S. catenatus is half as inbred as a population of ~50 Apennine brown bears (Ursus arctos marsicanus) that have existed in isolation for ~50 generations (Benazzo et al., 2017), but shows levels of inbreeding similar to those of Alpine ibex (Capra ibex), which have recently undergone serial population bottlenecks over the past 8\u201310 generations (Grossen et al., 2020; Table S2). Our interpretation that S. catenatus is moderately inbred is also consistent with FROH values generated from 100 mammals representing species with varying population sizes (van de Valk et al., 2021)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 6,
+    "paragraph_number": 24,
+    "text": "Based on a size criterion of ROH \u22650.1 Mb, the estimated FROH value for S. catenatus (0.546) is in the upper third of values for species and subspecies analysed. On the other hand, FROH values for S. tergeminus are representative of outbred species (Table S2), such as ibex with large, well-connected populations (Grossen et al., 2020)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 6,
+    "paragraph_number": 29,
+    "text": "Pairwise comparisons of \u03b8W.OUT and FROH across the nine S. catenatus populations examined (Figures 3a and S2) reveal that 28% of these comparisons are significant (p < .05) for the \u03b8W.OUT statistic, whereas no pairwise comparison is significant (p > .05 in all cases) FI G U R E 3 Scatter plots of (a) \u03b8W.OUT and (b) NROH with respect to FROH for S. tergeminus (STER) and S. catenatus (SSSP, SPVA, CEBO, PROF, KPWA, ROME, MOSQ, CICE, KBPP) populations. Vertical and horizontal bars reflect standard errors from the estimated mean (squares) across individuals from the same population. For the plot in (b), each STER individual is represented by a black circle; the dotted line represents the association between NROH and FROH for these individuals after performing a linear regression analysis [Colour figure can be viewed at wileyonlinelibrary.com] FI G U R E 2 Distribution of short (ROH\u03c3 = 0.05\u22120.2 Mb), medium (ROH\u03bc = 0.2\u22120.7 Mb) and long (ROH\u03bb = 0.7\u22127.9 Mb) runs of homozygosity along the longest scaffold analysed (~7.9 Mb) for individuals (horizontal bars) from the reference S. tergeminus population (STER\u2014black) and two S. catenatus populations (PROF\u2014 blue; CEBO\u2014purple) with low and high levels of inbreeding. ROH size classes are indicated by gradual color shadings (see box legend) for each population [Colour figure can be viewed at wileyonlinelibrary.com] 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License for the FROH statistic. Values of \u03b8W.OUT range from 2.49 (SE = 0.04) in ROME to 2.69 (SE = 0.02) in KPWA, while values of FROH range from 0.507 (SE = 0.045) in PROF to 0.601 (SE = 0.033) in CEBO (Figures 3a and S2). These results confirm that genetic diversity (measured as \u03b8W.OUT in this case) is heterogeneous among S. catenatus populations, and suggest that extreme variation in FROH values within some S. catenatus populations (see below) reduces our power to detect statistically significant pairwise comparisons between populations S. catenatus genomes are also composed of a substantially greater number of ROHs (NROH = 346, SE = 10) relative to S. tergeminus genomes (NROH = 133, SE = 8; p < .001; Figure 3b). This 2.6- fold increase in NROH (combined with the 8.7-fold increase in FROH, as above) is consistent with the effects of recent bottlenecks leading to inbreeding in S. catenatus populations, as it implies that ROH tracts have increased in mean length (Figure 3b; also see figure 1 in We also found substantial variation among individuals for both FROH and NROH metrics. For example, there is a 3.8-fold difference in FROH and 2.7-fold difference in NROH among individuals from the PROF population (Figure S3). Some of this variation could be due to differences in the degree of relatedness among individuals within single populations, since, unlike the only S. tergeminus population analysed, S. catenatus populations presented small but perhaps significant (mean = 0.083, SE = 0.012) proportions of close relatives (rxy >.125; Figure 4). These patterns are also consistent with a recent The presence of distinct ROH-size clusters represents timestamps for when population bottlenecks have occurred in the recent past (Bosse et al., 2012; Pemberton et al., 2012). An analysis of the overall distribution of ROH lengths in S. catenatus shows evidence for three size classes: short (0.05\u22120.2 Mb), medium (0.2\u22120.7 Mb) and long (0.7\u22127.9 Mb; Figure S4). Assuming a recombination rate of 2.8 cM Mb\u22121 and a generation time of 3 years (see Section 2), we estimated the following time frames for the demographic events responsible for each ROH-size class: short (268\u22121071 years before present [ybp]), medium (77\u2212268 ybp), and long (7\u221277 ybp). The last two time frames are consistent with possible anthropogenic impacts The effects of these events can be assessed by comparing differences in class NROH between species. As such, NROH for the three ROH-size classes (i.e., short, medium, long) is always greater in S. catenatus relative to S. tergeminus (Figure 5a), which is consistent with a greater impact of bottlenecks in S. catenatus during the recent past. Specifically, S. catenatus genomes have a greater number of short (NROH = 172, SE = 7), medium (NROH = 100, SE = 4) and long (NROH = 60, SE = 2) ROH tracts than S. tergeminus genomes (NROH [short] = 105, SE = 8; [long] = 5, SE < 1; p < .01 in all cases; Figure 5a). Substantial increases in each class suggest that, in S. catenatus, ROH-tract gains have been most substantial lately (i.e., 7\u221277 ybp), followed by ROH-tract gains We can also use the relative proportion of each size class to measure the relative impact of each event in a way that accounts for overall differences in inbreeding between the species (Figure 5c)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 7,
+    "paragraph_number": 58,
+    "text": "In this respect, short ROHs account for a 0.505 (SE = 0.010) proportion of all ROH tracts in S. catenatus and for a 0.831 (SE = 0.016) proportion of all ROH tracts in S. tergeminus (p < .001), whereas the relative proportion of medium (S. catenatus: 0.300, SE = 0.005;"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 7,
+    "paragraph_number": 62,
+    "text": "S. tergeminus: 0.123, SE = 0.012; p < .001) and long (S. catenatus:"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 7,
+    "paragraph_number": 63,
+    "text": "0.196, SE = 0.009; S. tergeminus: 0.046, SE = 0.006; p < .001) ROHs is significantly greater in S. catenatus (Figure 5c). The latter increases indicate that more recent demographic events have had a substanFinally, S. catenatus populations show few differences, if any, in size class NROH profiles (Figure 5b; Figure S5a\u2013c). Overall, 17%, 33% and 0% of NROH pairwise comparisons among populations are significant (p < .05) for short, medium and long ROH tracts, respectively (Figure 5b; Figure S5a\u2013c). We obtained similar results using relative proportion metrics for each ROH-size class across S. catenatus populations (Figure 5d; Figure S5d\u2013f). Broadly, this suggests similar magnitudes of population declines across different populations spanning FI G U R E 4 Relatedness values (rxy) for pairs of individuals within populations of S. tergeminus (STER) and S. catenatus (SSSP, SPVA, CEBO, PROF, KPWA, ROME, MOSQ, CICE, KBPP). Colours inside each vertical bar represent the proportion of all pairwise comparisons within a single population that correspond to a particular relatedness class (see box legend) [Colour figure can be viewed at wileyonlinelibrary.com] 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Simulations with psmc (Figure 6) indicate that since the Middle Pleistocene (~500,000 ybp), S. catenatus has had a consistently smaller Ne than S. tergeminus. These results show that S. tergeminus reached a maximum Ne of \u223c190,000 individuals ~400,000 ybp, and had a stable Ne of ~65,000 individuals ~30,000\u2212110,000 ybp, during the Late Pleistocene. After this time, S. tergeminus experienced declines in Ne, reaching a size of ~15,000 individuals ~10,000 ybp, in the Holocene. In contrast, S. catenatus reached a larger maximum Ne of \u223c230,000 individuals ~1,000,000 ybp, during the Early Pleistocene. This species then experienced consistent declines in Ne until reaching a stable size of ~20,000 individuals ~20,000\u2212110,000 ybp, during the Late Pleistocene. Our results suggest that ~10,000 ybp, S. catenatus had an Ne of ~5000 individuals , which is three times smaller than that observed in S. tergeminus At the interspecific level (S. catenatus and S. tergeminus samples combined), we identified 27,419 sites containing derived nonsynonymous alleles from 3575 BUSCOs. Using provean, we characterized 91% (25,054) of these sites as benign, 5% (1402) as mildly deleterious, 3% (711) as moderately deleterious and 1% (252) as highly deleterious. Collectively, these represent species-level mutations, which can be used to estimate species-level mutation load."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 8,
+    "paragraph_number": 26,
+    "text": "FI G U R E 5 Mean NROH for short (ROH\u03c3 = 0.05\u22120.2 Mb; yellow bars) and long (ROH\u03bb = 0.7\u22127.9 Mb; red bars) ROHs across individuals (circles) from the same (a) species (STER = S. tergeminus; SCAT = S. catenatus) and (b) S. catenatus population (SSSP, SPVA, CEBO, PROF, KPWA, ROME, MOSQ, CICE, KBPP). Mean relative NROH metrics for each (c) species and (d) S. catenatus population are also shown. Each ROH size class has an associated time of coalescence, which is included in the main legend as years before present (ybp). ROH-size class statistical tests are shown at the species level, where ***p < .001, * *p < .01, *p < .05 and ns = nonsignificant. Statistical tests between S. catenatus populations are shown in Figure S5 [Colour figure can be viewed at wileyonlinelibrary.com] 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License Based on these sites, on average, the genomes of inbred S. catenatus individuals have lower absolute numbers and lower relative proportions of all classes of mutations compared to outbred S. tergeminus individuals (p < .01 in all cases; Figure 7a,b)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 9,
+    "paragraph_number": 6,
+    "text": "Specifically, S. catenatus shows a 29% reduction in counts of benign alleles (S. catenatus: 4887, SE = 45; S. tergeminus: 6856, SE = 91), a 10% reduction in mildly deleterious alleles (S. catenatus: 181, SE = 2;"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 9,
+    "paragraph_number": 9,
+    "text": "S. tergeminus: 201, SE = 5), a 20% reduction in moderately deleterious alleles (S. catenatus: 65, SE = 1; S. tergeminus: 81, SE = 2) and, strikingly, a 62% reduction in highly deleterious alleles (S. catenatus:"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 9,
+    "paragraph_number": 12,
+    "text": "Differences in the mean proportion of mutations of all classes are greatest for highly deleterious alleles (S. catenatus: 0.049, SE = 0.001; S. tergeminus:"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 9,
+    "paragraph_number": 15,
+    "text": "0.145, SE = 0.003), intermediate for benign alleles (S. catenatus:"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 9,
+    "paragraph_number": 16,
+    "text": "FI G U R E 6 Historical changes in long-term effective population sizes (Ne) of S. tergeminus (dark blue lines) and S. catenatus (dark red lines) based on coalescent analyses. Light blue and light red lines reflect estimates across 100 bootstrap replicates for each species, respectively [Colour figure can be viewed at wileyonlinelibrary.com] FI G U R E 7 Distribution of benign (BEN), mildly deleterious (MILD), moderately deleterious (MOD) and highly deleterious (HIGH) alleles and genotypes for S. tergeminus (STER; blue circles) and S. catenatus (SCAT; red circles) individuals using different classes of species-level mutations. (a) Mean number of allele counts (bars) for each mutation class. Mean proportion (bars) of (b) alleles, (c) homozygotes and (d) heterozygotes for each mutation class. (e) Boxplots represent the distribution of mean provean scores across alleles present in homozygous (HOM) and heterozygous (HET) states. [Colour figure can be viewed at wileyonlinelibrary. com] 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License 0.103, SE = 0.001; S. tergeminus: 0.155, SE = 0.001) and moderately deleterious alleles (S. catenatus: 0.048, SE = 0.001; S. tergeminus:"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 4,
+    "text": "0.061, SE = 0.002) and smallest for mildly deleterious alleles (S. catenatus: 0.068, SE = 0.001; S. tergeminus: 0.077, SE = 0.002; Figure 7b)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 6,
+    "text": "Under the assumption that most mutations that arise in a population are recessive (Agrawal & Whitlock, 2011), the genotypic configuration of deleterious alleles can influence their realized negative impacts on individual fitness (Mathur & DeWoody, 2021). In this respect, S. catenatus has a significantly greater proportion of mildly and moderately deleterious homozygotes than S. tergeminus (Figure 7c), demonstrating greater levels of realized mutation load on a per-individual basis for two of the three classes of deleterious mutations examined in S. catenatus. The mean proportion of mildly and moderately deleterious homozygotes is 2.0-fold (S. catenatus: 0.043, SE = 0.001; S. tergeminus: 0.021, SE = 0.001) and 2.5-fold (S. catenatus: 0.027, SE = 0.001; S. tergeminus: 0.011, SE = 0.001) greater in S. catenatus than in S. tergeminus, respectively, while benign homozygotes are also found at a significantly greater mean frequency in S. catenatus (S. catenatus: 0.075, SE = 0.001; S. tergeminus: 0.060, SE = 0.001; Figure 7c). The exception are highly deleterious homozygotes, which are significantly less often found in S. catenatus (S. catenatus: 0.027, SE = 0.001; S. tergeminus: 0.044, SE = 0.003; Figure 7c)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 24,
+    "text": "We interpret the latter comparison as reflecting purging of highly deleterious homozygotes in small S. catenatus populations, as has been found in small and repeatedly bottlenecked populations of Alpine ibex (Grossen et al., 2020; also see Rxy analyses below)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 29,
+    "text": "Although S. tergeminus shows higher deleterious allele counts than S. catenatus (Figure 7a), the fitness-related impacts of these alleles may be reduced because a greater proportion of all classes of deleterious mutations are found in heterozygous genotypes in S. tergeminus (Figure 7d). These differences are also significant for all four mutation classes (p < .001), including the benign class (Figure 7d)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 35,
+    "text": "Mean provean scores of derived alleles found in both homozygous and heterozygous genotypes are also significantly smaller (i.e., more deleterious) in S. catenatus than in S. tergeminus (Figure 7e). These results support the interpretation that high levels of drift present in small S. catenatus populations have allowed the persistence of mutations with greater potential negative impacts to fitness, regardless In contrast, analyses that estimate population-level mutation load (Figure 8; Figures S6 and S7) show greater mean proportions of derived alleles in S. catenatus (p < .001 in all cases; Figure 8a), and a higher mean proportion of homozygous genotypes (p < .001 in all cases; Figure 8b). Patterns of population-level mutation load in heterozygous genotypes (Figure 8c) are less clear. As expected from the increased frequency of homozygotes, there is a significant (p < .001) decrease in the mean proportion of heterozygotes containing benign mutations in S. catenatus populations with respect to the representative S. tergeminus population examined, but no significant differences in mean proportions of heterozygotes for the three deleterious classes of mutations (p > .05; Figure 8c)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 54,
+    "text": "Comparisons of population-level mutation load across S. catenatus populations also show substantial and often significant differences in proportions of alleles and genotypes of all classes (Figures S6 and S7)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 57,
+    "text": "Using the mean proportion of alleles from each mutation class as a measure of load (Figures S6a\u2013d and S7a\u2013d), we found >1.5-fold variations of benign (KPWA: 0.385, SE = 0.001; MOSQ: 0.584, SE = 0.001), mildly deleterious (SSSP: 0.240, SE = 0.005; MOSQ: 0.493, SE = 0.004), moderately deleterious (KPWA: 0.189, SE = 0.005; MOSQ: 0.477, SE = 0.010) and highly deleterious (KPWA: 0.232, SE = 0.008; MOSQ:"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 63,
+    "text": "0.426, SE = 0.019) alleles across S. catenatus populations. These pairwise comparisons are significant (p < .001; Figures S6a\u2013d and S7a\u2013d) and are useful for identifying specific populations that have high (e.g., MOSQ) and low (e.g., KPWA and SSSP) mutation loads."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 67,
+    "text": "To assess possible drivers of population mutation load in S. catenatus, we correlated estimates of Ne. LT (Table 1), short-term Ne (Ne.ST; Sovic et al., 2019; Table 1) and levels of inbreeding (mean FROH;"
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 10,
+    "paragraph_number": 70,
+    "text": "Figure 3a) with mean proportions of alleles for each mutation class (Figure S6a\u2013d; see Table S3 for correlations). Despite the small number FI G U R E 8 Distribution of benign (BEN), mildly deleterious (MILD), moderately deleterious (MOD) and highly deleterious (HIGH) alleles and genotypes for S. tergeminus (STER; blue circles) and S. catenatus (SCAT; red circles) individuals using different classes of population- level mutations. Mean proportion (bars) of (a) alleles, (b) homozygotes and (c) heterozygotes for each mutation class. ***p < .001; **p < .01; *p < .05; ns = nonsignificant [Colour figure can be viewed at wileyonlinelibrary.com] 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License of S. catenatus populations analysed, we found negative, and in some cases, significant (p < .05) or marginally nonsignificant (p > .05, but <.10) correlations between both measures of Ne and each mutation class, supporting the predicted impact of drift on population-level mutation load associated with population size (Table S3). In addition, we found positive correlations between mean FROH and mean proportion of alleles for each mutation class across S. catenatus populations, but none approached significance (p > .05 in all cases; Table S3)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 11,
+    "paragraph_number": 10,
+    "text": "Finally, Rxy analyses show that the relative frequencies of different mutation classes differ between inter- and intraspecific comparisons (Table 2). Both comparisons show similar relative frequencies of benign mutations between populations. However, for the interspecific comparison, the more deleterious mild and moderate mutations both show higher relative frequencies in the smaller S. catenatus population used to represent this species relative to S. tergeminus whereas the most harmful high class of mutations are less abundant in S. catenatus. In contrast, at the intraspecific level, comparisons between S. catenatus populations show that, with the exception of the benign mutations (see above), alleles that are classified into each of the three harmful mutation classes are found at a higher relative frequency in the smaller PROF population. Our interpretation is that these patterns represent differences in the impact of genetic purging on the frequency of the most deleterious mutations at the within- vs. between-species levels. Specifically, purging of highly deleterious mutations shapes differences in mutational load between these species, whereas there is no evidence that it operates to a significant extent between large and small populations of S. catenatus."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 11,
+    "paragraph_number": 31,
+    "text": "Demographic analyses indicate that increased inbreeding in S. catenatus is probably due to decreased population size relative to S. tergenimus over both long- and short-term timescales. Over evolutionary timescales (\u226510,000 ybp), the psmc analysis shows that for much of the last 500,000 years, S. catenatus has had an Ne three times smaller than that of S. tergeminus, even in the face of shifting distributions due to impacts of ice sheet expansion and contraction during the late Pleistocene (Pielou, 1992). Fundamental differences in the ecology of these species may account for the long-term differences in Ne. S. catenatus is a habitat specialist that occupies wetlands or mesic prairie habitats (Szymanski et al., 2016) which are patchily distributed, leading to greater population structure and smaller Ne sizes (Sovic et al., 2019). In contrast, S. tergeminus is found in more widespread continuous xeric grasslands (Stebbins, 1966), and this is reflected in the lack of genetic structure and large Ne sizes observed Bottlenecks over recent timescales (thousands of years) have also increased inbreeding in S. catenatus relative to S. tergeminus. The oldest recent event that was detected occurred at timescales consistent with bottlenecks identified by Sovic et al. (2019) in S. catenatus using a different data set and analyses, and it had a proportionally greater impact on S. tergeminus based on the increased relative abundance of small ROHs in this species. The causes of this decline are unknown, but they seem most likely to be associated with large- scale environmental changes related to climate that have previously been hypothesized to impact the distribution of this and other species in this region of North America (Cook, 1992; Soltis et al., 2006)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 11,
+    "paragraph_number": 58,
+    "text": "In contrast, the two most recent bottleneck events occurred within the last 250 years, and the greater relative abundance of both medium and long ROHs in S. catenatus suggests that relative declines in population size have been greater in this species than in S. tergeminus. This time frame coincides with the colonization and subsequent landscape modification by European settlers in North America (Pielou, 1992; Schmidt, 1938), which has resulted in the habitat destruction and fragmentation that has played a key role in recent range-wide declines of S. catenatus (Szymanski et al., 2016). Overall, our analyses provide new historical evidence in support of the idea that anthropogenic impacts have had a consistently greater impact on S. catenatus."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 11,
+    "paragraph_number": 70,
+    "text": "A key finding of our study is that analyses of mutations with different evolutionary histories are important for understanding the different ways in which mutation load is realized at species and population Mutation class Interspecific: SCAT-STER (SE; no. of scaffolds) Intraspecific: PROF-KPWA (SE; no. of scaffolds) Mildly deleterious 1.50 (<0.01; 174) 1.04 (<0.01; 174) Moderately deleterious 1.34 (0.02; 72) 1.11 (0.01; 82) Rxy values are presented for an interspecific comparison between S. catenatus (SCAT, represented by the KPWA population) and S. tergeminus (represented by the STER population) and for an intraspecific comparison between relatively small (PROF) and large (KPWA) S. catenatus populations. Values are presented such that Rxy >1 means that a given class allele has a higher frequency in the first population with respect to the second population of each pairwise comparison. Standard errors (SE) were obtained by jackknifing Rxy values associated with individual scaffolds (number also indicated) from each pairwise comparison."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 11,
+    "paragraph_number": 79,
+    "text": "TA B LE 2 Relative mutation load estimated as Rxy for different mutation classes 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License levels. Specifically, we first estimated species-level mutation load using derived nonsynonymous alleles at sites that were polymorphic in either one or both species (species-level mutations). This criterion incorporates sites that reflect the almost two-fold difference in \u03b8W.OUT between species, which can substantially impact estimates of load (Figure 7). Based on these sites we found that, on average, the genomes of outbred S. tergeminus individuals had significantly more deleterious mutations compared to more inbred S. catenatus individuals when mutation load was estimated in terms of mean count or proportion of derived alleles (Figure 7a,b). Therefore, based on absolute numbers of deleterious alleles, the inbred threatened species (S. catenatus) has lower levels of mutation load than the more However, the impact of deleterious mutations is dependent on the genotypic segregation patterns of deleterious alleles and the assumed dominance coefficients of mutations (Charlesworth, 2009). Empirical evidence suggests that many deleterious mutations are recessive and are mostly expressed if they segregate in homozygous genotypes (Agrawal & Whitlock, 2011). If this is the case, then the impact of mutation is lessened if they are mainly found in heterozygote genotypes."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 22,
+    "text": "This is the case in outbred S. tergeminus: heterozygotes containing deleterious mutations are ~2\u20134-fold more common in S. tergeminus than in S. catenatus genomes (Figure 7d). This pattern argues that although S. tergeminus has a higher \u201cpotential\u201d mutation load in the form of absolute numbers of deleterious mutations, the extent to which the negative effects of these mutations (\u201crealized\u201d load) occur is blunted by the fact that proportionately more occur in presumably unexpressed heterozygous genotypes and that they are also found at lower frequencies on a per-site basis (Mathur & DeWoody, 2021)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 31,
+    "text": "Finally, Rxy analyses provide another perspective on species mutation load by estimating load in terms of the frequency of specific classes of deleterious mutations relative to existing levels of neutral variation. Based on the populations compared, the results show that deleterious mutations with moderate negative impacts (mild and moderate categories) are at significantly higher frequencies in the more inbred S. catenatus population used in this comparison; but in striking contrast, the most damaging mutations (the high category) are significantly less abundant in S. catenatus. This pattern has been found in other studies comparing mutation load in inbred compared to outbred species (Grossen et al., 2020; Xue et al., 2015). This argues for a mechanism whereby species with reduced population sizes, and hence with greater susceptibilities to the effects of drift, accumulate moderately deleterious variants due to relaxed purifying selection, but experience genetic purging of highly deleterious mutations which are under strong purifying selection."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 47,
+    "text": "Overall, these results support the argument of van der Valk et al."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 48,
+    "text": "(2021) that differences in mutation load between species need to take into account the impact of long-term demographic patterns on levels of deleterious mutations. Specifically, if threatened species have always persisted at low Ne sizes over evolutionary timescales, then sustained genetic purging of deleterious alleles can explain reduced mutation load in threatened species that currently exist in small populations. The long- and short-term demographic differences documented here support this explanation for the decreased mutation load shown in S. catenatus compared to S. tergeminus. The ROH analyses show that recent population bottlenecks have occurred in both species, with more recent events having a greater impact on S. catenatus. In addition, coalescent-based analyses demonstrate that S. catenatus has consistently had a smaller Ne over the past 500,000 years. These results argue that drift effects have been consistently stronger in the species with lower absolute levels of mutation load, which is consistent with the explanation that lower load is due to sustained purging of mutations over short and long timescales."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 65,
+    "text": "We also examined mutation load using derived mutations that were polymorphic within populations (population-level mutations) and thus reflect the impact of population-level processes. These mutations show strikingly different patterns from species-level mutations. Specifically, S. catenatus populations have, on average, higher proportions of these mutations on a per-genome basis across all impact classes, and all classes of mutations are found at higher levels in homozygote genotypes compared to S. tergeminus. This pattern is mirrored in derived mutation analyses based on Rxy values, which show higher frequencies of alleles for all mutation classes, including mutations from the class (high) predicted to be the most harmful."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 76,
+    "text": "This indicates a lack of genetic purging of these mutations at the population level despite high levels of inbreeding. These patterns mirror those found in other threatened species with small populations (Robinson et al., 2016, 2019), and we interpret them as reflecting the negative impact of genetic drift on the efficiency with which natural selection removes deleterious mutations from small populations (Lohmueller, 2014). This interpretation is also supported by the fact that we find inverse and sometimes significant correlations between long- and short-term estimates of Ne and genetic load that signal an impact of genetic drift on variation in observed levels of It is unclear why we find a lack of evidence for genetic purging of highly deleterious mutations between large and small S. catenatus populations when there is a clear signal of this process taking place at the species level. A possible reason lies in differences in the timing and magnitude of inbreeding within and between species. Inbreeding is a key component of the purging mechanism because mating between relatives leads to increased representation of recessive mutations in homozygous genotypes (\u201crealized load\u201d; Mathur & DeWoody, 2021). The similarity of FROH values between S. catenatus populations (Figure 3) and lack of close relatives in most populations (Figure 4; also see Martin et al., 2021) suggests that levels of recent inbreeding are similar between populations and may only have occurred at a significant level relatively recently. Both factors may have reduced the impact of inbreeding on genetic purging of highly deleterious mutations at the population level compared to the species level in these snakes."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 12,
+    "paragraph_number": 103,
+    "text": "We see several implications from our results for managing genetic erosion in S. catenatus due to range-wide declines in population 1365294x, 2021, 21, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/mec.16147 by Queen'S University, Wiley Online Library on [31/03/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License numbers. First, at the species level, reduced genome-wide mutation load due to long-term purging suggests that future population declines in less impacted regions, such as the northern parts of the species range, will have fewer negative genetic impacts than comparable declines in threatened snakes with historically larger Ne sizes."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 7,
+    "text": "S. catenatus may be more resistant to the process of mutational meltdown that is proposed to occur in small populations of threatened species (Frankham et al., 2017), leading to a focus on the greater importance of ecological factors to long-term population viability Second, consideration of the potential effects of long-term purging on mutational load has led to suggestions that conventional guidelines for conducting genetic rescue of small inbred populations of threatened species need to be reconsidered (Kyriazis et al., 2020; van der Valk et al., 2021; but see Ralls et al., 2020). Specifically, Kyriazis et al. (2020) argue that the typical approach for managing these populations is to maintain high genetic diversity through the transfer of individuals from large, genetically diverse populations, but that this carries a risk of introducing large numbers of deleterious mutations that can be exposed by inbreeding. Our empirical results suggest that, in fact, there is an inverse relationship between levels of mutational load and Ne among S. catenatus populations or that large potential donor populations have fewer, not more, potential deleterious mutations present. This observation, combined with the fact that donor individuals from larger populations will have greater numbers of potentially adaptive variants (Ochoa et al., 2020), broadly supports the idea that choosing donor individuals from populations with large Ne sizes is a sound strategy for genetic rescue in this species. This claim comes with two important caveats. It assumes a high degree of sharing of deleterious mutations between populations such that the interpopulation transfer of individuals will not introduce large numbers of new distinct negative mutations."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 34,
+    "text": "Second, it also assumes that adaptive variation that evolves through local adaptation will have similar positive effects on individual fitness in populations receiving translocated individuals."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 37,
+    "text": "More broadly, our study provides an example of how whole genome sequences from threatened and endangered species can provide new approaches to assess patterns of functional variation that impact genetic erosion in these species (Leroy et al., 2018). When combined with the results of Ochoa et al. (2020), it provides a rare comprehensive assessment of two of the key aspects of genetic erosion in a single endangered species, namely the magnitude and evolutionary mechanisms shaping negative genetic load and adaptive genetic variation. As such it represents an important realization of the application of genomic tools and analyses for addressing genetic issues related to conservation of biodiversity at the species and population levels (Funk et al., 2019; Hohenlohe et al., 2021)."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 50,
+    "text": "We thank all those individuals who have provided samples or assisted with collections across the range of S. catenatus over the past 25 years\u2014this work would not have been possible without their help."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 53,
+    "text": "Many individuals helped, but we especially thank Jeff Davis, Michael Dreslik, Brian Fedorko, Tony Frazier, Kim Frolich, Dan Harvey, Matt Kowalski, Greg Lipps, Chris Parent, Chris Phillips, Paul Pratt, Kent Prior, Kevin Shoemaker, Michelle Villenueve and Doug Wynn for their enthusiastic and generous assistance with finding snakes and/ or providing samples. We thank Anna Br\u00fcniche-Olsen for introducing us to the idea of ROHs and encouraging us to think about analysing them in our snakes; Samarth Mathur, Scott Martin, Drew Schield and Todd Castoe for help with data and analyses; and Anna Br\u00fcniche-Olsen, J. Andrew DeWoody, Gideon Bradburd, Robert Fitak, Katerina Guschanski, Christine Grossen and Samarth Mathur for discussions and comments on the manuscript. Three anonymous reviewers offered comments that improved the manuscript. We also thank Kate Parsons and Carolyn Caldwell for their long-term support of our conservation genetics work on endangered snakes."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 68,
+    "text": "Computational analyses were performed on the Ohio Biodiversity Conservation Partnership Computing Cluster using resources provided by the Ohio Supercomputer Center. This work was supported by the State Wildlife Grants Program, administered jointly by the U.S. Fish and Wildlife Service and the Ohio Division of Wildlife, with funds provided by the Ohio Biodiversity Conservation Partnership between The Ohio State University and the Ohio Division of Wildlife. H.L.G. was also supported by National Science Foundation (USA) Grant DEB 1638872 during the preparation of the manuscript."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 78,
+    "text": "The authors have no conflict of interest to declare."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 80,
+    "text": "Designed research: A.O. and H.L.G. Performed research: A.O. and H.L.G. Analysed data: A.O. Wrote the paper: A.O. and H.L.G."
+  },
+  {
+    "filename": "Ochoa _ Gibbs 2021.pdf",
+    "page_number": 13,
+    "paragraph_number": 83,
+    "text": "Raw sequence data used in this study are available in GenBank SAMN20438760\u2212859). The data that support the findings of this study (including code, input and output files, and statistical tests) are available in Dryad at: https://doi.org/10.5061/dryad.j9kd5\u200b1cd5 Alexander Ochoa https://orcid.org/0000-0002-3271-3684 H. Lisle Gibbs https://orcid.org/0000-0001-7461-3393"
+  }
+]

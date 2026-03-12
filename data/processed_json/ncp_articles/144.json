@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 1,
+    "text": "Climate change, contaminants, ecotoxicology: interactions in Arctic seabirds at their southern range limits Kyle Elliott1, Robert Letcher2, Birgit Braune2, Jessica Head1, Kim Fernie2 1McGill University; 2Environment & Climate Change Canada No relationships between 1st and 2nd PC of 3 organohalogen groups & other biomarkers (all p-values > 0.05)."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 15,
+    "text": "SUMMARY Effects of contaminants on Arctic wildlife are occurring against a backdrop of rapid climate change. Contaminants can cause endocrine (hormone) disruption and associated impacts on reproduction. Because the endocrine system plays a critical role in allowing animals to respond to environmental stress, endocrine disruption could limit the ability of wildlife to respond to climate change. We propose to continue to examine how the ability of seabirds to respond to changing ice conditions is impacted by a suite of selected legacy and NCP-priority contaminants. Our study continues based on the success of Year 1 (2016) of this NCP-funded study, where 38 individuals were tracked using GPS-accelerometers, and concentrations of hormones, mercury, and BFRs were measured (or will soon be measured) in all 38 individuals. PFAS levels were measured in the plasma of 10 individuals. Thus, we exceeded our Year 1 objectives, characterizing NCP-priority contaminants in all of the birds sampled. As ice conditions are never identical across any two years, obtaining data in a second year not only increases our statistical power but allows us to test inter-year flexibility of the birds in responding to changing ice conditions. Data from 2017 will be particularly interesting given the exceptionally late freeze-up at Hudson Bay in December 2016. We continue to study thick-billed murres at their southern range limit (Coats Island in July-Aug 2017-18), where climate change is strongly impacting seabird health. When ice breaks up earlier, adults expend more energy to gain less food, and young murres grow more slowly. Hormone systems are likely involved in this phenomenon as high levels of stress hormones (corticosterone) and potentially thermoregulatory hormones (thyroid hormones) impel individuals to increase energy expenditure, fly farther and find alternative prey sources. We expect that high levels of contamination disrupt hormone regulation, decoupling the relationship between hormones and energy expenditure in seabirds. Specifically, because the birds must spend more energy to access food when the ice is far away from their breeding colony, but expend much less energy when the ice is near their colony, we anticipate that chemical disruption of this relationship may explain why some individuals seem unable to alter their foraging behavior in response to changing ice conditions. Our results may help us to understand how contaminants and climate change interact to impact wildlife. interfere with the ability of seabirds to respond to changing METHODS \u2022 Attached GPS-accelerometers to 38 thick-billed murres \u2022 Recorded presence of ice from satellite maps \u2022 Measured hormone levels before (pre-) and after (post- ) foraging trips. The measured hormones were the stress hormone, corticosterone, and the 2 thyroid hormones - thyroxine (T4) and triiodothyronine (T3), with T3 the biologically active one. \u2022 Measured contaminant levels (brominated and perflorinated compounds, mercury) \u2022 Because of the large numbers of measured variables (chemicals, hormones, behaviors), we used principal component (PC) statistical analysis to identify the important axes of variation (PC1 and PC2). We then used a path analysis to examine causal relationships among variables."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 21,
+    "text": "When ice left early, birds worked harder to gain less (feeding primarily on capelin instead of cod), and consequently had lower fitness. Mercury disrupted T3 regulation leading to higher T3 levels in the birds as shown in Figure 1. \u2022 Birds with higher T3 spent more time underwater searching for food as seen in Figure 2. \u2022 Organochlorine pesticides, brominated and perflorinated compound levels were low and typical of other Arctic birds, as seen in Figure 3. They were also unrelated to the behavioral and endocrine measures. \u2022 Mercury may disrupt seabirds\u2019 ability to respond to climate change."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 22,
+    "text": "Study repeated in 2017, a year of exceptionally early ice clearance and the murres had the earliest lay date on record over past 40 years. In 2017, metabolite levels (glucose, triglycerides, cholesterol and ketones) were measured as those endpoints may also be involved in regulating behaviour. A path analysis is planned to tease out causality from correlational relationships."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 24,
+    "text": "ACKNOWLEDGMENTS We thank the Northern Contaminants Program and Environment & Climate Change Canada for funding. We thank the 2016 and 2017 team members: E. Brisson-Curadeau, T. Burke, J. Nakoolak, A. Patterson, E. Gongora, JH Martin, S. Poole, S. Flemming and F. St Aubain. G. Gilchrist, P. Smith, J. Mercier and, especially, M. Janssen were indispensable for their help with logistics. R. Armstrong (Nunavut Research Institute) also aided with logistics. Thank you also to J. Nakoolak and the community of Coral Harbour for help with the work."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 46,
+    "text": "Mercury was significantly related to the levels of T3, the biologically active thyroid hormone, in the blood of the adult murres."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 47,
+    "text": "The significant relationship between T3 levels and how much time the birds spent underwater each day searching for food."
+  },
+  {
+    "filename": "83647.pdf",
+    "page_number": 1,
+    "paragraph_number": 48,
+    "text": "The major chemicals and chemical groups that we measured in the blood of the adult thick-billed murres. The low concentrations and their chemical profile are typical of other Arctic bird species. (\u201cSum\u201d = summed concentrations of that particular chemical congener or type, e.g., PFCAs (perfluorinated carboxylic acids), PFSAs (perfluorinated sulfonic acids)."
+  }
+]

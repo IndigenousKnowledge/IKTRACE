@@ -1,0 +1,110 @@
+[
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 1,
+    "text": "Microplastics (MPs) are generally considered to be a subset of plastics with dimension smaller than 5 mm. Water is well known to be an effective transport mechanism of microplastics between the terrestrial, freshwater, and marine environments as it is described in a recent review [1]. On the other hand, air currents are known to distribute atmospheric particles very quickly. Evidence of atmospheric transportation and deposition of MPs has been observed across the globe and in remote areas, which underscores the important role of long-range atmospheric transportation of these particles [2]. While shapes of MPs vary, of particular focus herein are microfibers (a synthetic fiber and common microplastic shape) found across the globe and in Arctic snow samples [3]. An example of microfibers collected from washing machine effluent is shown below."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 5,
+    "text": "The experiment involves recording the motion of fibers (cylindrical rods) falling through glycerin/water mixtures. The main parts of the setup are the dual monochromatic cameras (Iron CXP 250). These cameras view the glycerin fall chamber at two planes that are orthogonal from each other as shown in the image below. A backlighting technique using a 10-Watt LED light projected onto an acrylic diffuser plate behind the tank is used in order to capture the outline of the particles from the two viewing angles of the cameras. A thermocouple is mounted inside the chamber as the glycerin viscosity depends on the room temperature. Viscosity of the fluid is calibrated using a Discovery Hybrid Rheometer. Cameras are synchronized using a frame grabber connected to a computer as is shown below in the schematic diagram of data acquisition."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 8,
+    "text": "In this ongoing research we are building the capability to better predict the atmospheric transportation and deposition of microplastics from sources to the Arctic region. We are focusing on the study of particles such as fibers having shapes varying from simple rods to more complex geometries that are typical of existing samples. The parameterized models will support the planned dispersion simulations of microplastics of various shape and size distributions relevant to those found in the Arctic. Extension of the research will include the effects of turbulence on particle motion in a future related study. Atmospheric modelling of the microplastics will be done using HYSPLIT. The figure below is [1] Z. Akdogan and B. Guven, \"Microplastics in the environment: A critical review of current understanding and identification of future research needs,\" Environmental Pollution, vol. 254, p. 113011, 2019."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 11,
+    "text": "[2] S. L. Wright, J. Ulke, A. Font, K. L. A. Chan, and F. J. Kelly, \"Atmospheric microplastic deposition in an urban environment and an evaluation of transport,\" Environment international, vol. 136, p. 105411, 2020."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 12,
+    "text": "[3] Y. Zhang, S. Kang, S. Allen, D. Allen, T. Gao, and M. Sillanp\u00e4\u00e4, \"Atmospheric microplastics: A review on current status and perspectives,\" Earth-Science Reviews, vol. 203, p. 103118, 2020."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 13,
+    "text": "[4] S. L. Wright, J. Ulke, A. Font, K. L. Chan, and F. J. Kelly, \u201cAtmospheric microplastic deposition in an urban environment and an evaluation of transport,\u201d Environment International, vol. 136, no."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 14,
+    "text": "[5] J. E. Bullard, A. Ockelford, P. O\u2019Brien, C. Mc. Neuman, \u201cPreferential transport of microplastics by wind,\u201d Atmospheric Environment, 23 October 2021 [6] X. Song, Z. Xu, G. Li, Z. Pang, and Z. Zhu, \"A new model for predicting drag coefficient and settling velocity of spherical and non-spherical particle in Newtonian fluid,\" Powder Technology, vol. 321, pp."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 16,
+    "text": "[7] G. Bagheri and C. Bonadonna, \"On the drag of freely falling non-spherical particles,\" Powder Technology, vol. 301, pp."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 17,
+    "text": "[8] P.J. Kole, A. Lohr, F. G.A.J. Van Belleghem, and A.M.J. Ragas. \u201cWear and Tear of Tyres: A Stealthy Source of Microplastics in the Environment.\u201d International Journal of Environmental Research and Public Health, vol. 14, no. 10, 2017, p. 1265."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 18,
+    "text": "Investigation of the distribution and presence of microplastics in the Arctic region is a research priority for the NCP. Studies concerning trajectory or transport pathway of microplastics in the atmosphere are limited and the gap in knowledge of the atmospheric transport dynamics of microplastics is often noted [4, 5]. This knowledge of MPs\u2019 transport dynamics in the air is a foundational requirement of modelling and predicting these particles\u2019 motion. In this research the settling velocity and fall orientation of microfibers is hypothesized based on their diameter, length, and other geometric features such as curvature with respect to the aerodynamic properties that affect transport."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 19,
+    "text": "Aerodynamics of Microplastics: Quantifying Transport Towards Predictive Atmospheric Modelling 2021 Northern Contaminants Program Results Workshop, October 19th \u2013 21st Daniel Daramsing1, Eric Ward2, Roozbeh Alishahian1, Amirhossein Hamidi1, Ronald E. Hanson1, Mark Gordon2, and Liisa Jantunen3 1Department of Mechanical Engineering, Lassonde School of Engineering, York University, Toronto, Canada 2Department of Earth and Space Science Engineering, Lassonde School of Engineering, York University, Toronto, Canada 3Science and Technology Branch, Air Quality Processes Research Division, Environment and Climate Change Canada, Ontario, Canada Image of microfibers from a fleece jacket captured from washing machine effluent. Source https://hawaiimermaidadventures.com/microfibers MATLAB is used to analyze the images captured. This process begins with looking at the image histogram to determine the contrast of the image pixels, which is followed by converting the photo to black and white and inverting it. Any excess noise is eliminated to create a black background where the particle is highlighted as a white space. Edge detection is then done to locate the borders, find the rod\u2019s centroid, and orientation as shown in the figure below."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 26,
+    "text": "Reynolds number for different aspect ratios of small aluminum cylinders of various diameters in glycerin and water mixtures. The grey planes show Re = 0.1 and 10."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 27,
+    "text": "Particles identified by processing using MATLAB for different rod shapes. The green dot is the centroid and the red lines show the edges of the particles."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 28,
+    "text": "One challenge in determining the behavior of microfibers in air, which includes tracking their motion while resolving shape, orientation, and rotation, are the small size of these particles. For a falling particle in air, the Reynolds number (Re) is an important nondimensional variable given by the characteristic falling or settling velocity (U) multiplied by the particle dimension such as diameter or length (D) and divided by the viscosity of the air or fluid (\u03bd), or expressed as Re = UD/ \u03bd. For microplastic fibers in the atmosphere the range of Reynolds number should be around 0.1 to 10, based on non-spherical models ([6, 7]), and common size and composition of reported microfibers [3]. Using glycerin mixtures of up to 10,000 times the viscosity of air, large particles (with diameter up to a few mm's), to quantify fiber trajectory and behavior to better understand how fibers remain airborne over long distances and improve models for predicting atmospheric pathways of plastic pollution to the North. The figure below indicates the relationship between the Reynolds number, glycerin weight ratio and metal rod diameter and aspect ratio."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 29,
+    "text": "Image of the tabletop setup showing the main components of the experiment. For scale consideration, the distance between each camera and the tank is approximately 89 cm."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 30,
+    "text": "Trajectory of a rod with 1.5 mm diameter and 20 mm length in glycerin."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 31,
+    "text": "Diagram of the main parts of the data acquisition employed."
+  },
+  {
+    "filename": "86277.pdf",
+    "page_number": 1,
+    "paragraph_number": 32,
+    "text": "A three-dimensional plot of the position of a cylindrical rod over time can be created using the XY and XZ images from the synchronized images obtained during a drop test in the water and glycerin mixtures as shown below. A first step in the producing this data is a calibration of the measurement volume the pixel-space captured by imaging and the physical space. In addition to the time of each image acquired (at a rate of 150 Hz), the instantaneous velocity (both in terms of translation and rotation) can be determined. The resulting data is used to determine the corresponding Reynolds number and drag coefficient. These non-dimensional relations are the basis for models of the spectrum of complex fiber geometries typical of the atmospheric deposition samples that we aim to simulate the transport of. a conceptual plot of microplastics being dispersed from a source location within urban Vancouver between March 11-17, 2021. The total atmospheric load for this plot was based on previous studies of microplastics due to tire and brake wear on vehicles [8] and will be considered a focus and source for the microplastics going forward with this research."
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 1,
+    "paragraph_number": 2,
+    "text": "Commentary From genomic threat assessment to conservation action Tom van der Valk1,2,3 and Love Dale \u0301 n1,2,4,* 1Centre for Palaeogenetics, Stockholm, Sweden 2Department of Bioinformatics and Genetics, Swedish Museum of Natural History, Stockholm, Sweden 3Science for Life Laboratory, Stockholm, Sweden 4Department of Zoology, Stockholm University, Stockholm, Sweden *Correspondence: love.dalen@zoologi.su.se https://doi.org/10.1016/j.cell.2024.01.038 Genomic approaches have the potential to play a pivotal role in conservation, both to detect threats to species and populations and to restore biodiversity through actions. We here separate these approaches into two subdisciplines, vulnerability and restoration genomics, and discuss current applications, outstanding questions, and future potential."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 1,
+    "paragraph_number": 6,
+    "text": "A dual role for genomics in species conservation? At its core, conservation genomics seeks to leverage the power of genomic technologies to address questions regarding the genetic diversity, adaptation, and resilience of endangered and threatened organisms.1 Moreover, the aim is typically that by addressing these questions we can aid in restoring the viability of populations and species. Since the advent of high-throughput sequencing technologies, the field of conservation genomics has emerged as a frontier discipline in the pursuit to quantify and mitigate the biodiversity crisis across the kingdoms of life.2 Genomic technologies make it possible to identify nearly all the genetic variation within individuals and populations, allowing for assessments of genome-wide diversity and direct measures of inbreeding coefficients. With ever-improving genome annotations and inference methods, we also possess the ability to identify those mutations that cause regulatory or protein-coding changes, estimate their putative effect on fitness, and subsequently obtain insights into genetic load. The majority of genomic investigations concerning endangered species and populations have concentrated on discerning and, to some extent, quantifying the potential factors that contribute to population declines and biodiversity loss, a research focus we here term \u2018\u2018vulnera- bility genomics.\u2019\u2019 However, from a conservation management perspective, genomics also has a role to play in developing concrete actions aimed at restoring biodiversity and population viability, a focus we refer to as \u2018\u2018restoration genomics.\u2019\u2019 These two subdisciplines are closely intertwined, as quantifying the threats that make populations, species, and ecosystems vulnerable is essential for restoring their viability and thus ensuring their future survival (Figure 1)."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 1,
+    "paragraph_number": 9,
+    "text": "Vulnerability genomics: Quantifying threats to species survival In the past decades, a broad array of genomic studies has identified intrinsic genetic threats to species by quantifying processes such as inbreeding-driven expression of recessive deleterious alleles, accumulation of genetic load through genetic drift, as well as outbreeding depression, i.e., the reduction of individual fitness due to crosses between two differentially adapted populations. These studies have helped conservation managers and policymakers to better understand whether genetic factors pose a threat to the viability of endangered species and have in several cases led to changes in conservation policies. For example, genetic studies revealed that Scandinavian wolves suffer from inbreeding depression,3 which prompted the Swedish government to adopt a policy aimed at reducing inbreeding by protect- ing Finnish/Russian immigrant wolves during the yearly license hunt. Genomic data have also been used to reveal genetic differences between fragmented populations, measures that can shed light on the impacts of habitat destruction and fragmentation. In addition, genomic data allow for the identification of genetic markers associated with pollutant exposure and thereby can help measure the susceptibility of different species to such pollution.4 In some cases, species may develop genetic adaptations to cope with certain pollutants. Genomic studies can thus identify these adaptive changes, potentially offering insights into how species evolve in response to such environmental stressors. The inclusion of DNA obtained from historical samples has also allowed for the direct quantification of temporal genetic changes in diversity, inbreeding, and mutational load5 and has been leveraged to detect recent habitat fragmentation and losses in population connectivity by demonstrating reduced levels of gene flow through time. At a deeper timescale, data from paleogenomic studies on samples that span one or several glacial cycles have been used to examine the genetic and demographic consequences of past climatic changes.6 Such studies provide valuable data on the extent to which populations are sensitive to climate change, which can be incorporated in modeling approaches that estimate the 1038 Cell 187, February 29, 2024 a 2024 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). vulnerability of species under future climate change scenarios. Genomic data are also used to uncover previously unrecognized evolutionary distinct lineages, thereby helping to identify instances where populations have escaped our conservation radar, as their status as important conservation units were unknown.7 DNA-based methods can also be used to identify poaching hotspots by building genomic reference databases that establish connections between genetic variants and geographical locations. The databases can then be used to pinpoint the origin of wildlife products, thus allowing for the identification of areas where poaching is most prevalent, as well as tracing wildlife products through various stages of the supply chain. Furthermore, genomic tools have proven instrumental in identifying species-associated microorganisms, which can be vital to assess pathogen threats, co-evolution, and local adaptation of the microbiome, and monitoring species foraging habits.8 Finally, genome-wide data analysis from environmental DNA samples provides effective means for non-invasive observations of distributions, migration patterns, and genetic structure of species."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 2,
+    "paragraph_number": 3,
+    "text": "Restoration genomics: Genomebased conservation actions Genomics can play an indispensable role in providing concrete solutions to restore population viability through targeted con- servation actions. Genomic approaches are, for instance, being used to enhance the effectiveness of captive breeding programs. Unraveling the genetic relatedness among individuals can guide selective breeding strategies, thereby optimizing genetic diversity and facilitating population recovery and long-term population persistence.2 Genomic applications are also applied for detecting and counteracting hybridization between closely related taxa, including preventing admixture from domesticates into wild conspecific populations. This is not only important for preserving the genetic integrity of endangered species and populations but also helpful in captive breeding programs and wildlife management, ensuring that efforts are focused on unadmixed individuals and populations.9 Comparable techniques can be applied to rewilding projects, where genomic information can pinpoint the most suitable individuals for release into the wild by considering their genetic diversity and the presence of adaptive and/or deleterious variants. In the realm of wildlife conservation, genomic data are making substantial contributions to international efforts of combating illegal wildlife trade. Genomic technologies allow for precise species identification, crucial when dealing with products derived from wildlife and flora, such as ivory, fur, or medicines derived from endangered species. Such insights help the prosecution of poachers and smugglers and improve efforts toward targeted dismantling of illicit trade networks.10 Genomics has also enhanced our ability to identify, track, and mitigate the impact of invasive species and diseases, serving as a potent instrument for examining the origins and spillover transmissions among species.11 Such insights can be directly used to ensure that disease-carrying individuals or geographic regions with high disease prevalence are isolated from other populations. Genomic methods are additionally applied to enhance our comprehension of species reproductive biology, and by unlocking crucial insights, artificial insemination techniques can be applied. Furthermore, the advent of obtaining DNA sequence data from environmental samples directly aids conservation efforts by offering a tool for gauging the effectiveness and sustainability of reintroduction initiatives, providing insights for refining strategies and advancing the viability of species in their native ecosystems. DNA obtained from stream water has, for instance, been used to monitor the distribution of re-introduced fish species in Germany.12 Outstanding questions in vulnerability genomics Conservation science has now entered an era of unprecedented genomic insights, achieving resolutions that were once consideredunattainable. Nonetheless,we find Figure 1. The dual research focuses within conservation genomics The first focus, vulnerability genomics, aims to identify and quantify threats to population viability and biodiversity. Conversely, restoration genomics highlights the role of genomics in formulating actionable strategies for biodiversity restoration and population recovery. These two subdisciplines, while distinct, are intertwined and guide each other\u2019s outcomes."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 2,
+    "paragraph_number": 10,
+    "text": "Commentary ourselves within a framework that has yet to fully translate these insights into concrete assessments of genomic vulnerabilities that can be quantified relative to other threats. To accurately assess the genomic vulnerabilityofpopulations,a variety ofkey unknowns remain outstanding. Identifying adaptive and deleterious genetic variants within an individual\u2019s genome is of importance for conservation purposes, yet the translation of computational variant effect predictions based on evolutionary models to real-world fitness consequences remains highly uncertain. For example, there is a lack of studies that quantify the component of genome-wide diversity that is adaptive, and instead, most studies rely on genome-wide summary statistics as a proxy for adaptive variation. Moreover, while there is now a multitude of studies that have identified changes in inbreeding levels and mutational load, suggestive of inbreeding depression, these types of analyses have yet to demonstrate a direct link between computational estimates of mutational load and individual fitness, let alone identify the specific causative mutations that lead to reduced reproductive success. To date, the field mostly relies on estimating the fitness impact of genetic variants using various measures of evolutionary sequence conservation and the mutational impact on translation, such as frameshift or stop codon variants.13 Novel machine-learning approaches, including those capable of modeling the impact of variants on 3D protein structure, as well as models capable of estimating the importance of the broader sequence contexts of variants, could provide new avenues for enhancing the accuracy of variant fitness impact estimates. In addition, conservation genomic studies have given limited attention to the impact of structural variants on species genetic load and adaptability, primarily due to the challenges associated with accurately identifying structural variants from short read sequence data. Ongoing improvements in sequence accuracy and affordability of long-read sequencing platforms will improve our understanding of the importance of structural variants for the long-term persistence and adaptation of species. We also still lack the ability to accurately identify and characterize variants that seem neutral today but could be of vital importance for the adaptive potential of a species in the future. Additionally, we have a limited understanding on how deleterious and adaptive genetic variants interact with each other, which will be crucial for improved estimates of load and adaptive potential. Can a variant be deleterious within one genetic context but beneficial when combined with another genetic variant elsewhere in the genome, and how do we identify such interactions? Innovative frameworks employing a holistic biological pathway perspective, estimating the impact of genetic variants along different pathways, could in theory be used to integrate the interplay between genetic variants in assessments of mutational load. Moreover, improving our understanding of the longterm evolutionary constraints of populations will become essential. Could a novel variant, for instance, as introduced via translocation of individuals or genetic engineering, which confers short-term advantages, impede the future evolution of other genes, potentially by locking specific pathways into a local optimum? Related to this is the interaction between local adaptation and genetic load, crucial for informing conservation planning and translocations. Are individuals that are locally adapted, even if they possess numerous deleterious mutations, more fit than non-locally adapted individuals with fewer deleterious mutations? Furthermore, while the assessment of deleterious effects resulting from genetic variants typically involves identifying the specific gene they target, followed by an evaluation of previously recognized phenotypic consequences of disrupting the gene, this evaluation is typically conducted using model species. It is not clear to what extent we can extrapolate the effects of such genetic variants between species. If a genetic variant is identified as harmful in a model species, how likely is it to be also detrimental in a wild population of another species? We also foresee that deciphering the functions of microbes within the microbiome of endangered species will become an increasingly important component of future conservation studies.8 Which microbes are of high importance for species resilience, and to what extent do the presence-absence and genetic variation of these microbes influence genetic load and adaptive potential of populations as a whole? Finally, we anticipate significant potential in the ongoing development of increasingly advanced DNA extraction and portable sequencing technologies, including DNA capture probes, cell sorting, single-cell analysis, and low-input DNA protocols. Combined with increasing internet connectivity, the capability to generate genome-wide data and subsequent cloud-based bioinformatic analyses from low-quality, non-invasive samples on a portable and cost-effective scale have the potential to revolutionize the immediate and widespread application of genetic technologies directly in the field."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 3,
+    "paragraph_number": 4,
+    "text": "The future potential of restoration genomics As our ability to identify the fitness consequences of specific genetic variants increases, we expect restoration genomics to become a more important part of species conservation. This will open new opportunities, such as selecting the optimal individuals for translocation actions (e.g., assisted gene flow between populations of endangered species) as well as managing reproduction in captive breeding programs. The aim of such actions can be both to minimize the risk of introducing novel genetic diseases into populations and to artificially select against strongly deleterious variants from captive populations. As highly endangered populations may also carry deleterious variants that have become entirely fixed within the species due to genetic drift, genome engineering technologies, including CRISPRCas9, or artificial insemination using biobanked cell lines could be used to reintroduce the adaptive wild-type variants back into the population. The identification of adaptive alleles to re-introduce could be further informed by DNA sequencing of pre-bottleneck historical specimens held in natural history collections.14 While still at an early stage, the application of genome engineering technologies may in the future enable the resurrection not only of lost gene variants but also of extinct species with the potential to restore lost ecosystem functions. In conservation programs that aim to reintroduce species into places where they have become locally extinct, there Commentary is also considerable potential to use eDNA methods to assess whether these localities still comprise suitable habitats. This would involve detection of exotic predators or competitors (e.g., assessing the success of eradication efforts), identifying the presence of potential pathogens and/ or verifying that suitable food sources and mutualistic species still exist. As the costs of DNA sequencing and computational processing of data continues to decline, the establishment of comprehensive population genomics databases for endangered populations is becoming increasingly feasible. This advancement holds great promise for further enhancing ongoing efforts in combating wildlife poaching. By providing law enforcement agencies with detailed genetic population structure maps, combined with real-time DNA sequencing in the field, precise identification of the origins of confiscated or trafficked wild animals can be achieved rapidly, thereby bolstering the capacities to fight illegal wildlife trade. Finally, restoration genomics could enable the investigation and quantification of genetic factors that affect resistance to diseases and pathogens that pose threats to population survival, such as identifying the wild individuals and populations most susceptible to infectious diseases.15 This knowledge can then guide targeted conservation strategies, including focused animal vaccination initiatives and the implementation of isolation measures for specific wildlife populations."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 1,
+    "text": "The synergy between vulnerability and restoration genomics Ultimately, to unlock the full potential as an effective conservation tool, genomics-based approaches need to both describe and quantify the threats that endangered species face and provide realworld solutions of which conservation managers can make use. We envision this as an interaction between the subdisciplines of vulnerability and restoration genomics, where the former is used to identify the most pressing threats and the latter to mitigate them (Figure 1). Importantly, once conservation actions have been implemented, genomic methods can then be used to monitor the effectiveness of the conservation actions and thus help to identify additional approaches that restore population viability further."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 4,
+    "text": "T.v.d.V. acknowledges support from the SciLifeLab & Wallenberg Data Driven Life Science Program (KAW 2020.0239). L.D. acknowledges support from the Swedish Research Council (2021-00625) and the European Union (ERC, PrimiGenomes, 101054984)."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 6,
+    "text": "L.D. is a member of the scientific advisory board for Colossal Biosciences."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 8,
+    "text": "Conservation genomics: applying whole genome studies to species conservation efforts."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 9,
+    "text": "Segelbacher, G., Bosse, M., Burger, P., Galbusera, P., Godoy, J.A., Helsen, P., Hvilsom, C., Iacolina, L., Kahric, A., Manfrin, C., et al. (2022). New developments in the field of genomic technologies and their relevance to conservation management."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 10,
+    "text": "Genomic consequences of intensive inbreeding in an isolated wolf population. https://doi.org/ 10.1038/s41559-017-0375-4."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 11,
+    "text": "4. Hawkins, N.J., Bass, C., Dixon, A., and Neve, P. (2019). The evolutionary origins of pesticide resistance."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 12,
+    "text": "Quantifying Temporal Genomic Erosion in Endangered Species. Trends Ecol."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 13,
+    "text": "Deep-time paleogenomics and the limits of DNA survival."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 15,
+    "text": "7. Nater, A., Mattle-Greminger, M.P., Nurcahyo, A., Nowak, M.G., de Manuel, M., Desai, T., Groves, C., Pybus, M., Sonay, T.B., Roos, C., et al. (2017). Morphometric, Behavioral, and Genomic Evidence for a New Orangutan Species. Curr."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 16,
+    "text": "Carthey, A.J.R., Blumstein, D.T., Gallagher, R.V., Tetu, S.G., and Gillings, M.R. (2020). Conserving the holobiont."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 17,
+    "text": "Targeted conservation genetics of the endangered chimpanzee. Heredity 125, 15\u201327."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 18,
+    "text": "Elephant genotypes reveal the size and connectivity of transnational ivory traffickers."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 19,
+    "text": "Scheele, B.C., Pasmans, F., Skerratt, L.F., Berger, L., Martel, A., Beukema, W., Acevedo, A.A., Burrowes, P.A., Carvalho, T., Catenazzi, A., et al. (2019). Amphibian fungal panzootic causes catastrophic and ongoing loss of biodiversity."
+  },
+  {
+    "filename": "van der Valk & Dal\u00e9n 2024_ From genomic threat assessment to conservation action.pdf",
+    "page_number": 4,
+    "paragraph_number": 20,
+    "text": "Combining environmental DNA and species distribution modeling to evaluate reintroduction success of a freshwater fish."
+  }
+]

@@ -1,0 +1,22 @@
+# General
+sentence-transformers>=2.2.2
+spacy>=3.6.0
+
+# NER model
+gliner>=0.1.0
+
+# Keyword extraction
+keybert>=0.8.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Excel support (for semantic similarity + keybert scripts)
+openpyxl>=3.1.0
+
+# PyTorch backend (required by sentence-transformers + gliner)
+torch>=2.0.0

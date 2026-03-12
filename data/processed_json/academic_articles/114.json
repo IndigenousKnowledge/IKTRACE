@@ -1,0 +1,290 @@
+[
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 1,
+    "paragraph_number": 1,
+    "text": "The eastern massasauga Sistrurus catenatus catenatus is a declining species for which a captive breeding program was established in 2006. To effectively manage wild and captive populations, an understanding of genetic diversity within the species is necessary. We analyzed mitochondrial DNA sequences of 186 individuals: 109 wild snakes from 34 U.S. and Canadian counties and districts, all 52 breeding program members (23 of known and 29 of unknown origin), 18 other captives of unknown origin, and 7 outgroup representatives of desert massasauga S. c. edwardsii, and western massasauga, S. c. tergeminus. Statistical parsimony, maximum likelihood, and maximum parsimony analyses all identified eastern massasaugas as divergent from western and desert massasaugas. We found 18 different haplotypes among eastern massasaugas, comprising three geographically and genetically differentiated NADH dehydrogenase II (ND2) subunits that potentially reflect post-Pleistocene range expansion from unglaciated into formerly glaciated regions. Snakes of unknown origin could all be assigned unambiguously to these ND2 subunits. To maintain natural genetic variation, preserve diversity in captive lineages, and allow future augmentation or reintroduction, the Association of Zoos and Aquariums is managing these three geographic ND2 subunits separately within the Eastern Massasauga Species Survival Plan breeding program."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 1,
+    "paragraph_number": 14,
+    "text": "The findings and conclusions in this article are those of the author(s) and do not necessarily represent the views of the U.S. Fish and Wildlife Service."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 1,
+    "paragraph_number": 17,
+    "text": "Conservation genetic analyses have clear management implications in the design and implementation of captive breeding and reintroduction programs (Kozfkay et al. 2008; The eastern massasauga Sistrurus catenatus catenatus (Figure 1), a subspecies of the Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 massasauga rattlesnake, ranges across the North American Midwest and is threatened by habitat destruction, fragmentation, and persecution (Szymanski 1998; Rouse and Willson 2002). Except in Michigan, where it is a species of special concern, the eastern massasauga is listed as threatened or endangered within each state or province in which it occurs (Illinois, Indiana, Iowa, Michigan, Minnesota, New York, Ohio, Pennsylvania, Wisconsin, Ontario; Levell 1998; Rouse and Willson 2002) and is a candidate for federal listing under the U.S. Endangered Species Act (ESA 1973, as amended)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 2,
+    "paragraph_number": 1,
+    "text": "In 2006, the Association of Zoos and Aquariums (AZA) established a Species Survival Plan (SSPH) aimed at increasing the size and preserving genetic diversity of the captive population as a possible source in future reintroduction and augmentation (Earnhardt et al. 2011). Key elements of the SSP include development of a studbook detailing the pedigree of the managed population and development of a science-based breeding and transfer plan. Achieving these objectives has been hampered by the unknown origin of some SSP animals and incomplete information on the population genetic structure of natural populations."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 2,
+    "paragraph_number": 2,
+    "text": "Previous genetic analyses of the eastern massasauga using microsatellite DNA loci demonstrated that population subdivision occurs over short distances (,25 km; Gibbs et al. 1997; Andre 2003; Kropiewnicki 2008;"
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 2,
+    "paragraph_number": 3,
+    "text": "Chiucchi and Gibbs 2010). In addition, analysis of nuclear and mitochondrial DNA sequences provided evidence that the eastern massasauga warrants elevation to full species status as distinct from the western massasauga S. c. tergeminus and desert massasauga S. c. edwardsii (Kubatko and Gibbs 2010; Kubatko et al. 2011). Incidentally, because species are ranked higher than subspecies and populations, such a taxonomic change would elevate the eastern massasauga priority rank under the ESA (ESA 1973). Genetic analyses have also provided clarification of the taxonomic identity of extant populations in northwestern Missouri as western massasaugas (Gibbs et al. 2010; Gerard et al. 2011; Kubatko et al. 2011). Previously, these snakes had been variably classified as S. c. catenatus, S. c. tergeminus, or hybrids between the two (Evans and Gloyd 1948; Szymanski 1998). However, a range-wide analysis of the eastern massasauga, including representatives of most extant populations and coupled with parallel analysis of captive snakes, has not been conducted. We utilized mitochondrial DNA sequence data to identify geographic structure among wild populations, clarify geographic boundaries among taxonomic units, and characterize the genetic makeup of captive individuals held at AZA institutions as part of the captive breeding program. We synthesize our results with those of other studies and discuss their implications for captive breeding of the eastern massasauga."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 2,
+    "paragraph_number": 4,
+    "text": "Eastern massasauga Sistrurus catenatus catenatus at a study site in Cass County, Michigan (photo by E. Hileman in 2012)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 2,
+    "paragraph_number": 5,
+    "text": "Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 2,
+    "paragraph_number": 6,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 105 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 Tissue and DNA samples from living animals across the range of the eastern massasauga were provided by colleagues and SSP participating institutions (Figure 2; Table S1, Supplemental Material; Ray 2009). We analyzed 186 snakes: 109 wild snakes from 34 U.S. and Canadian counties and districts, all 52 members of the SSP breeding program (23 of known and 29 of unknown origin), 18 other captives of unknown origin that have since died or are otherwise excluded from breeding, and 7 outgroup representatives. Outgroup samples include western and desert massasaugas (n = 7) and a single sample from Pottawattamie County, Iowa, a disjunct population whose taxonomic status was unclear at the start of this study (Table S1, Supplemental Material). Genomic DNA was extracted using DNeasy Blood and Tissue Kits and Puregene Core Kits (Qiagen, Inc., Valencia, CA) following manufacturer protocols and used as template for polymerase chain reaction (PRC) amplification of the mitochondrial gene NADH dehydrogenase subunit II (ND2). Reactions were performed using Failsafe PCR systems premix H (Epicentre Technologies Corp., Madison, WI) with primers CE2330 (59-CTA ATA AAG CTT TCG GGC CCA TAC-39) and CE2331 (59-TTC TAC TTA AGG CTT TGA AGG C-39) from Janzen et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 3,
+    "paragraph_number": 4,
+    "text": "We began amplification reactions with a 2-min denaturing step at 94uC, followed by 40 cycles of amplification using a 30-s 94uC denaturation step, a 30-s 50uC annealing step, and a 90-s 72uC elongation step. After final elongation for 7 min at 72uC, we purified amplicons using ExoSAP-IT (USB Corp., Cleveland, OH) and sequenced them using a commercial service (Macrogen, Inc., Seoul, South Korea). Sequencing reactions used Figure 2. Historic range of the eastern massasauga Sistrurus catenatus catenatus (shaded counties; adapted from Villeneuve 1988; Szymanski 1998), sampling locations in North America, and distribution of geographic NADH dehydrogenase II (ND2) subunits (eastern ND2 subunit = brown, central ND2 subunit = blue, western ND2 subunit = red). Numbers indicate haplotypes observed in a given county (as in Figures 3\u20134 and Table S1, Supplemental Material). Black asterisks denote populations in Holt and Linn counties, Missouri (Kubatko et al. 2011) and Pottawattomie County, Iowa (this study) that belong to the western massasauga S. c. tergeminus and desert massasauga S. c. edwardsii massasauga clade."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 3,
+    "paragraph_number": 6,
+    "text": "Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 3,
+    "paragraph_number": 7,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 106 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 amplification primer CE2330 and an internal primer, L5238s (59-ACT TGA CAG AAA ATT GCC CCC-39) modified from the L5238 primer (de Queiroz et al. 2002)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 4,
+    "paragraph_number": 1,
+    "text": "We inspected, trimmed, and aligned sequences using Geneious v5 (Drummond et al. 2009). We used the computer program TCS 1.21 (Clement et al. 2000) to create an unrooted statistical parsimony network connected at a minimum 95% significance level. We generated gene trees using maximum likelihood and maximum parsimony. The program jModelTest (Posada 2008) identified the GTR+G evolutionary model as most appropriate for the data set. We conducted maximum likelihood analyses in MEGA4 (Tamura et al. 2007) with 1,000 bootstrap replicates. We conducted maximum parsimony analyses in PAUP* 4.0b10 (Swofford 2002) with 1,000 bootstrap replicates and 100 random addition sequence replicates per bootstrap replicate. A 3\u2013basepair (bp) deletion observed in some haplotypes (see Results) was treated as both a 1-bp and a 3-bp substitution in maximum likelihood analyses, and as a 1-bp and a 3-bp gap using fifth-state coding in maximum parsimony analyses (Giribet and Wheeler 1999; Ogden and Rosenberg 2007; Simmons et al. 2007). We calculated nucleotide and haplotype diversity, tests for selective neutrality (Tajima\u2019s D, Fu and Li\u2019s F, Fu and Li\u2019s D), and tests for population expansion (Fu\u2019s F, RamosOnsins and Rozas\u2019 R2) in DnaSP 5 (Librado and Rozas 2009). We calculated net sequence divergence and transition/transversion ratios using MEGA5 (Tamura et al. 2007). We quantified the degree of exclusive ancestry of geographic ND2 subunits using the genealogical sorting index (gsi; Cummings et al. 2008) with 10,000 permutations. This index quantifies the historical relationship among groups without the requirement of reciprocal monophyly; here, this is an advantage given the recency of the hypothesized range expansion of the eastern massasauga into formerly glaciated areas. We further explored phylogeographic structure by comparing NST, an ordered measure of genetic differentiation that incorporates distances among haplotypes, and GST, an unordered measure of genetic differentiation, using Permut (Pons and Petit 1996) with 1,000 permutations. When haplotypes within a geographic ND2 subunit are more similar in sequence than expected given their overall frequency, NST exceeds GST, thus providing a signal of geographic subdivision (Pons and Petit 1996)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 4,
+    "paragraph_number": 4,
+    "text": "We analyzed 922 bp of ND2 from 186 massasaugas and identified 23 unique haplotypes exhibiting 133 synonymously variable bases (Table S1, Supplemental Material, GenBank Accession No. Five haplotypes contained the same 3-bp deletion, located within the reading frame. Whereas the other haplotypes contained a tandem repeat (CCTCCT), these five haplotypes contained only a single copy (CCT), suggestive of a deletion due to slipped-strand mis-pairing (Graur and Li 2000). The program MEGA5 estimated the transition/ transversion bias to be R = 4.43. Unrooted statistical parsimony network, maximum likelihood, and maximum parsimony analyses all identified the eastern massasauga haplotypes as divergent from western and desert massasauga haplotypes (Figure 3). Maximum parsimony analyses yielded the same most parsimonious trees regardless of whether the deletion was treated as a 1-bp or a 3-bp gap (tree lengths = 144 and 146 steps, respectively). The maximum parsimony majority rule consensus tree was topologically congruent to the trees obtained from maximum likelihood analyses, regardless of whether the deletion was treated as a 1-bp or 3-bp substitution (Figure 4). Net sequence divergence equaled 14% between eastern massasaugas and western+desert massasaugas. Western massasaugas and desert massasaugas differed by just 1%. Haplotypes of a wild-caught snake from Pottawattomie County, Iowa, and four captive snakes lacking locality data (two law-enforcement confiscations and two from a private collection) were similar to western and desert massasauga haplotypes. As a result, the four captive snakes have been excluded from the eastern massasauga SSP."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 4,
+    "paragraph_number": 5,
+    "text": "Unrooted statistical parsimony network of eastern massasauga Sistrurus catenatus catenatus NADH dehydrogenase subunit II (ND2) haplotypes in North America. Small, medium, and large symbols represent 1, 2\u20136, and 20\u201364 individuals, respectively. Dots denote unrepresented haplotypes. A 3\u2013base-pair deletion separates haplotypes 5 and 13 (dashed line). Colors distinguish three geographic ND2 subunits (eastern ND2 subunit = brown, central ND2 subunit = blue, western ND2 subunit = red). Western massasauga S. c. tergeminus and desert massasauga S. c. edwardsii haplotypes (not shown) were distinguished from eastern massasauga haplotypes by the 95% criterion used in generating this network."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 4,
+    "paragraph_number": 6,
+    "text": "Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 4,
+    "paragraph_number": 7,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 107 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 Maximum parsimony NADH dehydrogenase subunit II (ND2) gene tree for the massasauga Sistrurus catenatus, in North America. Bootstrap support for maximum parsimony and maximum likelihood analyses are shown above and below branches, respectively, treating the deletion as a 3\u2013base-pair (bp; first value) or 1-bp (second value) gap for maximum parsimony or 3-bp (first value) or 1-bp (second value) substitution for maximum likelihood. Values of gsi (probability) for successively inclusive ND2 subunits (vertical lines) are shown to the right. Rectangles distinguish eastern massasauga S. c. catenatus haplotypes from western massasauga S. c. tergeminus and desert massasauga S. c. edwardsii haplotypes. Within eastern massasaugas, colors distinguish geographic ND2 subunits (eastern ND2 subunit = brown, central ND2 subunit = blue, western ND2 subunit = red)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 5,
+    "paragraph_number": 2,
+    "text": "Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 5,
+    "paragraph_number": 3,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 108 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 We identified 18 haplotypes among the 179 eastern massasaugas included in our analysis. An unrooted statistical parsimony network revealed three ND2 subunits (Figure 3), corresponding to separate geographic regions (Figure 2): (1) a western ND2 subunit in Iowa, Wisconsin, and Illinois (n = 42 animals of known origin, number of haplotypes H = 5, haplotype diversity h = 0.656, nucleotide diversity p = 0.0010); (2) a central ND2 subunit in Indiana, southern and central Michigan, Ohio, and far southwestern Ontario (n = 56 and 34 animals of known and unknown origin, respectively; H = 8, h = 0.357, p = 0.0005); and (3) an eastern ND2 subunit in New York, Pennsylvania, northern Michigan, and remaining portions of Ontario (n = 34 and 13 animals of known and unknown origin, respectively; H = 5, h = 0.412, p = 0.0005). Net sequence divergence was low, equaling 0.5% between western and central ND2 subunits, 0.8% between western and eastern ND2 subunits, and 0.4% between central and eastern ND2 subunits. Western and central ND2 subunits were separated from each other by a minimum of three mutational steps and from the eastern ND2 subunit by the 3-bp deletion. Maximum likelihood and maximum parsimony gene trees provided moderate support for the monophyly of the central+ eastern ND2 subunits (bootstrap value = 75\u201377, depending on how the deletion was scored) and variable support for the monophyly of the eastern ND2 subunit (bootstrap value = 61\u201396, depending on how the deletion was scored; Figure 4)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 2,
+    "text": "Divergence between eastern and western+desert massasaugas and division of the eastern massasauga into western, central, and eastern ND2 subunits was supported by gsi values that were all equal to 1.0 and significantly different from 0.0 (Figure 4). Thus, despite the presence of polytomys and sometimes only moderate bootstrap support using maximum likelihood and maximum parsimony, evidence for exclusive ancestry of eastern massasaugas from western+desert massasaugas, of the central and eastern ND2 subunit from the western ND2 subunit, and of the eastern ND2 subunit from the central ND2 subunit, is strong (Figure 4). Similarly, within the eastern massasauga, ordered genetic differentiation among ND2 subunits was significantly greater than unordered genetic differentiation (NST = 0.82, GST = 0.56, P , 0.001), indicating that individuals within ND2 subunits share haplotypes that are more similar in sequence than would be expected in the absence of geographic structure."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 3,
+    "text": "Demographic analysis indicates population stability in the western ND2 subunit (Fu\u2019s F = 20.63, P = 0.185; Ramos-Onsins and Rozas\u2019 R2 = 0.12, P = 0.512) but population expansion in the central (F = 26.14, P = 0.002; R2 = 0.03, P = 0.002) and possibly eastern ND2 subunits (F = 22.44, P = 0.059; R2 = 0.06, P = 0.056). Tests for selection (Tajima\u2019s D, Fu and Li\u2019s F, and Fu and Li\u2019s D) were all nonsignificant."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 4,
+    "text": "Of 52 snakes included in the eastern massasauga SSP breeding plan as of January 2012, 29 were of unknown origin. Our analysis allowed us to assign these animals unambiguously to one of the three mtDNA ND2 subunits identified above. These 52 snakes included 12, 26, and 14 western, central, and eastern ND2 subunit representatives, respectively. Three of five western ND2 subunit haplotypes, three of eight central ND2 subunit haplotypes, and two of five eastern ND2 subunit haplotypes were present among them."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 7,
+    "text": "Taxonomic distinctness and phylogeographic structure Our results support the conclusions of Kubatko et al. (2011) regarding the taxonomic distinctness of the eastern massasauga. Although we analyzed a single mitochondrial gene (vs. 18 nuclear genes and 1 mitochondrial gene in Kubatko et al. 2011), our sampling of the eastern massasauga clade was more extensive, including 132 snakes from 34 U.S. and Canadian counties and districts (vs. 9 eastern massasaugas in Kubatko et al. 2011). Furthermore, our inclusion of samples from Bremer County in northeastern Iowa (n = 5; belonging to the eastern massasauga clade) and Pottawattamie County in southwestern Iowa (n = 1; belonging to the western+desert massasauga clade) further clarifies the geographic distribution of these taxa. Placement of the Pottawattamie County sample in the western+desert massasauga clade is supported by independent analysis of two other mitochondrial genes (H. L. Gibbs, The Ohio State University, personal communication). As with populations in western Missouri (Gibbs et al. 2010; Gerard et al. 2011; Kubatko et al. 2011; Wooten and Gibbs 2011), our results indicate that Pottawattamie County, Iowa, should be excluded from eastern massasauga management plans."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 9,
+    "text": "Our study demonstrates the existence of three geographic ND2 subunits within the eastern massasauga that were not evident in previous analyses that were largely based on sequence data from nuclear genes (Kubatko et al. 2011). Kubatko et al. (2011) included one mitochondrial marker in their analyses (296 bp of ATP 6 and 8); however, low levels of variation rendered it uninformative with respect to genetic structure within eastern massasaugas (figure S2.a in Kubatko et al. 2011). Larger sample size and more complete geographic coverage enhanced our ability to detect geographic structure. Our sampling encompassed 34 unique locations (compared with 9 locations in Kubatko et al. 2011), and included coverage of northern Michigan (upper and lower peninsula), Indiana, Iowa, and the north side of Lake Erie, which provided data critical in resolving geographic ND2 subunits. In addition, much of the current distribution of the eastern massasauga was ice-covered during the Wisconsinan glacial maximum approximately 18,000 years before present, resulting in a relatively short time-frame over which geographic ND2 subunits could arise. The four-fold lower effective population size of mitochondrial DNA makes this marker more likely than nuclear sequences to reveal geographic structure (Zink and Barrowclough 2008; Barrowclough and Zink 2009)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 10,
+    "text": "We find the deletion event that distinguishes our eastern ND2 subunit to be especially noteworthy. This Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 6,
+    "paragraph_number": 12,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 109 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 rare genomic change provides phylogenetic information (e.g., Janec\u02c7ka et al. 2007), which, in the present case, is congruent with geography, results from a simple directional mechanism (slipped-strand mis-pairing resulting in a deletion from the ancestral sequence of two tandem repeats), and is unlikely to reflect homoplasy. We observed no other intraspecific deletions among approximately 200 ND2 sequences from four other snake species, nor have intraspecific ND2 deletions been reported in other snakes (Janzen et al. 2002; Based on glacial history and inferred directionality of the deletion event, we interpret the geographic pattern seen in our ND2 sequence data as resulting from range expansion from unglaciated (Iowa, Wisconsin, southern Illinois) into formerly glaciated regions. Demographic analysis suggests that post-glacial range expansion is associated with demographic stability in the western (unglaciated) ND2 subunit and population expansion in the central and possibly eastern ND2 subunits. A lack of samples from northwestern Indiana, where the eastern massasauga is now rare or absent, makes it difficult to determine where the boundary between the western and central ND2 subunits lies. However, boundaries between the central and eastern ND2 subunits fall between collection sites separated by about 32 km in Crawford and Kalkaska counties in northern Michigan, and about 64 km in Ashtabula County, Ohio, and Butler and Venango counties, Pennsylvania."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 7,
+    "paragraph_number": 2,
+    "text": "Genetic analyses of the eastern massasauga from a variety of studies provide different degrees of geographic resolution consistent with the marker type used. (2011) suggest a general lack of geographic structure and only low levels of variation within the eastern massasauga. Mitochondrial sequence data from this study revealed an intermediate level of geographic structure, with three weakly differentiated ND2 subunits. Finally, microsatellite DNA data (Gibbs et al. 1997; Andre 2003; Kropiewnicki 2008; Chiucchi and Gibbs 2010) reveal strong differentiation even at a fine geographic scale, suggesting that local populations are relatively isolated and that gene flow is generally rare."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 7,
+    "paragraph_number": 3,
+    "text": "Although variation in geographic resolution among marker types is expected, these contrasting patterns create a challenge to individuals and agencies tasked with appropriately managing at-risk species. For example, management of captive breeding programs requires balancing demographic and genetic objectives. Captive populations founded by a few individuals and maintained at low numbers rapidly lose genetic variation through stochastic processes and frequently show evidence of inbreeding depression (Allendorf and Luikart 2007). For the eastern massasauga SSP, which includes just 52 animals and is dispersed across 22 zoos, rapid population increase might best be achieved by treating captives as a single unit to immediately maximize the number of breeding pairs; this strategy is supported by the apparent lack of geographic structure based on nuclear DNA sequences. In contrast, maintaining patterns of mitochondrial genetic variation present in wild populations (e.g., for possible reintroduction or augmentation) would require managing the three ND2 subunits separately and may necessitate delayed breeding of some captive individuals. Furthermore, because the number of snakes per ND2 subunit is small, acquisition of additional captives may be desirable. Finally, maintaining patterns of microsatellite DNA variation found in wild populations, along with potential local adaptation, would require managing animals from each source population separately. However, such a strategy would require acquisition of significant numbers of additional snakes (e.g., recent microsatellite DNA analyses identify 29 genetically discrete populations; Kropiewnicki 2008, Chiucchi and Gibbs 2010), possibly putting source populations at greater risk. Furthermore, limited space and resources at participating zoological institutions make it difficult to maintain enough captive individuals to support such an approach."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 7,
+    "paragraph_number": 5,
+    "text": "The benefits of dividing the captive population into genetic subunits must be weighed against practical considerations for numbers of individuals maintained and the need for rapid captive population growth to minimize loss of genetic variation and adaptation to captivity (Robert 2009; Williams and Hoffman 2009). For the eastern massasauga, evidence for long-term population isolation and local adaptation is equivocal. Chiucchi and Gibbs (2010) report low rates of gene flow on both contemporary and historical time scales, making local adaptation more likely. In contrast, Michigan populations (which have lower numbers of unique alleles and fewer unique alleles at high frequency than do populations elsewhere) apparently became isolated more recently, making local adaptation less likely (Kropiewnicki 2008). These practical and genetic considerations led the AZA to adopt a strategy where the three ND2 subunits we identified are being maintained separately during initial breeding efforts (Earnhardt et al. 2011). Importantly, the eastern massasauga SSP is updated annually, allowing changes in breeding design to be incorporated as additional information becomes available. Investigations of functional genes, such as those contributing to immune function (Hughes 1991; Madsen and Ujvari 2006), could be especially useful in identifying the geographic scale of local adaptation and natural subunits for captive breeding. Such genes may also prove useful as monitoring tools should augmentation and reintroduction become part of future eastern massasauga management (e.g., Swanson et al. 2006; Smith and Hughes 2008). Regardless of the breeding design adopted, increasing the number of individuals and diversity of haplotypes among captive individuals through cooperation with organizations outside of the AZA SSP is important. For instance, breeding loans from non-AZA facilities or donations of confiscated animals from law enforcement agencies and other sources could be assigned to ND2 subunits using the tools developed Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 7,
+    "paragraph_number": 7,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 here, thus improving long-term prospects for genetic health and, ultimately, the persistence of the species."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 2,
+    "text": "Please note: The Journal of Fish and Wildlife Management is not responsible for the content or functionality of any supplemental material. Queries should be directed to the corresponding author for the article."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 3,
+    "text": "Table S1. Geographic locality in North America, haplotype, and NADH dehydrogenase II (ND2) subunit membership of wild and captive massasaugas Sistrurus catenatus. Haplotype numbers correspond to symbols in Figures 2\u20134. ND2 subunits of the eastern massasauga S. c. catenatus are identified as W (western ND2 subunit), C (central ND2 subunit), and E (eastern ND2 subunit). Subunit membership of two SSP Breeding Plan animals (22892, 107716) was assigned based on county of origin; haplotypes will be determined after tissue samples become available. Snakes included in the SSP Breeding Plan are indicated with a +."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 4,
+    "text": "Found at DOI: http://dx.doi.org/10.3996/032012-JFWM026.S1(353 KB DOC)."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 6,
+    "text": "We thank M. Andre, C. Berg, H. L. Gibbs, B. Jellen, R. S. King, B. Kingsbury, R. Knutson, S. Lougheed, J. Marshall, C. Phillips, M. Redmer, C. Smith, T. VanDeWall, D. Wynn, Audubon Zoo, Buffalo Zoo, Columbus Zoo, Detroit Zoo, Fort Wayne Zoo, Houston Zoo, Indianapolis Zoo, John Ball Zoo, Lincoln Park Zoo, Milwaukee County Zoo, Notebaert Museum, Oklahoma City Zoo, Potter Park Zoo, Racine Zoo, Seneca Park Zoo, Toledo Zoo, Toronto Zoo, and Wildlife Discovery Center for samples; Illinois Department of Natural Resources, Lincoln Park Zoo, and Northern Illinois University for funding; and B. Ball for preparing figures. We gratefully acknowledge input provided by J. Earnhardt, H. L. Gibbs, F. Janzen, L. Kubatko, H. Reinert, M. Sovic, two anonymous reviewers, and the Subject Editor to improve the manuscript."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 7,
+    "text": "Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 9,
+    "text": "Conservation and the genetics of populations. Genetic population structure by microsat- ellite DNA analysis of the eastern massasauga rattlesnake (Sistrurus catenatus catenatus) at Carlyle Lake. Master\u2019s thesis. DeKalb: Northern Illinois University. Barrowclough GF, Zink RM. 2009. Funds enough, and time: mtDNA, nuDNA and the discovery of divergence. Birks SM, Edwards SV. 2002. A phylogeny of the megapodes (Aves: Megapodiidae) based on nuclear and mitochondrial DNA sequences. Molecular Phylogenetics and Evolution 23:408\u2013421."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 14,
+    "text": "Similarity of contemporary and historical gene flow among highly fragmented populations of an endangered rattlesnake. Cummings MP, Neel MC, Shaw KL. 2008. A genealogical approach to quantifying lineage divergence."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 18,
+    "text": "Phylogenetic relationships of the North American garter snakes (Thamnophis) based on four mitochondrial genes: how much DNA is enough? Molecular Phylogenetics and Evolution 22:315\u2013329. Mitochondrial phylogeny of Locustella and related genera. Journal of Avian Biology 35:105\u2013110. Drummond AJ, Ashton B, Cheung M, Heled J, Kearse M, Moir R, Stones-Havas S, Thierer T, Wilson A. 2009. Population analysis & breeding and transfer plan: eastern massasauga rattlesnake (Sistrurus catenatus catenatus) AZA Species Survival Plan Yellow Program. Chicago: Lincoln Park Zoo. http://www.emrssp.org/assets/files/2011_ executive_summary.doc (August 2012). [ESA] U.S. Endangered Species Act of 1973, as amended, Pub. L. No. 93-205, 87 Stat. 884 (Dec. 28, 1973). The subspecies of the massasauga, Sistrurus catenatus, in Missouri. Bulletin of the Chicago Academy of Science 8:225\u2013232. Estimating hybridization in the presence of coalescence using phylogenetic intraspecific sampling. BMC Evolutionary Biology 11:291. Gibbs HL, Murphy M, Chiucchi JE. 2010. Genetic identity of endangered massasauga rattlesnakes (Sistrurus sp.) in Missouri. Conservation Genetics 12:433\u2013439. Gibbs HL, Prior KA, Weatherhead PJ, Johnson G. 1997."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 25,
+    "text": "Genetic structure of populations of the threatened eastern massasauga rattlesnake, Sistrurus c. catenatus: evidence from microsatellite DNA markers. Molecular Phylogenetics and Evolution 13:132\u2013143. Fundamentals of molecular evolution. 2nd edition. Hughes A. 1991. MHC polymorphism and the design of captive breeding programs. Conservation Biology 5: 249\u2013251. Janec\u02c7ka JE, Miller W, Pringle TH, Wiens F, Zitzmann A, Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 8,
+    "paragraph_number": 31,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 111 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 and genomic data identify the closest living relative of primates. Molecular phylogeography of common garter snakes (Thamnophis sirtalis) in western North America: implications for regional historical forces. Prioritizing species conservation: does the Cape Verde kite exist? Proceedings of the Royal Society B 272:1365\u20131371."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 9,
+    "paragraph_number": 3,
+    "text": "A molecular phylogeny of minivets (Passeriformes: Campephagidae: Pericrocotus): implications for biogeography and convergent plumage evolution. A genetic evaluation of relatedness for broodstock management of captive, endangered Snake River sockeye salmon, Oncorhynchus nerka. Conservation Genetics 9:1421\u20131430. Investigating population isolation in Michigan\u2019s massasauga rattlesnake (Sistrurus catenatus catenatus). Master\u2019s thesis. Mt. Pleasant: Central Michigan University. Estimating species relation- ships and taxon distinctiveness in Sistrurus rattlesnakes using multilocus data. Pages 193\u2013207 in Knowles LL, Kubatko LS, editors. Estimating species trees: practical and theoretical aspects. Hoboken, New Jersey: John Wiley and Sons. Inferring species-level phylogenies and taxonomic distinctiveness using multilocus data in Sistrurus rattlesnakes. Systematic Biology 60:393\u2013409. A field guide to reptiles and the law."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 9,
+    "paragraph_number": 8,
+    "text": "Serpent\u2019s Tale Natural History Book Distributors. DnaSP v5: a software for comprehensive analysis of DNA polymorphism data. Bioinformatics 25:1451\u20131452. MHC class I variation associates with parasite resistance and longevity in tropical pythons. Journal of Evolutionary Biology 19:1973\u2013 1978. Phylogenetic relationships of the bulbuls (Aves: Pycnonotidae) based on mitochondrial and nuclear DNA sequence data. Molecular Phylogenetics and Evolution 40:687\u2013695. How should gaps be treated in parsimony? A comparison of approaches using simulation. Molecular Phylogenetics and Evolution 42:817\u2013826. Pasquet E, Bourdon E, Kalyakin MV, Cibois A. 2006. The fulvettas (Alcippe, Timaliidae, Aves): a polyphyletic group. Post-glacial recolonization of the Great Lakes region by the common garter snake (Thamnophis sirtalis) inferred from mtDNA sequences. Molecular Phylogenetics and Evolution 43:452\u2013467. Measuring and testing genetic differentiation with ordered versus unordered alleles. Genetics 144:1237\u20131245. Molecular Biology and Evolution 25:1253\u20131256. Phylogenetic relationships among the mollies (Poeciliidae: Poecilia: Mollienesia group) based on mitochondrial DNA sequences. Journal of Fish Biology 53A:64\u201381. Conservation genetics and ecological niche modeling of Kirtland\u2019s snake, Clonophis kirtlandii, and the eastern massasauga rattlesnake, Sistrurus catenatus catenatus. Master\u2019s thesis. DeKalb: Northern Illinois University. DNA evidence shows vocalizations to be a better indicator of taxonomic limits than plumage patterns in Zimmerius tyrant-flycatchers. Molecular Phylogenetics and Evolution 48:150\u2013156. Captive breeding genetics and reintroduc- tion success. Rouse JD, Willson RJ. 2002. Update COSEWIC status report on the massasauga Sistrurus catenatus in Canada. COSEWIC assessment and update status report on the massasauga Sistrurus catenatus in Canada. Committee on the Status of Endangered Wildlife in Canada, Ottawa. mtDNA indicates profound population structure in Indian tiger (Panthera tigris tigris). Conservation Genetics 10:909\u2013914. Simmons MP, Muller K, Norton AP. 2007. The relative performance of indel-coding methods in simulations. Molecular Phylogenetics and Evolution 44:724\u2013740. Smith S, Hughes J. 2008. Microsatellite and mitochondrial DNA variation defines island genetic reservoirs for reintroductions of an endangered Australian marsupial, Perameles bougainville. Conservation Genetics 9: 547\u2013557. Swanson BJ, Peters RL, Kyle CJ. Demographic and genetic evaluation of an American marten reintroduction. Journal of Mammalogy 87:272\u2013280. Swofford DL. 2002. Phylogenetic Analysis Using Parsimony (*and other methods). Status assessment for eastern massasauga (Sistrurus c. catenatus). Fort Snelling, Minnesota: U.S. Fish and Wildlife Service."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 9,
+    "paragraph_number": 29,
+    "text": "Molecular Evolution Genetics Analysis (MEGA) software version 4.0. Molecular Biology and Evolution 24: 1596\u20131599."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 9,
+    "paragraph_number": 30,
+    "text": "Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 9,
+    "paragraph_number": 31,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 112 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022 Molecular genetic analysis of a captive-breeding program: the vulnerable endemic Jamaican yellow boa. Conservation Genetics 10:69\u201377. Ontario herpetofaunal summary. Cambridge, Ontario, , Canada: Ontario Field Herpetologists. Williams SE, Hoffman EA. 2009. Minimizing genetic adaptation in captive breeding programs: a review."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 10,
+    "paragraph_number": 5,
+    "text": "Ex situ conservation genetics: a review of molecular studies on the genetic consequences of captive breeding programmes for endangered animal species. Biodiversity Conservation 20:1843\u20131861. Wooten JA, Gibbs HL. 2011. Niche divergence and lineage diversification among closely related Sistrurus rattlesnakes. Journal of Evolutionary Biology 25:317\u2013328. Zink RM, Barrowclough GF. 2008. Mitochondrial DNA under siege in avian phylogeography."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 10,
+    "paragraph_number": 9,
+    "text": "Eastern Massasauga Conservation Genetics J.W. Ray et al."
+  },
+  {
+    "filename": "Ray et al. 2013.pdf",
+    "page_number": 10,
+    "paragraph_number": 10,
+    "text": "Journal of Fish and Wildlife Management | www.fwspubs.org June 2013 | Volume 4 | Issue 1 | 113 Downloaded from http://meridian.allenpress.com/jfwm/article-pdf/4/1/104/2922527/032012-jfwm-026.pdf by Queens University user on 21 September 2022"
+  }
+]

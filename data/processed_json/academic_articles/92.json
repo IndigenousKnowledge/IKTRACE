@@ -1,0 +1,308 @@
+[
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 1,
+    "text": "Structural genomic variants (SVs) are ubiquitous and play a major role in adaptation and speciation. Yet, comparative and population genomics have focused predominantly on gene duplications and large-effect inversions. The lack of a common framework for studying all SVs is hampering progress towards a more systematic assessment of their evolutionary significance. Here we (i) review how different types of SVs affect ecological and evolutionary processes; (ii) suggest unifying definitions and recommendations for future studies; and (iii) provide a roadmap for the integration of SVs in ecoevolutionary studies. In doing so, we lay the foundation for population genomics, theoretical, and experimental approaches to understand how the full spectrum of SVs impacts ecological and evolutionary processes."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 4,
+    "text": "Beyond SNPs: Structural Variation Plays a Key Role in Adaptive Evolution and Speciation The study of structural variants (SVs) (see Glossary and Figure 1) has a long history going back to the discovery of chromosomal inversions in Drosophila fruit flies in the early 20th century [1], followed by transposable elements (TEs) in maize (Zea mays) [2], and gene duplications in Drosophila [3]. Yet, this rich knowledge from comparative genetics was not widely integrated into the field of molecular population genetics, which rose in the 1970s. Since then, predominant attention has been on molecular markers that quantify patterns defined by one or few base pairs, such as SNPs, AFLPs, and microsatellites. However, diverse forms of SVs have re -emerged in population-level studies owing to advances in genomic technologies. Mounting evidence suggests that they are taxonomically ubiquitous [4\u20137] and key contributors to a multitude of evolutionary processes (Box 1)"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 5,
+    "text": "Considering the Full Spectrum of SVs Large inversions \u2013 spanning 100 kb to several Mb \u2013 are the most frequent SVs associated with adaptive phenotypes and the maintenance of differentiation [9,10]. The strong association is largely due to their ease of detection and their ability to reduce recombination in inversion heterozygotes (heterokaryotypes), and hence to preserve linkage between alleles despite gene flow. Although they have received less attention, other SVs such as chromosomal fusions and translocations also interfere with recombination and promote differentiation. For example, a chromosomal fusion polymorphism in some Atlantic salmon (Salmo salar) populations in Canada is associated with precipitation and harbors five times stronger differentiation than neutral SNP variation [11]. The fusion of several chromosomes in Heliconius butterflies is associated with a higher speciation rate [12]. Indeed, karyotype engineering shows that chromosome fusions lead to the rapid emergence of reproductive isolation in Saccharomyces cerevisiae yeast [13]. Translocations can also be involved in speciation: in the house mouse Mus musculus, four incipient species with different karyotypes coexist in the Swiss\u2013Italian Alps"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 7,
+    "text": "Structural genomic variants (SVs) take diverse forms and are ubiquitous drivers of ecological and evolutionary processes."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 8,
+    "text": "Most studies of SVs focus on the adaptive significance of gene duplications and large inversions. Future studies should catalog SVs of all types and sizes and systematically test their evolutionary implications."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 9,
+    "text": "We propose a roadmap and definitions for the study of SVs in ecological and evolutionary genomics."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 10,
+    "text": "Best practices for SV detection are needed to facilitate comparisons across studies."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 1,
+    "paragraph_number": 11,
+    "text": "Integrating population genomic, theoretical, and experimental approaches to SVs will more comprehensively characterize genomic variation, uncover the adaptive and neutral processes shaping the evolutionary trajectory of SVs, and identify the mechanisms by which SVs impact adaptation and speciation."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 2,
+    "paragraph_number": 1,
+    "text": "Trends Trends in in Ecology Ecology & Evolution Evolution Figure 1. Diversity of Structural Variants. Genetic variants vary in size from a single nucleotide to hundreds-of-Mb-long structural variants (SVs). SVs are classified according to how they change the genome sequence. Balanced SVs change the position and/or order of genomic areas. Unbalanced SVs involve a gain or loss of sequence. Note that transposable elements can cause translocations, indels, and/or duplications."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 2,
+    "paragraph_number": 3,
+    "text": "Box 1. SVs Affect the Evolution and Maintenance of Adaptive Traits and Reproductive Barriers at Several Levels of Biological Organization (Figure I) At the genome level, SVs necessarily alter the linear structure (i.e., sequence) of DNA. These changes can affect the order and proximity of genetic elements and disrupt functionality of extant genes, or form new ones, by coupling or uncoupling promoters and coding regions [68]. Changes to DNA sequence can affect the 3D structure of the genome by altering folding patterns and histone interactions. SVs can form secondary structures during meiosis in heterozygotes that can interfere with recombination to varying degrees [65,69]. Suppression of recombination can occur through production of unbalanced meiotic products and by displacement of crossing-overs away from SVs [70]. Some SVs (e.g., fissions and fusions) change the number and size of chromosomes, thereby impacting recombination rates even within homokaryotypes."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 2,
+    "paragraph_number": 5,
+    "text": "SVs can impact the transcriptome in several ways. An underappreciated mechanism, position-effect variegation [71] occurs when changes in the spatial proximity of the DNA sequence to telomeres and centromeres, and thus heterochromatic regions, alters the expression levels of nearby genes. SVs can also change the proximity of regulatory elements to genes, potentially affecting gene expression across the genome [64]. Changes in the position of genetic elements relative to histones and interactions among topologically associated domains can affect the exposure of transcription binding sites, thereby silencing or enhancing transcription [72]. Local effects of SVs on expression include changes in gene dosage [16], expression of de novo genes [68], loss of expression of genes disrupted by SV breakpoints or deletions, and alterations of the epigenetic environment near breakpoints [63,73]. If the SV is associated with reduced recombination, it can maintain LD among genes and regulatory elements [73]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 2,
+    "paragraph_number": 6,
+    "text": "SVs underlie diverse morphological, physiological, behavioral, and life history traits [8] and impact fitness through effects on survival and reproduction When SVs affect recombination, heterokaryotypes can experience partial sterility due to the formation of lethal or inviable recombinant products during meiosis [30]. A lack of recombination prevents purging of deleterious mutations, resulting, over time, in higher fitness of heterokaryotypes [54,75]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 2,
+    "paragraph_number": 7,
+    "text": "SVs are frequently associated with various stages of diversification, including local adaptation [76], premating isolation [7], and speciation [9,54]. Blocks of differentiation are predicted to be favored under adaptation with gene flow [48], and are expected to alter the evolutionary trajectory of polygenic traits under selection because they resemble single loci of large effect, rather than many loci of small effect"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 2,
+    "paragraph_number": 11,
+    "text": "Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx Amplified fragment length polymorphism (AFLP): genomic marker obtained by amplification of a short fragment of DNA cut by restriction enzymes. Polymorphism is characterized by variable lengths. Chromosomal inversion: a genomic structural variant in which a segment of DNA is reversed end-to-end relative to a reference sequence. Copy number variant (CNV): a genomic structural variant in which a segment of DNA is represented in different numbers of copies. The segment can be absent (deletion) or present in two or more copies [duplication(s)] relative to a reference. Expression quantitative trait locus (eQTL): a genomic region that explains variation in mRNA transcript abundance. Gene conversion: process by which one DNA sequence replaces a homologous sequence such that the sequences become identical after the conversion event. Gene duplication: a genomic structural variant, example of CNV, in which a region of DNA that contains a gene is duplicated. Haploblock (block of differentiation): region of reduced recombination, characterized by high LD, and often associated with high local differentiation between genetic groups. Heterokaryotypes/homokaryotypes: individuals that are heterozygous/ homozygous for a structural variant when it is considered as a single locus. The alleles are the different possible haplotypes (e.g., the inverted and noninverted states for an inversion). Insertion/deletion (indel): a genomic structural variant in which a segment of DNA varies in presence or absence relative to a reference. Indels include CNVs and nonreciprocal translocations. Linkage disequilibrium (LD): nonrandom association of alleles at different loci. Microsatellites/minisatellites: a genomic structural variant, example of CNV, constituted by a tract of DNA motifs (1\u201310 bp for micro-, 10\u201360 bp for mini-) repeated 10\u201350 times. Also referred to as tandem repeats and simple sequence repeats. Non\u2010allelic homologous recombination: a form of homologous recombination that occurs between two lengths of DNA that have high sequence Trends Trends in in Ecology Ecology & Evolution Evolution Figure I. Effects of Structural Variants (SVs) on Adaptation and Speciation at Multiple Levels of Biological Organization. From bottom to top and left to right: CELL: Example mechanisms by which SVs impact the genome, from DNA sequence to chromosome. Effects of SVs on gene expression include changes in the distance between genes and their regulatory elements, chromatin state, and gene dosage. ORGANISM: Multiple copies of tRNA ligase in the yellow monkeyflower Mimulus guttatus are associated with shorter flowering time, leading to differential survival in dry years and variation in seed production [26] (photo by D. Lowry). A large CNV in the common murre Uria aalge is associated with differences in plumage and thermal adaptation [17] (drawings by J. Ditner). A 25-Mb inversion in the seaweed fly Coelopa frigida affects a life-history trade-off between larval survival and reproductive success [74] (photo by M. Wellenreuther). The crab and wave ecotypes of Littorina saxatilis periwinkles harbor N17 chromosomal inversions whose frequencies vary between the two microhabitats despite gene flow, suggesting that they are involved in local adaptation [76] (photo by F. Pleijel). Two subspecies of European crow, Corvus corvus corvis and C. corvus corone, differ by a 2.25-kb retrotransposon insertion that affects plumage, a trait involved in premating isolation [7] (photos by R. Burri). Genomic incompatibilities leading to reduced hybrid fitness and reproductive isolation between the bluefin (Lucania goodei) and rainwater (L. parva) killifish are associated with a Robertsonian fusion of the sex chromosome [54] (photos by A. Terceira)."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 3,
+    "paragraph_number": 6,
+    "text": "Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx 3 Gene duplication, and the subsequent evolution of novel functions, is probably the best documented effect of copy number variants (CNVs) on adaptation and diversification [15]. However, CNVs encompass a much wider class of variants, including insertions/deletions (indels), tandem repeats (mini- and microsatellites), and variation in copy number for a given coding or noncoding sequence. They represent the most common SV type and can modify gene dosage and reshape gene structure [16]. A large CNV linked to plumage dimorphism and thermal adaptation in common murres (Uria aalge) appears to suppress recombination locally [17]. Copy number variation associated with toxin resistance has also been demonstrated multiple times, indicating that CNVs may enable rapid adaptation to environmental stressors [18]. Micro- and minisatellite data, used predominantly as neutral markers in the past (but see [19]), also represent a common type of SV with demonstrated functional impact [20,21]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 4,
+    "paragraph_number": 2,
+    "text": "TEs are major modifiers of genome structure [22] and drivers of adaptation and reproductive isolation [23]. TEs represent a type of translocation and/or duplication and a source of indels because they \u2018jump\u2019 from one location to another. TE insertions also lead to segmental duplications and inversions, due to nonallelic homologous recombination [24]. TEs can change during an individual\u2019s lifetime, which makes them an important variant in rapidly changing environments [25]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 4,
+    "paragraph_number": 3,
+    "text": "A Better Understanding of How SVs Affect Evolutionary Processes Is Needed While recent studies provide exciting insights into the role of SVs in adaptation and diversification, they also reveal limitations that hamper progress. For example, many studies investigating the genomic basis of traits from sequence data have found a link between a phenotype and a SV, most often a large inversion or gene duplication (e.g., [18,26\u201328]). Whether such examples are representative of the global importance of SVs or if their prevalence is biased by their relative ease of detection is still unclear. However, with everimproving sequencing and analytical methods, we can now adopt a bottom-up approach and explore genomes independently from phenotypes to identify SVs of different types and sizes that could be associated with different evolutionary processes. Generally, synthesis in the field is slowed by a lack of unified definitions and the absence of a framework to synthesize information from SVs and SNPs in population genomics. We suggest definitions and focus points to guide future investigations and propose a roadmap to integrate SVs into evolutionary genomics (Figure 2, Key Figure)."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 4,
+    "paragraph_number": 4,
+    "text": "Defining and Detecting SVs of all Types and Sizes Sequence and Structural Variation Exist along a Continuous Spectrum Definitions of biological phenomena reflect the thoughts and methods in the field that coined them. \u2018Chromosomal rearrangement\u2019 was used to describe inversions, fusions, and translocations detected at a microscopic scale using cytogenetics. The term \u2018structural variation\u2019 emerged in 2004 with its characterization in the human genome [29], and now generally refers to smallerscale variants detected from sequence data. However, sequence and structural variation exists on a size spectrum ranging from single nucleotide variants (SNVs), including SNPs and single nucleotide indels, up to large SVs affecting hundreds of Mb (Figure 1)."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 4,
+    "paragraph_number": 5,
+    "text": "SVs are also classified according to how they alter the genome, that is, whether they add, delete, or change the position or orientation of DNA (Figure 1). As highlighted by recent reviews on inversions [9,10,30], most studies focus on only one type of SV rather than considering their diversity. For example, CNVs and TEs are often not considered chromosomal rearrangements, resulting in an oversight of similarities shared among SVs. We argue that the field would benefit from jointly similarity, but are not alternate alleles, such as TE copies. Recombination suppression hypothesis: a model in which an inversion is indirectly favored by natural selection because it suppresses recombination between sets of alleles, whereby alleles within a set are favored in similar contexts and each set is favored in a different context. Single nucleotide variant: genomic variant affecting a single base pair, including SNPs and single base-pair indels. SNP: a single base-pair substitution. Structural variant (SV): genomic variation between individuals affecting the presence, abundance, position, and/ or direction of a nucleotide sequence (Figure 1). Translocation: a genomic structural variant in which a segment of DNA is in a different position relative to a reference. Translocations can be either reciprocal or non-reciprocal (generating indels) and affect whole chromosome arms, such as in whole-arm reciprocal translocations. The translocation of a segment of chromosome can result in a change in the total number of chromosomes, either by joining two chromosomes in one (fusion) or splitting a chromosome into two (fission). When fusions/fissions and translocations occur at the centromeres, they are called Robertsonian. Transposable element (TE or transposon): a segment of DNA that can change its position in the genome by either a cut-and-paste mechanism (DNA transposons) or a copy-and-paste mechanism (retrotransposons). TEs are a form of translocation, indel, and/or duplication."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 4,
+    "paragraph_number": 8,
+    "text": "4 Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx considering the full diversity of SVs and advocate for a wider adoption of the term structural variant to encompass all changes in position or direction, as well as gains or losses of sequence, without imposing a size limit, to enable synthesis across studies."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 5,
+    "paragraph_number": 1,
+    "text": "Key Figure A Roadmap for Understanding the Evolutionary Significance of Structural Genomic Variation Trends Trends in in Ecology Ecology & Evolution Evolution Figure 2. Colors indicate different steps towards understanding the role of SVs in adaptation and speciation, from top to bottom."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 5,
+    "paragraph_number": 5,
+    "text": "Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx 5 Systematic Characterization of SVs of All Types and Sizes Is Needed Regions of elevated differentiation linked to phenotypic variation and exhibiting signatures of linkage disequilibrium (LD) (Box 2) are often ascribed to inversions. However, such blocks of differentiation, or haploblocks, can likewise result from other types of SVs (e.g., CNVs [17], fusions [11]) or be due to selective sweeps [31] or introgression [32]. Follow-up analyses are needed to definitively associate a haploblock with a SV. Moreover, indirect identifications are biased towards large SVs (N1 Mb) with large phenotypic effect and/or high sequence divergence, and overlook small, neutral, and recently established SVs."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 6,
+    "paragraph_number": 2,
+    "text": "Recent developments in sequencing and computational methods have enabled direct genomewide characterization of SVs, providing information on SV position, frequency, breakpoints, and gene content [33,34] (Box 2). However, challenges remain. High-quality, chromosome-level reference genomes are seldom available, yet are helpful to localize and characterize SVs. Sampling enough individuals to capture the geographic, phenotypic, and sexual population variation is needed to characterize structural diversity [35], but can be logistically and financially prohibitive. Furthermore, the sensitivity of different detection methods varies with respect to SV size [7,33] and is not generally reported. To enable comparisons and syntheses and identify best practices (e.g., data type, software, and settings), we need simulations and benchmarking to test how detection power varies by analytical approach, SV type, and type of sequence data (Figure 2)."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 6,
+    "paragraph_number": 3,
+    "text": "A Framework for Understanding the Evolutionary Significance of Structural Variation SVs Are Missing Pieces to the Puzzle of Genomic Variation SVs might explain some of the missing heritability in many genotype\u2013phenotype association studies [36]. In the crow Corvus corone, a retrotransposon indel of 2.25 kb explained an additional 10% in plumage coloration variance between two subspecies compared to SNP variation Box 2. Moving from Indirect Evidence to the Direct Detection of SVs (Figure I) An increasing number of studies are uncovering genetic differentiation driven by a subset of colocalized linked SNPs using unsupervised methods such as principal component analysis (PCA) The combination of high differentiation and LD suggests that these SNPs may be associated with a SV reducing recombination. Based on this observation, sliding-window PCAs along the genome were used to screen for these signatures across Helianthus sunflower ecotypes, which identified 37 haploblocks [46]. Similarly, inversions associated with two periwinkle (Littorina saxatilis) ecotypes were identified based on clusters of SNPs in LD Complementary evidence, including higher heterozygosity in putative heterokaryotypes, and recombination and heritability estimates based on genetic maps, can support the presence of an inversion [27]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 6,
+    "paragraph_number": 7,
+    "text": "Direct Evidence: Making the Best of Different Sequencing Methods to Catalog SVs Standard shotgun libraries (i.e., with short insert size, generally b1 kb) sequenced with Illumina short reads are the most common type of sequencing data and can be used to directly detect SVs [79]. However, they are not necessarily the best for identifying SVs, particularly large ones. Mate\u2013pair libraries have more power than shotgun libraries to detect SVs because their paired reads have larger insert sizes (N1 kb) and are more likely to span SV boundaries [5]. Additionally, SVs are often associated with repeats and duplications that are difficult to assemble or map to with short reads [17]. Annotating repetitive elements, such as TEs, in the reference genome is the first step when targeting this class of SVs and understanding their role in the formation of more complex SVs [80]. Long-read sequencing, such as Pacific Biosciences SMRT (PacBio) and Oxford Nanopore Technology (ONT) can help identify SVs and characterize breakpoints, especially for complex SVs [33]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 6,
+    "paragraph_number": 9,
+    "text": "Emerging methods for SV detection also include linked-reads, such as 10\u00d7 Genomics, which provide long-range information up to 100 kb or longer (e.g., [40]), or Strand-Seq, which preserves strand directionalities, but is mostly used in humans [81]. Chromosome conformation capture techniques like Hi-C provide long-range information at the chromosomal, and even interchromosomal, scale and are a powerful tool for characterizing complex SVs [46]. Compared to long reads, Hi-C data provide additional information about the potential effect of SVs on chromatin architecture, including enhancer\u2013promoter contacts and consequent changes in gene expression [82], which is useful for linking genotype and phenotype. Optical mapping, based on visualization of restriction enzyme cut sites, or genetic mapping, based on linkage between genetic markers, are also valuable tools to validate large-scale SVs within or between chromosomes [62,83]. Finally, comparison of de novo assemblies remains an important tool for SV detection, even within species, and can promote the creation of a pangenome reference or a graph-based reference that includes major SVs from several individuals [6,84,85]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 6,
+    "paragraph_number": 11,
+    "text": "6 Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx only [7]. Expression quantitative trait locus (eQTL) studies that integrate CNVs and SNPs in humans have identified several SVs that cause gene expression changes, often with larger effect sizes than SNPs [37,38]. Signatures of population structure can also vary depending on the type of marker. In modern humans, CNVs and deletions show different signatures of population structure and selection, with the former revealing a stronger spatial signature [39]. Moreover, SVs can encompass two to five times more bases of the genome than SNPs [4,40]. SVs also follow different evolutionary trajectories. For instance, some large inversions are under long-term balancing selection and are involved in interspecific introgression [41], while TEs and microsatellites commonly evolve rapidly [21,25]. Therefore, accounting for the range of genetic variation requires going beyond SNPs and integrating SVs into studies investigating genome Trends Trends in in Ecology Ecology & Evolution Evolution Figure I. Overview of Complementary Approaches for Structural Variants (SVs) Detection. Sequencing: Reduced-representation sequencing (RRS) approaches target a fraction of the genome (e.g., RAD-seq and SNP-chips). A chromosome-level genome assembly is usually necessary for the analyses of SVs (but see alternative approaches in [44,57]). Indirect detection: Local PCA refers to principal component analyses performed on windows along the genome. The PCA in the haploblock region highlights a typical pattern with three clusters of individuals, corresponding to the three haploblock variant combinations In contrast, the PCA outside the haploblock shows no clustering. Direct detection: SV detection algorithms are based on sequencing depth, read orientation, and read splitting of short and long reads [4,5,34,35]. RRS provides information on sequencing depth, enabling detection of copy number variants (CNVs) Long reads provide high resolution of SV breakpoints [86]. Hi-C links are chromatin contacts between pairs of loci represented by a triangular heatmap of the number of links. Accumulation of links between distant loci reveals SVs between the target sample and reference [46, 81]. Linked reads are short reads tagged with the same barcodes when originating from the same original DNA fragment (up to 100 kb). SVs can be detected from the long-range information carried by barcoded linked reads [40]. The comparison of genetic maps [27,76], optical maps [7], or full assemblies [6,7] enables the detection of both intra- and inter-chromosomal rearrangements. We refer to large SV when N100 kb (Figure 1 in the main text). Abbreviations: CMS, connected molecule strategies; WGS, whole-genome sequencing."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 7,
+    "paragraph_number": 4,
+    "text": "Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx 7 evolution, levels of standing genetic variation, population structure, demography, phenotype\u2013 genotype associations, and the genomic basis of adaptation and speciation."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 8,
+    "paragraph_number": 1,
+    "text": "Population Genomics Can Reveal the Roles of SVs in Evolutionary Processes Cost-effective ways to analyze SVs at larger scales in nonmodel species are emerging. For example, CNVs and large inversions can be genotyped, directly or indirectly (Box 2), using lowcoverage whole-genome sequencing [42] or reduced-representation sequencing [27,43,44]. Complex and large SVs are better characterized by long-range information (Box 2), but these methods can be expensive. New tools are necessary to leverage information from a subset of diverse and well-sequenced genomes to genotype SVs in larger datasets."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 8,
+    "paragraph_number": 2,
+    "text": "Some analytical methods developed for traditional markers may be used to mine information on SVs from existing population-scale datasets. For instance, population genomics based on CNVs uses an extension of the FST index of differentiation called VST [45]. Coding SVs similarly to SNPs and genotyping different SVs for large numbers of individuals is a challenge. CNVs can be relatively easily summarized in a matrix of read depths, but expressing genotypes as numbers of copies remains difficult. For balanced SVs (Figure 1), analyses can either focus on SNPs genotyped within the rearranged region [5], or consider the SV as an individual locus, with the latter being a more powerful approach to finding associations with phenotypic and environmental variation [46]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 8,
+    "paragraph_number": 3,
+    "text": "The joint analysis of SNPs and SVs in a population genomics framework will allow us to test whether sequence differentiation associated with SVs has adaptive value or is due to demographic and population structure (e.g., [44]). Systematic analysis of SVs will address the detection bias towards large inversions and help to unveil how different features of SVs (e.g., size, position, content, type, and breakpoints) influence evolutionary trajectories (e.g., [47]). Comparing SNPs and different kinds of SVs will reveal factors causing variability in evolutionary rates across the genome. Finally, comparing numbers and distributions of SVs among populations connected by varying levels of gene flow will improve our understanding of how gene flow-selection balance affects the genomic architecture of adaptive traits [48]. Altogether, such studies will enable us to shed light on when and how SVs form, persist, and spread among populations and species (e.g., de novo formation or introgression, drift, balancing, or fluctuating selection)."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 8,
+    "paragraph_number": 4,
+    "text": "Theoretical Approaches Are Needed to Predict Evolutionary Patterns Specific to SVs Theoretical models have been pivotal to developing hypotheses on why SVs might follow a different evolutionary pathway compared to SNPs [49\u201351]. Models have shed light on TE dynamics [52] and the role of recombination suppression in adaptation with gene flow, particularly in inversions [49\u201351]. Less is known about the evolutionary significance of other features of SVs, such as the multiallelic characteristics of CNVs, the impacts of reduced effective population sizes (Ne) of inversions and deletions, and differences in mutation rates within SVs. Theoretical studies targeting a wider variety of SVs are needed to understand how different features relate to their origin and maintenance, and the relative contribution of selective and neutral processes in their evolution."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 8,
+    "paragraph_number": 5,
+    "text": "Forward individual-based simulations are a promising tool to account for SV complexity under realistic evolutionary scenarios. For instance, the program SLiM 3 [53] models population genetic processes including LD, and one can, by leveraging its scriptability, model SVs such as inversions, indels, and TEs. Such simulations enable evaluating the relative effects of gene flow, drift, and selection on SV dynamics (e.g., [54]) and, reciprocally, to predict the conditions under which SVs represent relevant architectures for adaptation and differentiation [51]. Forward 8 Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx simulations can model expected signatures of selective and demographic processes, enabling comparisons between simulated and empirical data to identify the specific processes and range of conditions that explain SV distributions in natural populations. Simulated genomic data are also useful for testing the performance of genome-scan methods [55], especially regarding the effects of SVs on detecting putative targets of selection [56]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 1,
+    "text": "Backward simulations based on coalescent theory can also contribute to our understanding of SV evolution. Comparing demographic models sheds light on the evolutionary history of SVs [41,57]. Such simulations enable comparisons of coalescence times across different parts of the genome, or between different variant types, populations, or species. They provide a projection of the expected polymorphism frequencies under neutrality, against which the distribution of SVs can be contrasted [58]. Thus, backward simulations are another way of disentangling the contributions of demographic and selective processes to creating observed SV frequencies."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 2,
+    "text": "Experiments Can Reveal the Mechanisms by Which SVs Impact Phenotypes Common garden and reciprocal transplant experiments comparing groups with different SV genotypes are classic approaches for demonstrating adaptation [59,60]. However, care must be taken to account for differences in genomic background. Combining numerous artificial crosses with statistical modelling can help to separate the effects of SVs from the rest of the genome, yet genetically modifying SVs into alternate genomic backgrounds in a full factorial design would be ideal."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 3,
+    "text": "Experimental evolution approaches can test theoretical predictions about the genomic architecture of polygenic traits. This approach revealed alternate genomic architectures underlying the evolution of growth rate in the marine fish Menidia menidia following size-selective harvesting. An extended haploblock was implicated in the evolution of smaller sizes in one experimental population but not its replicate, where evolutionary changes were associated with unlinked SNPs [61]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 4,
+    "text": "Analyses of gene expression can shed further light on the adaptive roles of SVs and has supported the recombination suppression hypothesis [49,60,62] and direct gene effects near breakpoints [63] (Box 1). Strong support for the recombination suppression hypothesis was found in Drosophila melanogaster by comparing gene expression patterns between natural inversions, which influenced expression genome-wide, and genetically engineered synthetic inversions, which had negligible effects on expression [64]. Gene expression analyses can reveal gene dosage effects of CNVs on associated phenotypes [16]. Experimental knockdown of genes inside rearrangements can be used to functionally annotate SVs [28]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 5,
+    "text": "There is a pressing need for experiments directed towards understanding the effects of SVs on recombination. High resolution sequencing of parent\u2013offspring trios can be used to measure recombination rates of regions within and proximal to SVs [65]. Note that the effects of recombination suppression can be diluted by gene conversion, whose rates within SVs can be quantified using a similar approach [66]."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 6,
+    "text": "Concluding Remarks and Future Perspectives The field of structural genomic variation has matured to move beyond the most easily detected variants and to investigate the mechanisms underlying the relevance of all SVs for evolution. As more high-quality genome assemblies become available, we expect SVs to be investigated in an increasing number and diversity of nonmodel organisms."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 8,
+    "text": "How can we develop appropriate bioinformatic tools to detect SVs of all sizes and genotype them in a large number of samples?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 9,
+    "text": "What are the abundance, diversity, and distribution of SVs in natural populations and across taxonomic groups?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 10,
+    "text": "How do SVs interact with sequence (e.g., SNP) variation and with each other? To what extent do different SVs predispose the offspring of carriers to more SVs?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 11,
+    "text": "What are the roles of different types of SVs in evolutionary processes? For instance, which characteristics make some SVs particularly involved in adaptation and speciation? Conversely, how do neutral and adaptive processes determine the evolutionary trajectory of SVs?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 12,
+    "text": "What is the relative influence of different types of SVs and sequence variation at different points along the speciation continuum and among systems with varying levels of gene flow?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 13,
+    "text": "What are the proximate mechanisms (e.g., through linkage, effects on recombination, effects on 3D genome structure and gene expression, etc.) by which SVs influence evolution by natural and sexual selection?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 14,
+    "text": "How can the unique properties of different types of SVs be harnessed for use as genetic markers to contribute to new understandings in population genomics and demography? What is the evolutionary rate of different SVs?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 15,
+    "text": "How can SV markers be applied to agriculture, selective breeding programs, resource management, and conservation?"
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 9,
+    "paragraph_number": 17,
+    "text": "Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx 9 Future syntheses of these studies will provide new insights into several outstanding questions regarding the respective roles of structural and sequence variation in evolution, differences in abundances and distributions of SVs among taxa, how SVs relate to ecological specialization, and how they affect recombination (see Outstanding Questions). By cataloging the whole spectrum of genetic variation, we will gain insights into the mechanisms that create genomic hotspots of diversity. Because evolutionary dynamics of SVs differ from other parts of the genome, they will help us tease apart evolutionary and demographic effects on genome evolution that were hitherto hidden. Resurrecting classic micro- and minisatellite data and treating them as SVs might facilitate a better understanding of the role of these variants in evolutionary processes (but see [67]). Furthermore, systematic inclusion of SVs in both empirical and theoretical studies will enable a better understanding of the roles of selection, drift, and gene flow in SV maintenance and how population connectivity across large and small scales impacts SV distribution and evolution."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 10,
+    "paragraph_number": 2,
+    "text": "In the future, SVs will be integrated into ecological and evolutionary applications such as conservation genomics, plant and animal breeding, and global change biology, as well as applications based on ancient and environmental DNA. It is therefore fundamental that we enable future comparisons across studies and taxa by developing generalizable tools and best practices in order to maximize the ecological and evolutionary insights provided by the joint analysis of genome sequence and structure."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 10,
+    "paragraph_number": 4,
+    "text": "We are grateful to Louis Bernatchez for initially gathering us around this topic. We would like to thank H.T. Baalsrud, L. Bernatchez, Y. Dorant, N. Gemmell, B. Haller, S. Jentoft, M. Laporte, M. Newberry, C. Rougeux, the UNVEIL network and two anonymous reviewers for constructive discussions about SVs and comments on the manuscript. Special thanks to E. Berdan, R. Buri, B. Fuller, K. Johannesson, D. Lowry, T. Nelson, A. Terceira, M. Weissensteiner, J. Wolf, and D. Lowry for providing photographs for Figure I (see Figure I in Box 1), and J. Ditner for drawings of Uria aalge. We would like to acknowledge the funding agencies that have supported our work on SVs (C.M.: Fonds de Recherche du Qu\u00e9bec FRQS260724, FRQNT200125 and Banting postdoctoral fellowships 162647; R.A.O.: James S. McDonnell Foundation Postdoctoral Fellowship 220020556; A.T.: National Institutes of Health NIH R35GM128843; M.W.: MBIE Endeavour Re- search Programme: C11X1603, Royal Society of New Zealand Marsden MFP-PAF1801, Swedish Research Council Vetenskapsr\u00e5det 2012-3996)."
+  },
+  {
+    "filename": "M\u00e9rot C, Oomen RA, Tigano A, WELLENREUTHER M (2020).pdf",
+    "page_number": 10,
+    "paragraph_number": 9,
+    "text": "The linear arrangement of six sex-linked factors in Drosophila, as shown by their mode of association. McClintock, B. (1931) Cytological Observations of Deficiencies Involving Known Genes, Translocations and an Inversion in Zea mays, University of Missouri, College of Agriculture, Agricultural Experiment Station 3. Bridges, C.B. (1936) The bar \u201cgene\u201d a duplication. The genomic pool of standing structural variation outnumbers single nucleotide polymorphism by threefold in the marine teleost Chrysophrys auratus. The role of structural genomic variants in population differentiation and ecotype formation in Timema cristinae walking sticks. Chakraborty, M. et al. (2019) Structural variants exhibit widespread allelic heterogeneity and shape variation in complex traits. The population genomics of structural variation in a songbird genus. Going beyond SNPs: the role of structural genomic variants in adaptive evolution and species diversification. Wellenreuther, M. and Bernatchez, L. (2018) Eco-evolutionary genomics of chromosomal inversions. Trends Ecol. Faria, R. et al. (2019) Evolving inversions. Trends Ecol. Wellband, K. et al. (2019) Chromosomal fusion and life historyassociated genomic variation contribute to within-river local adaptation of Atlantic salmon. (2016) Major improvements to the Heliconius melpomene genome assembly used to confirm 10 chromosome fusion events in 6 million years of butterfly evolution. (2018) Karyotype engineering by chromosome fusion leads to reproductive isolation in yeast. Gim\u00e9nez, M.D. et al. (2017) A half-century of studies on a chromosomal hybrid zone of the house mouse. Ohno, S. (2013) Evolution by Gene Duplication, Springer Science & Business Media 16. The impact of human copy number variation on gene expression. A complex copy number variant underlies differences in both colour plumage and cold adaptation in a dimorphic seabird. The genomic landscape of rapid repeated evolutionary adaptation to toxic pollution in wild fish. Buonaccorsi, V.P. et al. (2011) Characterization of a genomic divergence island between black-and-yellow and gopher Sebastes rockfishes. (2018) Transcribed microsatellite allele lengths are often correlated with gene expression levels in natural sunflower populations. 10 Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx 21. Bagshaw, A.T.M. (2017) Functional mechanisms of microsatellite DNA in eukaryotic genomes. The impact of transposable elements in environmental adaptation. Serrato-Capuchina, A. and Matute, D.R. (2018) The role of transposable elements in speciation. Klein, S.J. and O\u2019Neill, R.J. (2018) Transposable elements: genome innovation, chromosome diversity, and centromere conflict. Chromosom. Rey, O. et al. Adaptation to global change: a transposable element\u2013epigenetics perspective. Trends Ecol. Nelson, T.C. et al. (2019) Extreme copy number variation at a tRNA ligase gene affecting phenology and fitness in yellow monkeyflowers. Multiple chromosomal inversions contribute to adaptive divergence of a dune sunflower ecotype. A genetic mechanism for femalelimited Batesian mimicry in Papilio butterfly. Feuk, L. et al. (2006) Structural variation in the human genome. Revisiting the impact of inversions in evolution: from population genetic markers to drivers of adaptive shifts and speciation? Population differentiation as a test for selective sweeps. The origin and remolding of genomic islands of differentiation in the European sea bass. (2019) Structural variation in the sequencing era. (2019) Structural variant calling: the long and the short of it. Characterizing the major structural variant alleles of the human genome. Missing heritability and strategies for finding the underlying causes of complex disease. Chiang, C. et al. (2017) The impact of structural variation on human gene expression. Adaptive archaic introgression of copy number variants and the discovery of previously unknown human genes. Sudmant, P.H. et al. (2015) Global diversity, population stratification, and selection of human copy-number variation. Science 349, aab3761 40. A. Tigano, et al., Comparative and population genomics approaches reveal the basis of adaptation to deserts in a small rodent. Published online 4 March 2020, https://doi.org/ 10.1111/mec.15401 41. Korunes, K.L. et al. (2019) Inversions shape the divergence of Drosophila pseudoobscura and D. persimilis on multiple timescales. Hill, T. and Unckless, R.L. (2019) A deep learning approach for detecting copy number variation in next-generation sequencing data. Paralogs are revealed by proportion of heterozygotes and deviations in read ratios in genotyping-bysequencing data from natural populations. Dorant, Y. et al. (2020) Copy number variants outperform SNPs to reveal genotype-temperature association in a marine species. Redon, R. et al. (2006) Global variation in copy number in the human genome. (2019) Massive haplotypes underlie ecotypic differentiation in sunflowers. (2019) Fine-scale position effects shape the distribution of inversion breakpoints in Drosophila melanogaster. Tigano, A. and Friesen, V.L. (2016) Genomics of local adaptation with gene flow. Kirkpatrick, M. and Barton, N. (2006) Chromosome inversions, local adaptation and speciation. Genetics 173, 419\u2013434 50. Guerrero, R.F. and Kirkpatrick, M. (2014) Local adaptation and the evolution of chromosome fusions. Genomic rearrangements and the evolution of clusters of locally adaptive loci. Charlesworth, B. and Charlesworth, D. (1983) The population dynamics of transposable elements. SLiM 3: Forward genetic simulations beyond the Wright\u2013Fisher model. Berdan, E.L. et al. (2019) Muller\u2019s ratchet and the long-term fate of chromosomal inversions. Lotterhos, K.E. and Whitlock, M.C. (2014) Evaluation of demographic history and neutral parameterization on the performance of FST outlier tests. The effect of neutral recombination variation on genome scans for selection. Cayuela, H. et al. (2019) Standing genetic variation and chromosomal rearrangements facilitate local adaptation in a marine fish. Xue, A.T. et al. (2018) Differential effect of selection against LINE retrotransposons among vertebrates inferred from wholegenome data and demographic modeling. Wellenreuther, M. et al. (2017) Local adaptation along an environmental cline in a species with an inversion polymorphism. Systems genetic analysis of inversion polymorphisms in the malaria mosquito Anopheles gambiae. Contrasting genomic shifts underlie parallel phenotypic evolution in response to fishing. Coughlan, J.M. and Willis, J.H. (2019) Dissecting the role of a large chromosomal inversion in life history divergence throughout the Mimulus guttatus species complex. Multiple large inversions and breakpoint rewiring of gene expression in the evolution of the fire ant social supergene. (2018) Linked genetic variation and not genome structure causes widespread differential expression associated with chromosomal inversions. Rowan, B.A. et al. (2019) An ultra high-density Arabidopsis thaliana crossover map that refines the influences of structural variation and epigenetic features. Genetics 213, 771\u2013787 66. Korunes, K.L. and Noor, M.A.F. (2019) Pervasive gene conversion in chromosomal inversion heterozygotes. SSCP is not so difficult: the application and utility of single-stranded conformation polymorphism in evolutionary biology and molecular ecology. Stewart, N.B. and Rogers, R.L. (2019) Chromosomal rearrangements as a source of new gene formation in Drosophila yakuba. Rieseberg, L.H. (2001) Chromosomal rearrangements and speciation. Trends Ecol. Crown, K.N. et al. (2018) Local inversion heterozygosity alters recombination throughout the genome. Curr. Elgin, S.C.R. and Reuter, G. (2013) Position-effect variegation, heterochromatin formation, and gene silencing in Drosophila. Cold Spring Harb. Perspect. Paulsen, J. et al. (2019) Long-range interactions between topologically associating domains shape the four-dimensional genome during differentiation. Lavington, E. and Kern, A.D. (2017) The effect of common inversion polymorphisms In(2L)t and In(3R)Mo on patterns of transcriptional variation in Drosophila melanogaster. G3 7, 3659\u20133668 Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx 11 74. M\u00e9rot, C. et al. (2019) Balancing selection via life-history tradeoffs maintains an inversion polymorphism in a seaweed fly. Jay, P. et al. (2019) Mutation accumulation in chromosomal inversions maintains wing pattern polymorphism in a butterfly. Multiple chromosomal rearrangements in a hybrid zone between Littorina saxatilis ecotypes. Oomen, R.A. et al. (2020) Consequences of single-locus and tightly linked genomic architectures for evolutionary responses to environmental change. Li, H. and Ralph, P. (2019) Local PCA shows how the effect of population structure differs along the genome. Genetics 211, 289\u2013304 79. Kosugi, S. et al. (2019) Comprehensive evaluation of structural variation detection algorithms for whole genome sequencing. Van\u2019t Hof, A.E. et al. The industrial melanism mutation in British peppered moths is a transposable element. Chaisson, M.J.P. et al. (2019) Multi-platform discovery of haplotype-resolved structural variation in human genomes. (2018) Polymer physics predicts the effects of structural variants on chromatin architecture. Chakraborty, M. et al. (2018) Hidden genetic variation shapes the structure of functional elements in Drosophila. Sherman, R.M. et al. (2019) Assembly of a pan-genome from deep sequencing of 910 humans of African descent. Paten, B. et al. (2017) Genome graphs and the evolution of genome inference. Picky comprehensively detects highresolution structural variants in nanopore long reads. Methods 15, 455\u2013460 12 Trends in Ecology & Evolution, Month 2020, Vol. xx, No. xx"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "88202.pdf",
+    "page_number": 1,
+    "paragraph_number": 3,
+    "text": "\u2022 18 hits that were also present in targeted method (10 detected, 8 < LOD) \u2022 58 hits representing potential novel PFAS (identification level 4 according to Schymanski et al.: accurate mass and chemical formula only5) \u2022 27 detected in all pools \u2022 33 detected in < 100% and > 50% of pools \u2022 Need to collect fragment data to determine validity of potential identifications \u2022 Analysis using liquid chromatography and Thermo Fisher Orbitrap mass spectrometer \u2022 Full scan mode (negative and positive electrospray ionization, m/z 1501000) \u2022 Widely used in industrial and consumer products \u2022 Linked to adverse health outcomes \u2022 Subject to long-range transport (LRT) \u2022 Highly persistent (\u201cforever chemicals\u201d) and bioaccumulative Thank you to INSPQ for providing samples and lab space, to the residents of Nunavik for their participation in this study, and to Universit\u00e9 de Montr\u00e9al for providing lab space, instrumentation, and technical assistance. Thank you to A. O. de Silva, A. Aker, and T. Smythe for helpful discussion. This work was funded by Sentinelle Nord and an NSERC doctoral fellowship."
+  },
+  {
+    "filename": "88202.pdf",
+    "page_number": 1,
+    "paragraph_number": 15,
+    "text": "\u2022 Detected 13/70 targeted PFAS including 2 novel PFAS (PFECHS and 7:3 FTCA) \u2022 Many non-detected compounds = likely good news for Nunavik population \u2022 Concentrations \u2191 with age 1. Int. Health Res. 2019 29 (6), 643-656 4. Liu, Y., D'Agostino, L.A., Qu, G., Jiang, G., Martin, J.W. Trends Analyt. Schymanski, E.L., Jeon, J., Gulde, R., Fenner, K., Ruff, M., Singer, H.P., and Hollender, J. ES&T. 2014 48 (4), 2097-2098 \u2022 Multiple PFAS have been phased out and regulated \u2022 Phase-outs \u2192 development and use of replacement PFAS \u2022 New PFAS often not monitored \u2192 unknown health and environmental risks \u2022 Need for new targeted and untargeted methods to detect and identify novel PFAS \u2022 First application of a method of 70 PFAS to human serum from Arctic populations \u2022 Samples from Qanuilirpitaa? health survey (Nunavik, 2017) \u2022 ~1300 human serum samples, pooled by:"
+  },
+  {
+    "filename": "88202.pdf",
+    "page_number": 1,
+    "paragraph_number": 28,
+    "text": "Contrary to general Canadian population, but in line with previous work in Canadian Arctic1 \u2022 Cyclic PFOS analogue \u2022 Detected in all except youngest age group \u2022 Correlates with PFOS (R = 0.93) but low concentrations (200x < PFOS) \u2022"
+  },
+  {
+    "filename": "88202.pdf",
+    "page_number": 1,
+    "paragraph_number": 42,
+    "text": "\u2022 Method not optimized for shorterchain compounds (non-detection of short chain PFCAs may be false negatives due to poor sensitivity) \u2022 Pools of different size \u2022 No significant differences by sex or region \u2022 60+ age group significantly different \u2022 Most compounds display increase with age \u2022 C7-C9 PFCAs and 7:3 FTCA display a U-shaped distribution Fig. 2 Map of the study area indicating the individual communities (reproduced \u2022 Peak picking, chromatogram deconvolution, alignment, suspect screening \u2022 Blank subtraction of suspect screening data performed in Excel \u2022 Meansample \u2265 5 \u00d7 meanblank Fig. 6 Concentration of PFOS (left) and PFNA (right) by age group Future Work: \u2022 Collect fragmentation data \u2022 Attempt to confirm suspects using isotope peaks, fragmentation, and ideally standards \u2022 Further work on nontarget data (comparison with other populations, searching for common PFAS fragments, etc.) \u2022 U-shaped distribution observed in women but not men \u2022 May represent different PFAS sources, and/or losses from breastfeeding \u2022 Not statistically significant (ANOVA) \u2022 Quantification in Thermo Fischer instrument software \u2022 Statistical analysis in R \u2022 Non-detected values replaced with 1\u20442 LOD values \u2022 ANOVA for comparison between groups \u2022 Pearson correlation coefficient for correlation between compounds Perfluoroheptanoic acid PFHpA 0.06 (<LOD-0.20) 73 0.006 Perfluorooctanoic acid PFOA 1.01 (0.45-2.08) 100 0.004 Perfluorononanoic acid PFNA 3.49 (1.24-9.59) 100 0.004 Perfluorodecanoic acid PFDA 0.66 (0.25-1.99) 100 0.002 Perfluoroundecanoic acid PFUnDA 0.65 (0.030-1.86) 100 0.004 Perfluorododecanoic acid PFDoDA 0.02 (<LOD-0.04) 30 0.01 Perfluorotridecanoic acid PFTrDA 0.09 (0.04-0.18) 100 0.006 Perfluorotetradecanoic acid PFTeDA 0.01 (<LOD-0.02) 73 0.003 Perfluoro- 100 0.001 Perfluoroheptanesulfonic acid PFHpS 0.17 (0.04-0.48) 100 0.001 Perfluorooctanesulfonic acid PFOS 7.16 (2.30-21.9) 100 0.002 Novel 7:3 fluorotelomer carboxylic acid 7:3 FTCA 0.13 (<LOD-0.44) 50 0.01 Perfluoro-4-ethylcyclohexane PFECHS 0.04 (<LOD-0.10) 83 0.001 Table 1 Identities and human serum concentrations of PFAS identified in study participants"
+  }
+]
