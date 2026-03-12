@@ -1,15 +1,13 @@
-# IKTRACE  
-## A Natural Language Processing Framework for Identifying Indigenous Knowledge Representation in Academic Literature  
+# IKTRACE: A Natural Language Processing Framework for Identifying Indigenous Knowledge Representation in Academic Literature  
 
-This repository contains the implementation and research artifacts for the paper:  
-**IKTRACE: A Natural Language Processing Framework for Identifying Indigenous Knowledge Representation in Academic Literature.**  
+This repository contains the implementation and research outputs for the associated publication.
 
-The project introduces a community-informed taxonomy and a multi-method NLP pipeline for identifying Indigenous Knowledge (IK) representations in academic literature while respecting Indigenous Data Sovereignty principles.  
+The project introduces a community-informed taxonomy and a multi-method NLP pipeline for identifying Indigenous Knowledge (IK) representations in academic literature in alignment with Indigenous Data Sovereignty principles. 
 
-**Raw source documents are not included due to copyright and Indigenous Data Sovereignty considerations.**  
-**The LLM-based extraction component described in the paper (LlamaExtract) is not included, as outputs require further human validation.**  
+Raw source documents are not included in this repository due to copyright restrictions.
 
----
+The LLM-based extraction component described in the paper (LlamaExtract) is not included, as its outputs are undergoing further validation.
+
 
 ## Indigenous Data Sovereignty and Ethical Use  
 
@@ -24,9 +22,8 @@ Users of this repository must:
 
 Some materials are intentionally excluded to ensure responsible data stewardship.  
 
----
 
-## Repository Contents (Brief)
+## Repository Contents
 
 This repository includes:  
 
@@ -38,7 +35,6 @@ This repository includes:
 - Knowledge graph export files  
 - NLP pipeline implementation code  
 
----
 
 ## Repository Structure
 
